@@ -1,0 +1,26 @@
+{
+    "id": "709DFCB9",
+    "path": "~/2026_exam2_start/practice_script.sh",
+    "project_path": null,
+    "type": "sh",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1774451173505.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "25,27",
+        "scrollLine": "9"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1774452410,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1774453355738,
+    "read_only": false,
+    "read_only_alternatives": []
+}

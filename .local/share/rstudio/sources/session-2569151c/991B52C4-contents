@@ -1,0 +1,12 @@
+a = 5
+b = 6
+
+print(a**2 + b**2)
+
+s = "We tried list and we tried dicts also we tried Zen"
+a = 21
+b = 26
+c = 96 
+d = 0-1
+
+print(s[a:b], s[c:d])

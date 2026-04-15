@@ -1,0 +1,56 @@
+library(tidyverse)
+library(lubridate)
+library(gsheet)
+fishdata <- read_csv('https://tinyurl.com/fish439')
+head(fishdata)
+ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()
+ggplot2::aes(x, y)
+library(tidyverse)
+library(lubridate)
+library(gsheet)
+fishdata <- read_csv('https://tinyurl.com/fish439')
+head(fishdata)
+ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()
+ggplot2::aes(x, y)
+#Relationship between temp and nitrogen excretion
+ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()+geom_smooth(method = "lm")
+#Relationship between temp and nitrogen excretion
+ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()+geom_smooth(method = "lm")
+#Relationship between temp and nitrogen excretion
+ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+#Weight and N excretion
+ggplot(data = fishdata, mapping = aes(x = `Body mass_g`, `Per capita N excretion rate`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+#frequncy of different sizes of fish
+ggplot(fishdata, aes(`Body mass_g`))+geom_histogram()
+library(tidyverse)
+library(ggplot2)
+mountstdata <- read_csv('https://tinyurl.com/mountst')
+head(mountstdata)
+mountdata <- read_csv('https://tinyurl.com/mountst')
+mountdata <- read_csv('https://tinyurl.com/mountst')
+library(tidyverse)
+library(lubridate)
+library(gsheet)
+mountdata <- read_csv('https://tinyurl.com/mountst')
+#putting the data from the google sheet into fishdata
+fishdata <- read_csv('https://docs.google.com/spreadsheets/d/1r2ukTFVIdHp6PAAq2Avd9nV5fvUErl0Be5F6ma004Xo/edit?gid=1409658518#gid=1409658518')
+mountdata <- read_csv('http://tinyurl.com/mtsthelens111')
+head(mountdata)
+mountdata <- read_csv ('http://tinyurl.com/mtsthelens111')
+library(tidyverse)
+library(lubridate)
+library(gsheet)
+mountdata <- read_csv('http://tinyurl.com/mtsthelens111')
+head(mountdata)
+ggplot(data = mountdata, mapping = aes(x = `year`, y = `richness`))+geom_point()+geom_smooth(method = "lm", se = FALSE) #se is standard error, gets rid of the standard error
+#putting the data from the google sheet into fishdata
+fishdata <- read_csv('https://tinyurl.com/fishdata')
+view(mountdata)
+ggplot(data = mountdata, mapping = aes(x = `first_year`, y = `richness`))+geom_point() #se is standard error, gets rid of the standard error
+library(tidyverse)
+library(lubridate)
+library(gsheet)
+mountdata <- read_csv('http://tinyurl.com/mtsthelens111')
+head(mountdata)
+view(mountdata)
+ggplot(data = mountdata, mapping = aes(x = `first_year`, y = `richness`))+geom_point() #se is standard error, gets rid of the standard error

@@ -1,0 +1,109 @@
+#!/usr/bin/env bash
+# Usage: bash Exam_2.sh
+
+# list files (optional check)
+ls ../shared/feederwatch
+
+########################################
+# STEP 1: Find rare species (overall)
+########################################
+awk -F',' '
+FNR==1 { next }
+{
+    count[$12]++
+}
+END {
+    for (s in count) {
+        if (count[s] == 1) {
+            print s
+        }
+    }
+}
+' ../shared/feederwatch/PFW_all_*.csv > rare_species.txt
+
+########################################
+# STEP 2: Create rare_birds.csv
+# (with scientific + common names)
+########################################
+awk -F',' '
+BEGIN {
+    while ((getline line < "rare_species.txt") > 0) {
+        rare[line]=1
+    }
+    print "Species code,Scientific name,Common name,Year,Location ID,LATITUDE,LONGITUDE,State"
+}
+
+# Load translation table
+FNR==NR {
+    if (NR > 1) {
+        sci[$1] = $2
+        com[$1] = $3
+    }
+    next
+}
+
+# Process feederwatch data
+FNR==1 { next }
+
+{
+    if ($12 in rare) {
+        print $12 "," sci[$12] "," com[$12] "," $10 "," $1 "," $2 "," $3 "," $4
+    }
+}
+' ../shared/feederwatch/PFW_spp_translation_table_May2024.csv \
+  ../shared/feederwatch/PFW_all_*.csv > rare_birds.csv
+
+########################################
+# STEP 3: Find rare species by year
+########################################
+awk -F',' '
+FNR==1 { next }
+{
+    key = $12 "_" $10
+    count[key]++
+}
+END {
+    for (k in count) {
+        if (count[k] == 1) {
+            print k
+        }
+    }
+}
+' ../shared/feederwatch/PFW_all_*.csv > rare_species_yearly.txt
+
+########################################
+# STEP 4: Create rare_birds_yearly.csv
+########################################
+awk -F',' '
+BEGIN {
+    while ((getline line < "rare_species_yearly.txt") > 0) {
+        rare[line]=1
+    }
+    print "SPECIES_CODE,SCIENTIFIC_NAME,COMMON_NAME,Year,LOC_ID,LATITUDE,LONGITUDE,SUBNATIONAL1_CODE"
+}
+
+# Load translation table
+FNR==NR {
+    if (NR > 1) {
+        sci[$1] = $2
+        com[$1] = $3
+    }
+    next
+}
+
+# Process feederwatch data
+FNR==1 { next }
+
+{
+    key = $12 "_" $10
+    if (key in rare) {
+        print $12 "," sci[$12] "," com[$12] "," $10 "," $1 "," $2 "," $3 "," $4
+    }
+}
+' ../shared/feederwatch/PFW_spp_translation_table_May2024.csv \
+  ../shared/feederwatch/PFW_all_*.csv > rare_birds_yearly.csv
+
+########################################
+# DONE
+########################################
+echo "done"

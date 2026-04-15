@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "Welcome to the automated Hidden Markov Model search tool!"
+echo "Before we get started, please check you are in the correct directory"
+pwd #prints working directory
+bash
+echo "Installing packages..."
+

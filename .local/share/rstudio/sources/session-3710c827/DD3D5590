@@ -1,0 +1,26 @@
+{
+    "id": "DD3D5590",
+    "path": "~/2026_exam2_start/Exam_2.sh",
+    "project_path": null,
+    "type": "sh",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1775154899800.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "14,5",
+        "scrollLine": "80"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1775239187,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1775239187660,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,12 @@
+library(tidyverse)
+library(lubridate)
+library(gsheet)
+
+
+mountdata <- read_csv('http://tinyurl.com/mtsthelens111')
+
+head(mountdata)
+
+view(mountdata)
+ggplot(data = mountdata, mapping = aes(x = `first_year`, y = `richness`))+geom_point() #se is standard error, gets rid of the standard error                
+ggplot2::aes(x, y)                 

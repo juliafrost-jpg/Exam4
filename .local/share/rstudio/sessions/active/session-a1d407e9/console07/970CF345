@@ -1,0 +1,69 @@
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ [K[julia.frost@ip-10-140-2-9 ~]$ [K[julia.frost@ip-10-140-2-9 ~]$ [K[julia.frost@ip-10-140-2-9 ~]$ [K[julia.frost@ip-10-140-2-9 ~]$ [K[julia.frost@ip-10-140-2-9 ~]$ #!/bin/bash
+[?2004l]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ echo "Welcome to the automated Hidden Markov Model search tool!"
+[?2004lWelcome to the automated Hidden Markov Model search tool!
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ chmod +x HMMsearch.sh # runs the shell script in the terminal
+[?2004lchmod: cannot access 'HMMsearch.sh': No such file or directory
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ echo "Before we get started, please check your directory"
+[?2004lBefore we get started, please check your directory
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ pwd 
+[?2004l/home/julia.frost
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ #!/bin/bash
+[?2004l]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ echo "Welcome to the automated Hidden Markov Model search tool!"
+[?2004lWelcome to the automated Hidden Markov Model search tool!
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ echo "Before we get started, please check your directory"
+[?2004lBefore we get started, please check your directory
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ pwd 
+[?2004l/home/julia.frost
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ [K[julia.frost@ip-10-140-2-9 ~]$ [K[julia.frost@ip-10-140-2-9 ~]$ echo "Installing packages..."
+[?2004lInstalling packages...
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ conda install -c bioconda hmmer
+[?2004lbash: conda: command not found
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ install -c bioconda hmmer
+[?2004linstall: cannot stat 'bioconda': No such file or directory
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ install hmmer
+[?2004linstall: missing destination file operand after 'hmmer'
+Try 'install --help' for more information.
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ install.hmmer
+[?2004lbash: install.hmmer: command not found
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ bash
+[?2004l]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ [7mconda install -c bioconda hmmer[27mconda install -c bioconda hmmer
+[?2004lbash: conda: command not found
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ wget http://eddylab.org/software/hmmer/hmmer/tar.gz
+[?2004l make install
+--2026-04-14 12:41:42--  http://eddylab.org/software/hmmer/hmmer/tar.gz
+Resolving eddylab.org (eddylab.org)... 96.126.110.11, 2600:3c03::f03c:91ff:fec8:383c
+Connecting to eddylab.org (eddylab.org)|96.126.110.11|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2026-04-14 12:41:42 ERROR 404: Not Found.
+
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ tar zxf hmmer.tar.gz
+[?2004ltar (child): hmmer.tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ cd hmmer-3.4
+[?2004lbash: cd: hmmer-3.4: No such file or directory
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ ./configure --prefix=/usr/local 
+[?2004lbash: ./configure: No such file or directory
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ make
+[?2004lmake: *** No targets specified and no makefile found.  Stop.
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ sudo make install
+[?2004l
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+For security reasons, the password you type will not be visible.
+
+[sudo] password for julia.frost: 
+julia.frost is not in the sudoers file.
+This incident has been reported to the administrator.
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ brew install hmmer
+[?2004lbash: brew: command not found
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ conda install -c bioconda hmmer
+[?2004lbash: conda: command not found
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ [K[julia.frost@ip-10-140-2-9 ~]$ [K[julia.frost@ip-10-140-2-9 ~]$ [?2004ltimed out waiting for input: auto-logout
+]0;~[?2004h[julia.frost@ip-10-140-2-9 ~]$ [?2004ltimed out waiting for input: auto-logout

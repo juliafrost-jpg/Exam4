@@ -1,0 +1,10 @@
+library(tidyverse)
+library(lubridate)
+library(gsheet)
+
+MSH <- read_csv('http://tinyurl.com/mtsthelens111')
+
+head(MSH)
+view(MSH)
+
+ggplot(data = MSH, mapping = aes())

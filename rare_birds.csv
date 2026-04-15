@@ -1,0 +1,5 @@
+species_code,scientific_name,common_name,year_observed,location_id,latitude,longitude,state
+DOWO,Picoides pubescens,Downy Woodpecker,2023,L013,42.64,-71.34,US-MA
+BCCH,Poecile atricapillus,Black-capped Chickadee,2021,L006,42.50,-71.20,US-MA
+BLJA,cyanocitta cristata,blue Jay,2023,L018,42.69,-71.39,US-MA
+MODO,Zenaida macroura,Mourning Dove,2022,L010,42.60,-71.30,US-MA

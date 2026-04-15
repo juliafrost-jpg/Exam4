@@ -1,0 +1,26 @@
+$1#!/usr/bin/env bash 
+#just practice using script 
+#Usage: bash practice_script.sh
+
+head deleteme/txt
+
+#opens the shared folder 
+awk -F',' '$1 > 5 {print $0}' ../shared/LittleWomen.txt
+
+#finds how many times each sisters name is mentioned in the text
+awk '
+{
+    for (i=1; i<=NF; i++) {
+        if ($i == "Meg") meg++
+        if ($i == "Jo") jo++
+        if ($i == "Beth") beth++
+        if ($i == "Amy") amy++
+    }
+}
+END {
+    print "Meg:", meg
+    print "Jo:", jo
+    print "Beth:", beth
+    print "Amy:", amy
+}
+' ../shared/LittleWomen.txt

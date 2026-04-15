@@ -1,0 +1,152 @@
+#!/usr/bin/env bash
+#Usage: bash Exam_2.sh
+#Julia Frost 
+#Exam 2 
+
+
+#Make sure feederwatch is available and has the files
+
+```
+ls ../shared/feederwatch
+```
+
+```
+cat > ~/bin/find_rare_birds << 'EOF'
+```
+#Must provide at least two arguments: translation table + one observation file
+
+```
+if [ "$#" -lt 2 ]; then
+    echo "ERROR: Not enough arguments provided."
+    echo "Usage: find_rare_birds <translation_table.csv> <observation_file(s).csv>"
+    echo "Example: find_rare_birds PFW_spp_translation_table.csv PFW_all_*.csv"
+    exit 1
+fi
+```
+
+#First argument is the translation table
+```
+translation_table="$1"
+shift   #moves the translation table which leaves the PFW files with full data 
+```
+#Check that the translation table exists and is readable
+```
+if [ ! -f "$translation_table" ] || [ ! -r "$translation_table" ]; then
+    echo "ERROR: Translation table '$translation_table' not found or not readable."
+    exit 1
+fi
+```
+#Check that each observation file exists and is readable
+```
+valid_files=()
+for observation_file in "$@"; do
+    if [ -f "$observation_file" ] && [ -r "$observation_file" ]; then
+        valid_files+=("$observation_file")
+    else
+        echo "WARNING: '$observation_file' not found or not readable - skipping."
+    fi
+done
+```
+#Exit if no valid observation files remain
+```
+if [ "${#valid_files[@]}" -eq 0 ]; then
+    echo "ERROR: No valid observation files found. Exiting."
+    exit 1
+fi
+
+echo "Processing ${#valid_files[@]} observation file(s) - please wait..."
+
+awk -F',' '
+BEGIN { OFS = "," }
+```
+#Translation table read first (it's first file passed to awk)
+#NR == FNR is true only while reading the very first file
+#Strip all quotes first, then store scientific and common names by species code
+```
+NR == FNR {
+    for (i = 1; i <= NF; i++) gsub(/"/, "", $i)   # strip quotes from every field
+    if (FNR == 1) next                              # skip header row
+    scientific_name[$1] = $4                        # scientific name keyed by species code
+    common_name[$1]     = $5                        # common name keyed by species code
+    next
+}
+```
+# --- Read the header row of each observation file ---
+#Maps column names to their index so columns are referenced by name
+```
+FNR == 1 {
+    for (col_index = 1; col_index <= NF; col_index++) {
+        col_name = $col_index
+        gsub(/"/, "", col_name)
+        col[col_name] = col_index
+    }
+    next
+}
+```
+# --- Process each observation data row ---
+```
+{
+    for (i = 1; i <= NF; i++) gsub(/"/, "", $i)   # strip quotes from every field
+
+    species_code = $(col["SPECIES_CODE"])
+    obs_year     = $(col["Year"])
+    location_id  = $(col["LOC_ID"])
+    latitude     = $(col["LATITUDE"])
+    longitude    = $(col["LONGITUDE"])
+    state        = $(col["SUBNATIONAL1_CODE"])
+
+    if (species_code == "") next
+
+    # Overall rarity: count each species across all years
+    if (!(species_code in overall_count)) {
+        overall_data[species_code] = species_code OFS scientific_name[species_code] OFS \
+            common_name[species_code] OFS obs_year OFS location_id OFS latitude OFS longitude OFS state
+    }
+    overall_count[species_code]++
+
+    # Yearly rarity: count each species within each year
+    yearly_key = species_code SUBSEP obs_year
+    if (!(yearly_key in yearly_count)) {
+        yearly_data[yearly_key] = species_code OFS scientific_name[species_code] OFS \
+            common_name[species_code] OFS obs_year OFS location_id OFS latitude OFS longitude OFS state
+    }
+    yearly_count[yearly_key]++
+}
+
+END {
+    output_header = "species_code,scientific_name,common_name,year_observed,location_id,latitude,longitude,state"
+
+    # Write rare_birds.csv: species observed exactly once across all years
+    print output_header > "rare_birds.csv"
+    for (species_code in overall_count) {
+        if (overall_count[species_code] == 1) {
+            print overall_data[species_code] > "rare_birds.csv"
+        }
+    }
+    close("rare_birds.csv")
+
+    #Write rare_birds_yearly.csv: species observed exactly once in a given year
+    print output_header > "rare_birds_yearly.csv"
+    for (yearly_key in yearly_count) {
+        if (yearly_count[yearly_key] == 1) {
+            print yearly_data[yearly_key] > "rare_birds_yearly.csv"
+        }
+    }
+    close("rare_birds_yearly.csv")
+
+    print "Done! CSV files are ready"
+}
+' "$translation_table" "${valid_files[@]}"
+
+exit 0
+EOF
+chmod +x ~/bin/find_rare_birds 
+```
+#prints that the code is done running    
+```
+echo "done"
+```
+#this is what the coworker will print 
+```
+find_rare_birds ../shared/feederwatch/PFW_spp_translation_table_May2024.csv ../shared/feederwatch/PFW_all*.csv
+```

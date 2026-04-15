@@ -1,0 +1,83 @@
+#Julia Frost
+#FeederWatch Data Analysis
+#Graphing Bird Population Patterns
+
+library(tidyverse)
+library(arrow)
+library(ggplot2)
+
+#Connect to FeederWatch datasets
+birddataset <- list(
+  open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+  open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+  open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+  open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+  open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+  open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+  open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+)
+
+#Inspect dataset structure
+lapply(birddataset, glimpse)
+
+colnames(birddataset)
+#Question 1-How did bird observations change before and after Hurricane Sandy in 
+#New Jersey and New York
+
+
+storm_birds <- map_dfr(birddataset, function(x) {
+  x |>
+    group_by(Year) |>
+    summarise(total_birds = sum(HOW_MANY, na.rm = TRUE)) |>
+    collect()
+})
+
+ggplot(storm_birds, aes(x = Year, y = total_birds)) +
+  geom_line() +
+  geom_vline(xintercept = 2012, linetype = "dashed", color = "red") +
+  labs(
+    title = "Bird Observations Before and After Hurricane Sandy",
+    x = "Year",
+    y = "Total Birds Observed"
+  )
+
+# Question 2
+# How has Canada Goose migration changed since 1988?
+
+
+goose_data <- map_dfr(birddataset, ~ .x |>
+                        filter(SPECIES_CODE == "cangoo",
+                               SUBNATIONAL1_CODE == "US_NY") |>
+                        group_by(Year, Month) |>
+                        summarise(total_geese = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+                        collect()
+)
+
+ggplot(goose_data, aes(x = Month, y = total_geese, group = Year, color = Year)) +
+  geom_line(alpha = 0.5, show.legend = FALSE) +
+  labs(
+    title = "Canada Goose Migration Patterns in New York Since 1988",
+    x = "Month",
+    y = "Number of Geese Observed"
+  )
+
+
+
+# Question 3
+# How has bird species diversity changed over time?
+
+
+diversity_data <- map_dfr(birddataset, ~ .x |>
+                            group_by(Year) |>
+                            summarise(species_count = n_distinct(SPECIES_CODE)) |>
+                            collect()
+)
+
+ggplot(diversity_data, aes(x = Year, y = species_count)) +
+  geom_line() +
+  labs(
+    title = "Bird Species Diversity in FeederWatch Data",
+    x = "Year",
+    y = "Number of Species Observed"
+  )
+

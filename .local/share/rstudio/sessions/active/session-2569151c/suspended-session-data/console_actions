@@ -1,0 +1,26 @@
+{
+    "type": [
+        2,
+        2,
+        0,
+        1,
+        0,
+        1,
+        2,
+        2,
+        0,
+        1
+    ],
+    "data": [
+        "\nR version 4.4.3 (2025-02-28) -- \"Trophy Case\"\nCopyright (C) 2025 The R Foundation for Statistical Computing\nPlatform: x86_64-pc-linux-gnu\n\nR is free software and comes with ABSOLUTELY NO WARRANTY.\nYou are welcome to redistribute it under certain conditions.\nType 'license()' or 'licence()' for distribution details.\n\nR is a collaborative project with many contributors.\nType 'contributors()' for more information and\n'citation()' on how to cite R or R packages in publications.\n\nType 'demo()' for some demos, 'h",
+        "elp()' for on-line help, or\n'help.start()' for an HTML browser interface to help.\nType 'q()' to quit R.\n\n",
+        "> ",
+        "library(readr)",
+        "> ",
+        "test_translation <- read_csv(\"test_translation.csv\")",
+        "\rindexing test_translation.csv [======================================] 34.76MB/s, eta:  0s\r                                                                                          \r\u001B[1mRows: \u001B[22m\u001B[34m10\u001B[39m \u001B[1mColumns: \u001B[22m\u001B[34m5\u001B[39m\n\u001B[36m──\u001B[39m \u001B[1mColumn specification\u001B[22m \u001B[36m──────────────────────────────────────────────────────────────────\u001B[39m\n\u001B[1mDelimiter:\u001B",
+        "[22m \",\"\n\u001B[31mchr\u001B[39m (5): SPECIES_CODE, col1, col2, scientific_name, common_name\n\n\u001B[36mℹ\u001B[39m Use `spec()` to retrieve the full column specification for this data.\n\u001B[36mℹ\u001B[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.\n",
+        "> ",
+        "View(test_translation)"
+    ]
+}

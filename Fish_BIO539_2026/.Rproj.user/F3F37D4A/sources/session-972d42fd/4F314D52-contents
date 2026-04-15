@@ -1,0 +1,21 @@
+library(tidyverse)
+library(lubridate)
+library(gsheet)
+#putting the data from the google sheet into fishdata
+fishdata <- read_csv('https://tinyurl.com/fishdata')
+
+head(fishdata)                 
+
+
+#Relationship between temp and nitrogen excretion 
+ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()+geom_smooth(method = "lm", se = FALSE) #se is standard error, gets rid of the standard error                
+ggplot2::aes(x, y)                 
+
+#Weight and N excretion 
+ggplot(data = fishdata, mapping = aes(x = `Body mass_g`, `Per capita N excretion rate`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+
+#Frequncy of different sizes of fish 
+ggplot(fishdata, aes(`Body mass_g`))+geom_histogram()
+
+#The relationship between N excretion and weight for a single temperature 
+

@@ -1,0 +1,1903 @@
+species_code,scientific_name,common_name,year_observed,location_id,latitude,longitude,state
+cockat,Nymphicus hollandicus,Cockatiel,2001,L81027,33.0926,-97.0527,US-TX
+warwhe1,Zosterops japonicus,Warbling White-eye,2005,L274477,21.293214,-157.799431,US-HI
+cockat,Nymphicus hollandicus,Cockatiel,2007,L167975,26.0215359,-80.1240387,US-FL
+y00597,Motacilla flava/tschutschensis,Western/Eastern Yellow Wagtail,2004,L103660,36.7336573,-119.4641568,US-CA
+hoowar,Setophaga citrina,Hooded Warbler,1999,L41456,30.26037,-91.0825,US-LA
+laplon,Calcarius lapponicus,Lapland Longspur,2002,L105836,41.8143215,-77.8562596,US-PA
+flsjay,Aphelocoma coerulescens,Florida Scrub-Jay,2017,L6477206,28.1854294,-80.668196,US-FL
+wilwar3,Cardellina pusilla chryseola,Wilson's Warbler (chryseola),2022,L74770,37.50245,-122.46972,US-CA
+finch1,Fringillidae sp.,finch sp.,2002,L104110,32.69779,-97.38006,US-TX
+finch1,Fringillidae sp.,finch sp.,2005,L153183,43.9729958,-123.2260361,US-OR
+calhum,Selasphorus calliope,Calliope Hummingbird,1994,L21853,30.40243,-89.77426,US-LA
+thrush1,Turdidae sp.,thrush sp.,2002,L105489,45.4825475,-75.5170708,CA-ON
+mallar,Anas platyrhynchos/diazi,Mallard/Mexican Duck,1990,L26876,32.78478,-108.27302,US-NM
+mewgul2,Larus brachyrhynchus,Short-billed Gull,2001,L78483,47.79692,-122.30598,US-WA
+mallar,Anas platyrhynchos/diazi,Mallard/Mexican Duck,1992,L30254,33.5237,-111.9029,US-AZ
+thrush1,Turdidae sp.,thrush sp.,2009,L77218,44.0054,-92.49121,US-MN
+mewgul2,Larus brachyrhynchus,Short-billed Gull,2008,L104414,46.9854841,-124.1614063,US-WA
+mallar,Anas platyrhynchos/diazi,Mallard/Mexican Duck,1998,L26717,33.24367,-111.86745,US-AZ
+mcclon,Rhynchophanes mccownii,Thick-billed Longspur,1999,L23802,41.69003,-88.34229,US-IL
+shshaw2,Accipiter striatus [velox Group],Sharp-shinned Hawk (Northern),2013,L104999,38.2008347,-105.0948974,US-CO
+flsjay,Aphelocoma coerulescens,Florida Scrub-Jay,2022,L21882572,29.0712185,-82.186105800000007,US-FL
+flsjay,Aphelocoma coerulescens,Florida Scrub-Jay,2023,L23106059,27.4728476,-80.3659773,US-FL
+laplon,Calcarius lapponicus,Lapland Longspur,2019,L5098938,43.1884613,-80.3737661,CA-ON
+finch1,Fringillidae sp.,finch sp.,2012,L1806865,41.22854,-77.01403,US-PA
+dusgro,Dendragapus obscurus,Dusky Grouse,1989,L35118,39.65036,-105.34174,US-CO
+thrush1,Turdidae sp.,thrush sp.,2010,L610391,35.940124,-84.027605,US-TN
+thrush1,Turdidae sp.,thrush sp.,2013,L1806654,50.77188,-120.34519,CA-BC
+thrush1,Turdidae sp.,thrush sp.,2014,L515917,41.7614849,-72.5999844,US-CT
+moupyo1,Glaucidium gnoma gnoma,Northern Pygmy-Owl (Mountain),2008,L360576,48.1267704,-114.2918444,US-MT
+thrush1,Turdidae sp.,thrush sp.,2015,L277136,45.4388151,-73.818469,CA-QC
+bktgna,Polioptila melanura,Black-tailed Gnatcatcher,2001,L79229,32.3803529,-112.8629145,US-AZ
+warwhe1,Zosterops japonicus,Warbling White-eye,2023,L867162,21.4229692,-157.9494202,US-HI
+lobthr,Toxostoma longirostre,Long-billed Thrasher,1991,L29819,26.51648,-99.11224,US-TX
+orbbun1,Passerina leclancherii,Orange-breasted Bunting,2023,L16979387,49.1711775,-123.0932048,CA-BC
+pipit1,Anthus sp.,pipit sp.,2004,L108208,35.00792,-106.70633,US-NM
+spotow2,Pipilo maculatus [maculatus Group],Spotted Towhee (maculatus Group),2010,L611642,41.0262764,-110.8657837,US-WY
+musduc3,Cairina moschata (Domestic type),Muscovy Duck (Domestic type),2002,L107293,36.7805,-76.1163,US-VA
+whtrob1,Turdus assimilis,White-throated Thrush,2017,L6786743,20.4799086,-104.7848977,MX-JAL
+PFW_2022,,,28,L76812,45.385,-75.7567,CA-ON
+dusgro,Dendragapus obscurus,Dusky Grouse,1994,L41721,48.07611,-117.63047,US-WA
+sagthr,Oreoscoptes montanus,Sage Thrasher,2001,L76344,34.332,-112.151,US-AZ
+hummin,Trochilidae sp.,hummingbird sp.,2001,L98585,29.6922049,-99.3552387,US-TX
+spbori,Icterus pectoralis,Spot-breasted Oriole,1998,L25022,26.17941,-80.27557,US-FL
+goldfi,Spinus sp. (goldfinch sp.),new world goldfinch sp.,2001,L105028,41.88599,-70.89443,US-MA
+moupyo1,Glaucidium gnoma gnoma,Northern Pygmy-Owl (Mountain),2013,L360576,48.1267704,-114.2918444,US-MT
+snogoo,Anser caerulescens,Snow Goose,2001,L80444,47.3471325,-116.6294302,US-ID
+moupyo1,Glaucidium gnoma gnoma,Northern Pygmy-Owl (Mountain),2014,L360576,48.1267704,-114.2918444,US-MT
+goldfi,Spinus sp. (goldfinch sp.),new world goldfinch sp.,2004,L167074,40.7455902,-111.6058273,US-UT
+moupyo1,Glaucidium gnoma gnoma,Northern Pygmy-Owl (Mountain),2016,L274231,55.375171,-131.69209,US-AK
+goldfi,Spinus sp. (goldfinch sp.),new world goldfinch sp.,2006,L272573,37.6472671,-89.2555904,US-IL
+thrush1,Turdidae sp.,thrush sp.,2024,L30302,41.2561652,-95.821784,US-IA
+moupyo1,Glaucidium gnoma gnoma,Northern Pygmy-Owl (Mountain),2018,L360576,48.1267704,-114.2918444,US-MT
+mewgul2,Larus brachyrhynchus,Short-billed Gull,2024,L21565671,60.7070038,-135.0400891,CA-YT
+blhsis1,Spinus notatus,Black-headed Siskin,2017,L6786743,20.4799086,-104.7848977,MX-JAL
+blhsis1,Spinus notatus,Black-headed Siskin,2019,L6786743,20.4799086,-104.7848977,MX-JAL
+pswspa1,Zonotrichia leucophrys pugetensis,White-crowned Sparrow (pugetensis),2022,L132460,49.2138022,-123.9409357,CA-BC
+belvir,Vireo bellii,Bell's Vireo,1994,L31974,31.55062,-110.26995,US-AZ
+manduc,Aix galericulata,Mandarin Duck,1995,L27406,35.46433,-120.64729,US-CA
+whtrob1,Turdus assimilis,White-throated Thrush,2020,L6786743,20.4799086,-104.7848977,MX-JAL
+blbgra1,Volatinia jacarina,Blue-black Grassquit,2019,L6824873,20.7531588,-105.3845664,MX-NAY
+gycthr,Catharus minimus,Gray-cheeked Thrush,2001,L81729,33.98237,-84.14487,US-GA
+gycthr,Catharus minimus,Gray-cheeked Thrush,2002,L97608,44.10747,-78.940401,CA-ON
+gycthr,Catharus minimus,Gray-cheeked Thrush,2003,L107896,33.8554,-84.3096,US-GA
+gycthr,Catharus minimus,Gray-cheeked Thrush,2005,L72299,38.93405,-77.122945,US-VA
+moupyo1,Glaucidium gnoma gnoma,Northern Pygmy-Owl (Mountain),2021,L142565,51.0574193,-116.6079426,CA-BC
+gycthr,Catharus minimus,Gray-cheeked Thrush,2006,L360547,35.9965145,-79.1855049,US-NC
+x00013,Icterus bullockii x galbula,Bullock's x Baltimore Oriole (hybrid),2001,L33071,38.28373,-77.14413,US-VA
+yeejun,Junco phaeonotus,Yellow-eyed Junco,2006,L350030,31.422863,-110.252519,US-AZ
+x00013,Icterus bullockii x galbula,Bullock's x Baltimore Oriole (hybrid),2004,L144406,32.9874878,-80.1939697,US-SC
+blhsis1,Spinus notatus,Black-headed Siskin,2020,L6786743,20.4799086,-104.7848977,MX-JAL
+x00013,Icterus bullockii x galbula,Bullock's x Baltimore Oriole (hybrid),2008,L467295,38.6065,-76.538297,US-MD
+ortdov,Streptopelia orientalis,Oriental Turtle-Dove,2009,L138447,49.0239983,-123.060997,CA-BC
+wesfly,Empidonax difficilis,Western Flycatcher,2003,L106727,44.5934853,-123.322345,US-OR
+wesfly,Empidonax difficilis,Western Flycatcher,2004,L228839,33.7796904,-118.3469938,US-CA
+wesfly,Empidonax difficilis,Western Flycatcher,2007,L363270,37.8848798,-122.0733833,US-CA
+wesfly,Empidonax difficilis,Western Flycatcher,2009,L471664,37.658927,-121.003679,US-CA
+bkbcuc,Coccyzus erythropthalmus,Black-billed Cuckoo,2010,L21127,41.93024,-74.01856,US-NY
+ferhaw,Buteo regalis,Ferruginous Hawk,1999,L19538,44.33333,-80.366667,CA-ON
+lecspa,Ammospiza leconteii,LeConte's Sparrow,2002,L34348,41.47385,-81.51664,US-OH
+lecspa,Ammospiza leconteii,LeConte's Sparrow,2005,L228960,33.7707024,-83.1085434,US-GA
+empido,Empidonax sp.,Empidonax sp.,2013,L207612,30.0243568,-90.2187119,US-LA
+wilsap,Sphyrapicus thyroideus,Williamson's Sapsucker,1988,L35025,35.46228,-97.3979,US-OK
+wilsap,Sphyrapicus thyroideus,Williamson's Sapsucker,1989,L33294,38.25832,-94.33718,US-MO
+goldfi,Spinus sp. (goldfinch sp.),new world goldfinch sp.,2023,L10181627,37.800896,-122.2103798,US-CA
+sctfly,Tyrannus forficatus,Scissor-tailed Flycatcher,1998,L24209,34.08516,-98.14628,US-TX
+wesfly,Empidonax difficilis,Western Flycatcher,2010,L471664,37.658927,-121.003679,US-CA
+wesfly,Empidonax difficilis,Western Flycatcher,2013,L471664,37.658927,-121.003679,US-CA
+stumea1,Sturnella sp.,Sturnella meadowlark sp.,2005,L230403,40.2895279,-105.1972046,US-CO
+stumea1,Sturnella sp.,Sturnella meadowlark sp.,2007,L460591,41.35818,-122.34744,US-CA
+lecspa,Ammospiza leconteii,LeConte's Sparrow,2010,L122262,41.15449,-85.47379,US-IN
+bkbcuc,Coccyzus erythropthalmus,Black-billed Cuckoo,2020,L21127,41.93024,-74.01856,US-NY
+lecspa,Ammospiza leconteii,LeConte's Sparrow,2011,L1048013,32.3335724,-99.5451736,US-TX
+wilsap,Sphyrapicus thyroideus,Williamson's Sapsucker,1995,L31101,32.40088,-104.26666,US-NM
+gycthr,Catharus minimus,Gray-cheeked Thrush,2020,L10807256,42.5556336,-83.3360978,US-MI
+gycthr,Catharus minimus,Gray-cheeked Thrush,2023,L10779847,39.7449816,-82.7391683,US-OH
+boboli,Dolichonyx oryzivorus,Bobolink,2002,L81078,33.76192,-78.80088,US-SC
+wesfly,Empidonax difficilis,Western Flycatcher,2020,L228839,33.7796904,-118.3469938,US-CA
+wesfly,Empidonax difficilis,Western Flycatcher,2021,L228839,33.7796904,-118.3469938,US-CA
+stumea1,Sturnella sp.,Sturnella meadowlark sp.,2013,L981035,40.533983,-105.044355,US-CO
+solvir1,Vireo cassinii/solitarius/plumbeus,solitary vireo sp.,1992,L42190,42.74904,-124.47596,US-OR
+solvir1,Vireo cassinii/solitarius/plumbeus,solitary vireo sp.,1993,L35394,39.73234,-105.19375,US-CO
+solvir1,Vireo cassinii/solitarius/plumbeus,solitary vireo sp.,1995,L30220,44.59268,-123.27202,US-OR
+lecspa,Ammospiza leconteii,LeConte's Sparrow,2024,L16892531,35.811845,-97.6764714,US-OK
+mutswa,Cygnus olor,Mute Swan,1997,L39614,38.68769,-76.12786,US-MD
+wilfly,Empidonax traillii,Willow Flycatcher,1995,L32606,38.68233,-121.2274,US-CA
+blubun,Cyanocompsa parellina,Blue Bunting,2001,L77969,31.64116,-93.6345,US-LA
+truswa,Cygnus buccinator,Trumpeter Swan,1997,L19185,49.45,-120.51667,CA-BC
+truswa,Cygnus buccinator,Trumpeter Swan,1999,L18878,50.708,-120.382,CA-BC
+blubun,Cyanocompsa parellina,Blue Bunting,2009,L27063,33.87775,-84.11942,US-GA
+waxwin,Bombycilla garrulus/cedrorum,Bohemian/Cedar Waxwing,2003,L24451,36.0394,-79.86404,US-NC
+waxwin,Bombycilla garrulus/cedrorum,Bohemian/Cedar Waxwing,2005,L279297,31.311995,-92.7239656,US-LA
+cacgoo2,Branta hutchinsii minima,Cackling Goose (minima),2008,L167687,44.7475967,-122.6064987,US-OR
+waxwin,Bombycilla garrulus/cedrorum,Bohemian/Cedar Waxwing,2009,L77990,40.142021,-80.3644727,US-PA
+yebfly,Empidonax flaviventris,Yellow-bellied Flycatcher,2002,L104400,44.05,-79.442,CA-ON
+boboli,Dolichonyx oryzivorus,Bobolink,2011,L981138,40.761517,-80.759242,US-OH
+yebfly,Empidonax flaviventris,Yellow-bellied Flycatcher,2009,L981175,36.708814,-81.978959,US-VA
+horlar3,Eremophila alpestris [alpestris Group],Horned Lark (Eastern dark Group),2009,L81535,39.3663375,-85.2435095,US-IN
+eargre,Podiceps nigricollis,Eared Grebe,2005,L133150,34.2420006,-117.2850037,US-CA
+hamfly,Empidonax hammondii,Hammond's Flycatcher,2000,L77776,34.23533,-118.54731,US-CA
+hamfly,Empidonax hammondii,Hammond's Flycatcher,2005,L34595,37.953360000000004,-122.07515,US-CA
+hamfly,Empidonax hammondii,Hammond's Flycatcher,2007,L241642,33.7039206,-118.0163383,US-CA
+hamfly,Empidonax hammondii,Hammond's Flycatcher,2008,L278106,33.8970112,-118.3433264,US-CA
+comcan,Serinus canaria,Island Canary,2008,L611021,42.823296,-80.289632,CA-ON
+kenwar,Geothlypis formosa,Kentucky Warbler,2002,L133030,38.794239,-84.2075043,US-KY
+kenwar,Geothlypis formosa,Kentucky Warbler,2003,L105001,27.27181,-82.40101,US-FL
+kenwar,Geothlypis formosa,Kentucky Warbler,2005,L230137,38.3579483,-76.4124756,US-MD
+kenwar,Geothlypis formosa,Kentucky Warbler,2009,L27628,32.22894,-80.7271,US-SC
+leagre,Tachybaptus dominicus,Least Grebe,2003,L177935,32.089901,-98.9045029,US-TX
+leagre,Tachybaptus dominicus,Least Grebe,2005,L133150,34.2420006,-117.2850037,US-CA
+leagre,Tachybaptus dominicus,Least Grebe,2006,L133150,34.2420006,-117.2850037,US-CA
+boboli,Dolichonyx oryzivorus,Bobolink,2021,L10135972,41.8461636,-75.0388527,US-NY
+yebfly,Empidonax flaviventris,Yellow-bellied Flycatcher,2015,L72374,44.00771,-123.10027,US-OR
+boboli,Dolichonyx oryzivorus,Bobolink,2024,L72160,37.919,-79.39315,US-VA
+horlar3,Eremophila alpestris [alpestris Group],Horned Lark (Eastern dark Group),2019,L285829,43.3744224,-80.6865549,CA-ON
+rehtan2,Piranga rubriceps,Red-hooded Tanager,2008,L466235,32.4517659,-96.9444323,US-TX
+rehtan2,Piranga rubriceps,Red-hooded Tanager,2009,L466235,32.4517659,-96.9444323,US-TX
+y00227,Euphagus carolinus/cyanocephalus,Rusty/Brewer's Blackbird,2009,L356084,39.764354,-83.917426,US-OH
+hamfly,Empidonax hammondii,Hammond's Flycatcher,2010,L390615,49.6117249,-117.1022134,CA-BC
+casvir,Vireo cassinii,Cassin's Vireo,2001,L81730,47.63793,-122.03177,US-WA
+yebcar,Paroaria capitata,Yellow-billed Cardinal,2009,L297564,19.9307503,-155.7785797,US-HI
+leagre,Tachybaptus dominicus,Least Grebe,2010,L635045,27.648433,-97.289427,US-TX
+leagre,Tachybaptus dominicus,Least Grebe,2013,L133150,34.2420006,-117.2850037,US-CA
+mckbun,Plectrophenax hyperboreus,McKay's Bunting,2004,L36652,58.75095,-156.4884,US-AK
+mckbun,Plectrophenax hyperboreus,McKay's Bunting,2006,L36652,58.75095,-156.4884,US-AK
+y01184,Sturnella magna/lilianae,Eastern/Chihuahuan Meadowlark,1990,L35291,38.11476,-105.14528,US-CO
+y01184,Sturnella magna/lilianae,Eastern/Chihuahuan Meadowlark,1991,L34070,38.47354,-107.86175,US-CO
+redwin,Turdus iliacus,Redwing,2010,L137711,53.0001935,-105.4639006,CA-SK
+y01184,Sturnella magna/lilianae,Eastern/Chihuahuan Meadowlark,1995,L30680,38.27071,-104.60856,US-CO
+bkcvir1,Vireo atricapilla,Black-capped Vireo,2015,L1806867,30.280041,-98.872633,US-TX
+y00227,Euphagus carolinus/cyanocephalus,Rusty/Brewer's Blackbird,2015,L357957,44.8534046,-92.6468199,US-WI
+belspa2,Artemisiospiza belli,Bell's Sparrow,2021,L76254,33.4503137,-115.7165051,US-CA
+yebcar,Paroaria capitata,Yellow-billed Cardinal,2011,L297564,19.9307503,-155.7785797,US-HI
+hamfly,Empidonax hammondii,Hammond's Flycatcher,2020,L241642,33.7039206,-118.0163383,US-CA
+casvir,Vireo cassinii,Cassin's Vireo,2011,L281961,41.7995673,-124.1425467,US-CA
+casvir,Vireo cassinii,Cassin's Vireo,2015,L1829264,31.9351921,-110.7899475,US-AZ
+casvir,Vireo cassinii,Cassin's Vireo,2016,L5131088,47.163783,-122.600207,US-WA
+kenwar,Geothlypis formosa,Kentucky Warbler,2020,L4395887,25.937388,-97.51635,US-TX
+colcha1,Ortalis columbiana,Colombian Chachalaca,2013,L2418235,26.244788,-98.228827,US-TX
+y00323,Colaptes auratus/chrysoides,Northern/Gilded Flicker,2020,L5079564,33.621434,-111.961218,US-AZ
+leagre,Tachybaptus dominicus,Least Grebe,2021,L10861244,27.7837332,-97.0983696,US-TX
+mckbun,Plectrophenax hyperboreus,McKay's Bunting,2012,L36652,58.75095,-156.4884,US-AK
+leagre,Tachybaptus dominicus,Least Grebe,2023,L4407228,30.097043,-81.738305,US-FL
+rocpig,Columba livia,Rock Pigeon,2011,L460237,44.58315,-80.43294,XX-
+yetwar2,Setophaga dominica dominica/stoddardi,Yellow-throated Warbler (dominica/stoddardi),2006,L355711,28.866608,-82.588656,US-FL
+yetwar2,Setophaga dominica dominica/stoddardi,Yellow-throated Warbler (dominica/stoddardi),2007,L355711,28.866608,-82.588656,US-FL
+bkcvir1,Vireo atricapilla,Black-capped Vireo,2023,L28686,29.49502,-99.7048,US-TX
+bkcvir1,Vireo atricapilla,Black-capped Vireo,2024,L5127382,29.8845973,-98.2665896,US-TX
+savspa3,Passerculus sandwichensis sanctorum,Savannah Sparrow (San Benito),2015,L274287,47.953856,-124.387974,US-WA
+savspa3,Passerculus sandwichensis sanctorum,Savannah Sparrow (San Benito),2016,L274287,47.953856,-124.387974,US-WA
+brwhaw1,Buteo platypterus platypterus,Broad-winged Hawk (Northern),2010,L360094,42.727848,-72.6389837,US-MA
+watpip1,Anthus spinoletta,Water Pipit,2014,L32319,42.90458,-77.74422,US-NY
+calgul,Larus californicus,California Gull,1997,L22169,35.56289,-121.08698,US-CA
+soogro1,Dendragapus fuliginosus,Sooty Grouse,2005,L76725,42.25321,-123.05199,US-OR
+soogro1,Dendragapus fuliginosus,Sooty Grouse,2007,L166695,58.4090652,-135.7442322,US-AK
+brant,Branta bernicla,Brant,2002,L105933,38.9313921,-77.412934,US-VA
+hooori,Icterus cucullatus,Hooded Oriole,1988,L34642,32.7458,-117.16397,US-CA
+brant,Branta bernicla,Brant,2008,L473263,40.692014,-73.299403,US-NY
+brant,Branta bernicla,Brant,2009,L473263,40.692014,-73.299403,US-NY
+rucmot1,Momotus mexicanus,Russet-crowned Motmot,2017,L6824873,20.7531588,-105.3845664,MX-NAY
+blugrb1,Passerina caerulea,Blue Grosbeak,1999,L28828,35.64623,-94.11292,US-AR
+phivir,Vireo philadelphicus,Philadelphia Vireo,1991,L36026,30.15838,-85.76063,US-FL
+x00202,Aix sponsa x Lophodytes cucullatus,Wood Duck x Hooded Merganser (hybrid),2008,L621965,43.932179,-74.469043,US-NY
+y01183,Sturnella neglecta/lilianae,Western/Chihuahuan Meadowlark,2006,L99001,35.08568,-106.18203,US-NM
+seaspa,Ammospiza maritima,Seaside Sparrow,2004,L191666,30.6685791,-87.1028442,US-FL
+soogro1,Dendragapus fuliginosus,Sooty Grouse,2012,L1026439,49.5262032,-123.7672424,CA-BC
+merlin1,Falco columbarius [aesalon Group],Merlin (Eurasian),2013,L1806875,43.909446,-89.801018,US-WI
+soogro1,Dendragapus fuliginosus,Sooty Grouse,2019,L1806748,42.3125399,-122.6571929,US-OR
+seaspa,Ammospiza maritima,Seaside Sparrow,2012,L1040225,38.9684067,-76.2943497,US-MD
+lobcur,Numenius americanus,Long-billed Curlew,2020,L815458,34.7659064,-106.7154408,US-NM
+seaspa,Ammospiza maritima,Seaside Sparrow,2014,L1305659,39.8797245,-74.142563,US-NJ
+seaspa,Ammospiza maritima,Seaside Sparrow,2018,L274839,41.280033,-72.570114,US-CT
+grbani,Crotophaga sulcirostris,Groove-billed Ani,2017,L6824873,20.7531588,-105.3845664,MX-NAY
+amepip,Anthus rubescens,American Pipit,1995,L37909,47.14229,-122.27038,US-WA
+veery,Catharus fuscescens,Veery,2009,L105575,33.5087847,-82.0653162,US-GA
+norsho,Spatula clypeata,Northern Shoveler,2015,L99322,41.1514348,-81.8590531,US-OH
+crecar1,Caracara plancus cheriway,Crested Caracara (Northern),2001,L103600,28.0140436,-80.693069,US-FL
+crecar1,Caracara plancus cheriway,Crested Caracara (Northern),2005,L103564,30.2209106,-97.8946055,US-TX
+crecar1,Caracara plancus cheriway,Crested Caracara (Northern),2006,L77513,27.3093517,-80.561573,US-FL
+vultur1,Cathartidae sp.,new world vulture sp.,2011,L1290063,41.427245,-80.66426,US-OH
+seaspa,Ammospiza maritima,Seaside Sparrow,2022,L21355337,27.9233442,-82.8234573,US-FL
+lewwoo,Melanerpes lewis,Lewis's Woodpecker,1990,L31205,33.79133,-84.19663,US-GA
+veery,Catharus fuscescens,Veery,2010,L460329,42.780105,-71.083374,US-MA
+easblu1,Sialia sialis sialis/bermudensis,Eastern Bluebird (Eastern),2011,L1055590,42.0411949,-80.1633377,US-PA
+easblu1,Sialia sialis sialis/bermudensis,Eastern Bluebird (Eastern),2013,L597379,42.757884,-80.2617788,CA-ON
+amewig,Mareca americana,American Wigeon,1997,L25027,39.86675,-86.4777,US-IN
+pramer1,Falco columbarius richardsonii,Merlin (Prairie),2006,L227889,53.5337715,-113.4521484,CA-AB
+pramer1,Falco columbarius richardsonii,Merlin (Prairie),2007,L217235,52.09838,-106.63019,CA-SK
+pramer1,Falco columbarius richardsonii,Merlin (Prairie),2008,L217235,52.09838,-106.63019,CA-SK
+vultur1,Cathartidae sp.,new world vulture sp.,2021,L81273,41.2415458,-73.9144194,US-NY
+purfin2,Haemorhous purpureus californicus,Purple Finch (Western),2008,L166852,40.7013092,-111.7894669,US-UT
+swahaw,Buteo swainsoni,Swainson's Hawk,1992,L36628,30.12245,-83.61642,US-FL
+swahaw,Buteo swainsoni,Swainson's Hawk,1993,L39473,43.0164,-88.2578,US-WI
+swahaw,Buteo swainsoni,Swainson's Hawk,1995,L31427,38.9197,-76.80516,US-MD
+killde,Charadrius vociferus,Killdeer,2000,L77421,31.90278,-96.27824,US-TX
+swahaw,Buteo swainsoni,Swainson's Hawk,1997,L24543,40.53243,-75.17792,US-PA
+swahaw,Buteo swainsoni,Swainson's Hawk,1999,L19550,50.23333,-121.56667,CA-BC
+anhing,Anhinga anhinga,Anhinga,1997,L20878,26.19303,-81.80506,US-FL
+wesgul,Larus occidentalis,Western Gull,1994,L34946,44.4415947,-124.0774115,US-OR
+yebcha,Icteria virens,Yellow-breasted Chat,2003,L108723,33.67352,-80.69363,US-SC
+attwoo4,Picoides dorsalis bacatus,American Three-toed Woodpecker (Eastern),2008,L246811,45.8319435,-80.0425034,CA-ON
+parrot,Psittaciformes sp. (parrot sp.),parrot sp.,2007,L76302,33.4393434,-111.7905236,US-AZ
+yebcha,Icteria virens,Yellow-breasted Chat,2009,L615275,29.5759531,-98.5241488,US-TX
+x00461,Setophaga palmarum x coronata,Palm x Yellow-rumped Warbler (hybrid),2010,L502368,34.04948,-80.93012,US-SC
+x00615,Egretta caerulea x thula,Little Blue Heron x Snowy Egret (hybrid),2010,L189934,27.1581078,-80.2043533,US-FL
+canvas,Aythya valisineria,Canvasback,2013,L614407,44.4675705,-76.6876173,CA-ON
+grygul,Leucophaeus modestus,Gray Gull,2005,L228715,47.6738663,-122.347435,US-WA
+canvas,Aythya valisineria,Canvasback,2019,L3177474,30.1585873,-99.1628448,US-TX
+grecor,Phalacrocorax carbo,Great Cormorant,2024,L27936553,42.8733669,-77.2554449,US-NY
+eclpar,Eclectus sp.,eclectus sp.,2002,L133336,34.0339088,-117.1547699,US-CA
+attwoo4,Picoides dorsalis bacatus,American Three-toed Woodpecker (Eastern),2013,L2420723,44.141258,-70.7795477,US-ME
+parrot,Psittaciformes sp. (parrot sp.),parrot sp.,2012,L217621,32.76345,-117.122375,US-CA
+yebcha,Icteria virens,Yellow-breasted Chat,2011,L611283,44.6715,-63.559376,CA-NS
+thbkin,Tyrannus crassirostris,Thick-billed Kingbird,2019,L6824873,20.7531588,-105.3845664,MX-NAY
+yebcha,Icteria virens,Yellow-breasted Chat,2014,L1795398,44.7728102,-85.6464261,US-MI
+yebcha,Icteria virens,Yellow-breasted Chat,2016,L77784,40.6162736,-122.4949247,US-CA
+borowl,Aegolius funereus,Boreal Owl,2000,L71536,47.66667,-52.733333,CA-NL
+borowl,Aegolius funereus,Boreal Owl,2001,L26607,47.7476705,-90.3713731,US-MN
+bkcspa,Spizella atrogularis,Black-chinned Sparrow,1994,L27521,31.8373,-109.02996,US-NM
+bkcspa,Spizella atrogularis,Black-chinned Sparrow,1995,L27521,31.8373,-109.02996,US-NM
+borowl,Aegolius funereus,Boreal Owl,2005,L105869,51.21667,-102.46667,CA-SK
+borowl,Aegolius funereus,Boreal Owl,2006,L71746,49.78333,-92.833333,CA-ON
+shtgro,Tympanuchus phasianellus,Sharp-tailed Grouse,2004,L168178,43.6673508,-104.266571,US-WY
+ivbwoo1,Xiphorhynchus flavigaster,Ivory-billed Woodcreeper,2018,L6824873,20.7531588,-105.3845664,MX-NAY
+gyrfal,Falco rusticolus,Gyrfalcon,1992,L40091,53.5316,-113.9994,CA-AB
+gyrfal,Falco rusticolus,Gyrfalcon,1995,L36634,38.77291,-77.05746,US-VA
+gyrfal,Falco rusticolus,Gyrfalcon,1997,L31574,41.8752,-71.39057,US-RI
+gyrfal,Falco rusticolus,Gyrfalcon,1998,L19909,48.9,-67.333333,CA-QC
+loon,Gavia sp.,loon sp.,2005,L162360,44.040657,-84.80544,US-MI
+sagspa,Artemisiospiza nevadensis/belli,Sagebrush/Bell's Sparrow (Sage Sparrow),1990,L29430,34.56788,-118.09808,US-CA
+sagspa,Artemisiospiza nevadensis/belli,Sagebrush/Bell's Sparrow (Sage Sparrow),1992,L28430,32.40967,-110.98301,US-AZ
+sagspa,Artemisiospiza nevadensis/belli,Sagebrush/Bell's Sparrow (Sage Sparrow),1999,L36000,32.38933,-112.85535,US-AZ
+laugul,Leucophaeus atricilla,Laughing Gull,1995,L26176,27.78971,-82.71874,US-FL
+borowl,Aegolius funereus,Boreal Owl,2010,L71536,47.66667,-52.733333,CA-NL
+borowl,Aegolius funereus,Boreal Owl,2019,L8293896,42.816253,-73.3394689,US-NY
+dusfly,Empidonax oberholseri,Dusky Flycatcher,2003,L167517,37.9233208,-122.0310593,US-CA
+dusfly,Empidonax oberholseri,Dusky Flycatcher,2004,L166402,34.7077407,-112.0217596,US-AZ
+dusfly,Empidonax oberholseri,Dusky Flycatcher,2007,L356099,42.0031316,-122.6458311,US-CA
+dusfly,Empidonax oberholseri,Dusky Flycatcher,2008,L283519,33.534059,-117.332846,US-CA
+camwar,Setophaga tigrina,Cape May Warbler,2001,L80114,28.91264,-81.1844,US-FL
+camwar,Setophaga tigrina,Cape May Warbler,2002,L106825,39.1110444,-86.6424925,US-IN
+PFW_2019,,,29,L76812,45.385,-75.7567,CA-ON
+warble,Parulidae sp.,new world warbler sp.,1995,L26410,43.21337,-77.93906,US-NY
+warble,Parulidae sp.,new world warbler sp.,1999,L42123,35.1212,-85.28831,US-TN
+lucwar,Leiothlypis luciae,Lucy's Warbler,1999,L38795,32.26517,-110.75993,US-AZ
+rebmer,Mergus serrator,Red-breasted Merganser,1993,L39614,38.68769,-76.12786,US-MD
+borowl,Aegolius funereus,Boreal Owl,2023,L480203,60.6839388,-137.4609375,CA-YT
+cittro1,Trogon citreolus,Citreoline Trogon,2017,L6824873,20.7531588,-105.3845664,MX-NAY
+camwar,Setophaga tigrina,Cape May Warbler,2012,L1290235,40.728444,-74.266857,US-NJ
+camwar,Setophaga tigrina,Cape May Warbler,2017,L1884077,30.2095146,-81.3755722,US-FL
+grawar,Setophaga graciae,Grace's Warbler,1994,L32340,33.67154,-112.3591,US-AZ
+snoegr,Egretta thula,Snowy Egret,2000,L79021,38.74357,-121.18711,US-CA
+crossb,Loxia sp.,crossbill sp.,1994,L20134,44.05639,-103.29146,US-SD
+gycyel,Geothlypis poliocephala,Gray-crowned Yellowthroat,2019,L6786743,20.4799086,-104.7848977,MX-JAL
+dusfly,Empidonax oberholseri,Dusky Flycatcher,2022,L18755077,34.8556962,-111.8203879,US-AZ
+dusfly,Empidonax oberholseri,Dusky Flycatcher,2023,L22222144,33.866444,-112.1063678,US-AZ
+wesowl1,Megascops kennicottii,Western Screech-Owl,1994,L35814,40.59533,-111.83183,US-UT
+wesowl1,Megascops kennicottii,Western Screech-Owl,1995,L32955,43.71767,-96.59615,US-SD
+marwre2,Cistothorus palustris [plesius Group],Marsh Wren (plesius Group),2007,L356027,36.1100044,-118.8613844,US-CA
+marwre,Cistothorus palustris,Marsh Wren,1999,L26847,35.27823,-83.20361,US-NC
+redjun1,Gallus gallus (Domestic type),Red Junglefowl (Domestic type),2002,L108514,22.16681,-159.50263,US-HI
+warvir,Vireo gilvus,Warbling Vireo,1995,L39714,34.01899,-117.85555,US-CA
+warvir,Vireo gilvus,Warbling Vireo,1998,L26984,38.65565,-90.52832,US-MO
+PFW_2023,,,27,L76812,45.385,-75.7567,CA-ON
+casspa,Peucaea cassinii,Cassin's Sparrow,2001,L76659,29.6936449,-99.3526053,US-TX
+casspa,Peucaea cassinii,Cassin's Sparrow,2005,L247409,31.6720009,-97.098999,US-TX
+casspa,Peucaea cassinii,Cassin's Sparrow,2009,L610445,49.181479,-121.9102192,CA-BC
+oricuc2,Cuculus optatus,Oriental Cuckoo,2000,L74600,61.11582,-149.91357,US-AK
+nswowl,Aegolius acadicus,Northern Saw-whet Owl,2003,L108527,45.6537996,-75.8003006,CA-QC
+vichum,Ramosomyia violiceps,Violet-crowned Hummingbird,1991,L33732,41.77686,-124.18206,US-CA
+vichum,Ramosomyia violiceps,Violet-crowned Hummingbird,1993,L28249,43.22174,-77.59482,US-NY
+sposan,Actitis macularius,Spotted Sandpiper,2001,L76085,42.4313283,-83.9056993,US-MI
+sposan,Actitis macularius,Spotted Sandpiper,2004,L107277,31.36651,-93.68771,US-TX
+sposan,Actitis macularius,Spotted Sandpiper,2006,L229034,40.0352478,-91.1773834,US-IL
+sposan,Actitis macularius,Spotted Sandpiper,2008,L454545,31.3772906,-96.902225,US-TX
+gryhaw2,Buteo plagiatus,Gray Hawk,1997,L23479,37.92992,-121.70403,US-CA
+x00670,Anas platyrhynchos x crecca,Mallard x Green-winged Teal (hybrid),2003,L142692,44.7714386,-93.2718277,US-MN
+x00670,Anas platyrhynchos x crecca,Mallard x Green-winged Teal (hybrid),2004,L142692,44.7714386,-93.2718277,US-MN
+westan,Piranga ludoviciana,Western Tanager,2003,L79887,45.53579,-122.82161,US-OR
+casspa,Peucaea cassinii,Cassin's Sparrow,2010,L28001,31.55062,-110.26995,US-AZ
+casspa,Peucaea cassinii,Cassin's Sparrow,2015,L28686,29.49502,-99.7048,US-TX
+calypt,Calypte anna/costae,Anna's/Costa's Hummingbird,2014,L167432,34.113972,-118.3915901,US-CA
+audori,Icterus graduacauda,Audubon's Oriole,1991,L29819,26.51648,-99.11224,US-TX
+sposan,Actitis macularius,Spotted Sandpiper,2010,L638678,41.5102484,-85.1351166,US-IN
+sposan,Actitis macularius,Spotted Sandpiper,2012,L466340,40.758133,-124.064059,US-CA
+redjun1,Gallus gallus (Domestic type),Red Junglefowl (Domestic type),2023,L12831298,26.156661,-97.6015252,US-TX
+sposan,Actitis macularius,Spotted Sandpiper,2019,L4289192,28.1297209,-96.9872618,US-TX
+greegr,Ardea alba,Great Egret,1994,L26176,27.78971,-82.71874,US-FL
+greegr,Ardea alba,Great Egret,1997,L23540,32.81701,-80.05194,US-SC
+greegr,Ardea alba,Great Egret,1998,L23540,32.81701,-80.05194,US-SC
+greegr,Ardea alba,Great Egret,1999,L20714,34.28124,-77.80165,US-NC
+brocow,Molothrus aeneus,Bronzed Cowbird,1998,L41015,33.95175,-112.74377,US-AZ
+casspa,Peucaea cassinii,Cassin's Sparrow,2023,L3164184,30.1478251,-97.8223995,US-TX
+bicthr,Catharus bicknelli,Bicknell's Thrush,2005,L105513,37.99516,-122.10915,US-CA
+calypt,Calypte anna/costae,Anna's/Costa's Hummingbird,2020,L9107193,36.2273853,-115.2141809,US-NV
+calypt,Calypte anna/costae,Anna's/Costa's Hummingbird,2024,L27335757,36.1498807,-115.1903749,US-NV
+wilsni1,Gallinago delicata,Wilson's Snipe,2003,L23461,39.02884,-114.15842,US-NV
+rugdov,Columbina talpacoti,Ruddy Ground Dove,2012,L1806869,29.2232,-98.3684,US-TX
+whcsee2,Sporophila torqueola,Cinnamon-rumped Seedeater,2019,L6786743,20.4799086,-104.7848977,MX-JAL
+shthaw,Buteo brachyurus,Short-tailed Hawk,2001,L81408,44.165,-77.358,CA-ON
+shthaw,Buteo brachyurus,Short-tailed Hawk,2002,L132737,41.3996849,-73.1909409,US-CT
+shthaw,Buteo brachyurus,Short-tailed Hawk,2003,L166548,25.8740005,-80.1839981,US-FL
+shthaw,Buteo brachyurus,Short-tailed Hawk,2004,L229871,36.0118866,-83.1178818,US-TN
+shthaw,Buteo brachyurus,Short-tailed Hawk,2005,L73444,25.65998,-80.36122,US-FL
+shthaw,Buteo brachyurus,Short-tailed Hawk,2007,L21157,35.52258,-82.39218,US-NC
+shthaw,Buteo brachyurus,Short-tailed Hawk,2008,L364352,39.894286,-75.501,US-PA
+shthaw,Buteo brachyurus,Short-tailed Hawk,2009,L274257,47.008881,-123.407656,US-WA
+y00471,Cygnus buccinator/columbianus,Trumpeter/Tundra Swan,2011,L240677,47.2311859,-93.5238266,US-MN
+y00471,Cygnus buccinator/columbianus,Trumpeter/Tundra Swan,2012,L148031,45.0270944,-93.3314365,US-MN
+bicthr,Catharus bicknelli,Bicknell's Thrush,2014,L1806740,38.856506,-77.157579,US-VA
+rosgoo,Anser rossii,Ross's Goose,2002,L106728,28.39549,-81.46799,US-FL
+rosgoo,Anser rossii,Ross's Goose,2004,L103564,30.2209106,-97.8946055,US-TX
+rosgoo,Anser rossii,Ross's Goose,2007,L274747,44.3378464,-83.6491299,US-MI
+bluebi,Sialia sp.,bluebird sp.,2003,L104702,38.29415,-92.7124,US-MO
+bluebi,Sialia sp.,bluebird sp.,2004,L74260,33.10625,-86.85781,US-AL
+bluebi,Sialia sp.,bluebird sp.,2009,L76100,39.919,-86.012,US-IN
+litegr,Egretta garzetta,Little Egret,2000,L80486,30.40615,-88.51985,US-MS
+wilsni1,Gallinago delicata,Wilson's Snipe,2012,L356419,44.600148,-79.041568,CA-ON
+wilsni1,Gallinago delicata,Wilson's Snipe,2015,L1053880,42.1620598,-123.5679321,US-OR
+wilsni1,Gallinago delicata,Wilson's Snipe,2018,L241424,42.8311959,-114.8954818,US-ID
+whcsee2,Sporophila torqueola,Cinnamon-rumped Seedeater,2020,L6786743,20.4799086,-104.7848977,MX-JAL
+heron1,Ardeidae sp.,heron sp.,2005,L241863,28.5824051,-82.1724014,US-FL
+shthaw,Buteo brachyurus,Short-tailed Hawk,2012,L150522,26.1113739,-80.2447128,US-FL
+shthaw,Buteo brachyurus,Short-tailed Hawk,2019,L6824873,20.7531588,-105.3845664,MX-NAY
+lawgol,Spinus lawrencei,Lawrence's Goldfinch,2000,L76027,36.459878,-121.479377,US-CA
+tunswa1,Cygnus columbianus columbianus,Tundra Swan (Whistling),2007,L475444,43.9703028,-76.1705303,US-NY
+bicthr,Catharus bicknelli,Bicknell's Thrush,2022,L13882014,43.8837941,-70.4762226,US-ME
+bicthr,Catharus bicknelli,Bicknell's Thrush,2024,L27186637,41.0462045,-72.4115976,US-NY
+rosgoo,Anser rossii,Ross's Goose,2010,L295133,45.114242,-93.438605,US-MN
+bluebi,Sialia sp.,bluebird sp.,2011,L26660,40.1931,-92.58162,US-MO
+bluebi,Sialia sp.,bluebird sp.,2012,L30044,33.61212,-117.64731,US-CA
+comsan,Actitis hypoleucos,Common Sandpiper,2000,L76321,34.24149,-78.04388,US-NC
+comsan,Actitis hypoleucos,Common Sandpiper,2001,L76321,34.24149,-78.04388,US-NC
+x00620,Dryobates nuttallii x scalaris,Nuttall's x Ladder-backed Woodpecker (hybrid),2003,L108237,37.51448,-119.96274,US-CA
+redcro1,Loxia curvirostra (type 1),Red Crossbill (Appalachian or type 1),2008,L478621,43.2735809,-88.3436394,US-WI
+barswa5,Hirundo rustica erythrogaster,Barn Swallow (American),2010,L804969,34.3755875,-82.962532,US-GA
+wilfly1,Empidonax traillii traillii,Willow Flycatcher (Eastern),2008,L463615,43.697608,-79.32288,CA-ON
+wilsni1,Gallinago delicata,Wilson's Snipe,2024,L4382317,30.1509535,-97.219305,US-TX
+acafly,Empidonax virescens,Acadian Flycatcher,1998,L24576,31.31665,-90.49407,US-MS
+mexjay4,Aphelocoma wollweberi,Mexican Jay,2003,L166064,39.6279984,-105.1479034,US-CO
+naswar,Leiothlypis ruficapilla,Nashville Warbler,2002,L103740,26.159077,-97.9965519,US-TX
+shthaw,Buteo brachyurus,Short-tailed Hawk,2024,L10137551,27.9699269,-82.740171900000007,US-FL
+redbis,Euplectes orix,Southern Red Bishop,2001,L28635,37.2319087,-121.8314105,US-CA
+tunswa1,Cygnus columbianus columbianus,Tundra Swan (Whistling),2013,L19628,43.06667,-79.933333,CA-ON
+rosgoo,Anser rossii,Ross's Goose,2022,L358227,41.4318158,-82.0726293,US-OH
+rosgoo,Anser rossii,Ross's Goose,2023,L12748354,34.9711926,-101.9091669,US-TX
+rosgoo,Anser rossii,Ross's Goose,2024,L169608,38.4429092,-90.2087173,US-IL
+sagspa1,Artemisiospiza nevadensis,Sagebrush Sparrow,1993,L30324,32.3051,-106.7567,US-NM
+x00198,Spizella passerina x pallida,Chipping x Clay-colored Sparrow (hybrid),2008,L466729,29.67017,-97.783614,US-TX
+sagspa1,Artemisiospiza nevadensis,Sagebrush Sparrow,1998,L20377,39.72177,-107.03564,US-CO
+dickci,Spiza americana,Dickcissel,2000,L18886,43.96667,-78.166667,CA-ON
+chukar,Alectoris chukar,Chukar,1990,L28909,42.4646,-88.27708,US-IL
+chukar,Alectoris chukar,Chukar,1992,L34181,38.86575,-107.96172,US-CO
+chukar,Alectoris chukar,Chukar,1995,L26444,38.75018,-104.72519,US-CO
+cintea,Spatula cyanoptera,Cinnamon Teal,2004,L170027,33.0244331,-117.2693405,US-CA
+daejun1,Junco hyemalis cismontanus,Dark-eyed Junco (cismontanus),2016,L76929,44.8939628,-91.6200818,US-WI
+islcan1,Serinus canaria (Domestic type),Island Canary (Domestic type),2016,L3152903,41.1984427,-96.1695408,US-NE
+x00418,Cygnus buccinator x columbianus,Trumpeter x Tundra Swan (hybrid),2007,L276127,44.0841325,-76.9024944,CA-ON
+x00418,Cygnus buccinator x columbianus,Trumpeter x Tundra Swan (hybrid),2008,L284503,44.4633133,-76.1398029,CA-ON
+doveki,Alle alle,Dovekie,2006,L227299,43.3467407,-70.4722672,US-ME
+doveki,Alle alle,Dovekie,2007,L138900,42.3465556,-71.2106752,US-MA
+amwpel,Pelecanus erythrorhynchos,American White Pelican,2003,L25953,32.784215,-95.4401808,US-TX
+amwpel,Pelecanus erythrorhynchos,American White Pelican,2005,L76227,32.2481524,-96.095541,US-TX
+amwpel,Pelecanus erythrorhynchos,American White Pelican,2006,L460269,49.82143,-102.28282,CA-SK
+yebcuc,Coccyzus americanus,Yellow-billed Cuckoo,2003,L148036,35.8909378,-78.6369553,US-NC
+comsni,Gallinago gallinago,Common Snipe,2007,L71672,50.25,-117.8,CA-BC
+yebcuc,Coccyzus americanus,Yellow-billed Cuckoo,2007,L597647,35.4921583,-76.9513322,US-NC
+y00229,Podiceps auritus/nigricollis,Horned/Eared Grebe,2008,L25953,32.784215,-95.4401808,US-TX
+astfly,Myiarchus cinerascens,Ash-throated Flycatcher,1995,L23553,39.75673,-121.60581,US-CA
+astfly,Myiarchus cinerascens,Ash-throated Flycatcher,1997,L29720,36.0412829,-119.2508143,US-CA
+leabit,Ixobrychus exilis,Least Bittern,2012,L1806836,37.586594,-120.954239,US-CA
+x00418,Cygnus buccinator x columbianus,Trumpeter x Tundra Swan (hybrid),2017,L284503,44.4633133,-76.1398029,CA-ON
+ariwoo,Dryobates arizonae,Arizona Woodpecker,2011,L27521,31.8373,-109.02996,US-NM
+houwre4,Troglodytes aedon [musculus Group],House Wren (Southern),2017,L25960,31.2079072,-81.381914,US-GA
+ariwoo,Dryobates arizonae,Arizona Woodpecker,2014,L106949,31.401968,-110.2308004,US-AZ
+mouwar,Geothlypis philadelphia,Mourning Warbler,2003,L107453,42.5866,-83.236,US-MI
+ariwoo,Dryobates arizonae,Arizona Woodpecker,2018,L106949,31.401968,-110.2308004,US-AZ
+gowwar,Vermivora chrysoptera,Golden-winged Warbler,2006,L77735,41.47595,-75.18295,US-PA
+amwpel,Pelecanus erythrorhynchos,American White Pelican,2012,L25953,32.784215,-95.4401808,US-TX
+comsni,Gallinago gallinago,Common Snipe,2017,L454545,31.3772906,-96.902225,US-TX
+amedip,Cinclus mexicanus,American Dipper,1997,L38673,38.92752,-119.96725,US-CA
+babwar,Setophaga castanea,Bay-breasted Warbler,2000,L24428,33.39768,-86.83167,US-AL
+babwar,Setophaga castanea,Bay-breasted Warbler,2001,L80786,33.49912,-80.57757,US-SC
+babwar,Setophaga castanea,Bay-breasted Warbler,2003,L161887,30.40739,-86.98753,US-FL
+babwar,Setophaga castanea,Bay-breasted Warbler,2005,L229069,31.9673119,-110.2728729,US-AZ
+babwar,Setophaga castanea,Bay-breasted Warbler,2006,L132631,40.7582397,-74.406517,US-NJ
+babwar,Setophaga castanea,Bay-breasted Warbler,2008,L597530,39.443154,-74.511723,US-NJ
+gowwar,Vermivora chrysoptera,Golden-winged Warbler,2011,L37748,40.86551,-73.36615,US-NY
+stbori,Icterus pustulatus,Streak-backed Oriole,2008,L265135,40.3887863,-105.1045609,US-CO
+leasan,Calidris minutilla,Least Sandpiper,2001,L107548,33.64853,-117.59777,US-CA
+eurbla,Turdus merula,Eurasian Blackbird,2008,L166946,46.487114,-84.3763657,US-MI
+amwpel,Pelecanus erythrorhynchos,American White Pelican,2020,L12898541,32.9332428,-97.511909,US-TX
+comsni,Gallinago gallinago,Common Snipe,2020,L454545,31.3772906,-96.902225,US-TX
+yebcuc,Coccyzus americanus,Yellow-billed Cuckoo,2021,L77513,27.3093517,-80.561573,US-FL
+reevir1,Vireo olivaceus,Red-eyed Vireo,2001,L77839,43.14089,-77.54609,US-NY
+reevir1,Vireo olivaceus,Red-eyed Vireo,2004,L139577,35.0870018,-89.8774033,US-TN
+reevir1,Vireo olivaceus,Red-eyed Vireo,2005,L166556,41.2603683,-79.2766266,US-PA
+ywcpar,Amazona ochrocephala,Yellow-crowned Parrot,2008,L150522,26.1113739,-80.2447128,US-FL
+norpyo2,Glaucidium gnoma pinicola,Northern Pygmy-Owl (Rocky Mts.),2017,L142565,51.0574193,-116.6079426,CA-BC
+shtspa,Ammospiza nelsoni/caudacuta,Nelson's/Saltmarsh Sparrow (Sharp-tailed Sparrow),1995,L27577,43.275,-79.966,CA-ON
+shtspa,Ammospiza nelsoni/caudacuta,Nelson's/Saltmarsh Sparrow (Sharp-tailed Sparrow),1998,L39067,40.08619,-74.11993,US-NJ
+sheowl,Asio flammeus,Short-eared Owl,2001,L77539,42.92524,-79.386191,CA-ON
+sheowl,Asio flammeus,Short-eared Owl,2003,L18755,52.98333,-105.41667,CA-SK
+babwar,Setophaga castanea,Bay-breasted Warbler,2010,L42239,41.00227,-85.15992,US-IN
+sheowl,Asio flammeus,Short-eared Owl,2005,L71778,49.91667,-116.91667,CA-BC
+babwar,Setophaga castanea,Bay-breasted Warbler,2013,L24890,29.7759,-95.59904,US-TX
+babwar,Setophaga castanea,Bay-breasted Warbler,2014,L98538,38.924,-78.18968,US-VA
+sheowl,Asio flammeus,Short-eared Owl,2009,L356688,44.2501023,-88.4272224,US-WI
+babwar,Setophaga castanea,Bay-breasted Warbler,2017,L6287756,42.715216,-76.404335,US-NY
+babwar,Setophaga castanea,Bay-breasted Warbler,2018,L5592001,41.3305631,-72.6832771,US-CT
+indpea1,Pavo cristatus (Domestic type),Indian Peafowl (Domestic type),2021,L228839,33.7796904,-118.3469938,US-CA
+stbori,Icterus pustulatus,Streak-backed Oriole,2010,L908847,37.8813572,-122.1812725,US-CA
+eurbla,Turdus merula,Eurasian Blackbird,2013,L276707,39.09397,-77.094823,US-MD
+eurbla,Turdus merula,Eurasian Blackbird,2014,L276707,39.09397,-77.094823,US-MD
+leasan,Calidris minutilla,Least Sandpiper,2011,L1027212,32.2203077,-95.7688844,US-TX
+leasan,Calidris minutilla,Least Sandpiper,2013,L1027212,32.2203077,-95.7688844,US-TX
+leasan,Calidris minutilla,Least Sandpiper,2015,L3176179,32.2484065,-96.0953693,US-TX
+leasan,Calidris minutilla,Least Sandpiper,2017,L5040237,24.923398,-80.6266472,US-FL
+leasan,Calidris minutilla,Least Sandpiper,2018,L6768293,33.3887441,-79.9362767,US-SC
+grepew,Contopus pertinax,Greater Pewee,2004,L230003,26.1529274,-97.9966049,US-TX
+lazbun,Passerina amoena,Lazuli Bunting,1989,L35317,27.7086,-80.44971,US-FL
+orcori,Icterus spurius,Orchard Oriole,1991,L23898,40.76395,-73.77526,US-NY
+orcori,Icterus spurius,Orchard Oriole,1992,L31011,41.50055,-82.01569,US-OH
+eurgol,Carduelis carduelis,European Goldfinch,2017,L610817,41.6478329,-71.4985943,US-RI
+yelwar1,Setophaga petechia [aestiva Group],Yellow Warbler (Northern),2007,L166438,33.4666849,-96.7064559,US-TX
+sheowl,Asio flammeus,Short-eared Owl,2013,L1290081,49.33098,-123.13661,CA-BC
+orcori,Icterus spurius,Orchard Oriole,1999,L32459,34.6903,-82.82333,US-SC
+babwar,Setophaga castanea,Bay-breasted Warbler,2022,L21343270,29.6223966,-81.9152204,US-FL
+sheowl,Asio flammeus,Short-eared Owl,2016,L7696508,51.00183,-99.66721,CA-MB
+nohowl,Surnia ulula,Northern Hawk Owl,1992,L36607,47.43333,-72.783333,CA-QC
+babwar,Setophaga castanea,Bay-breasted Warbler,2024,L7424398,41.2108175,-73.7314475,US-NY
+nohowl,Surnia ulula,Northern Hawk Owl,1995,L39228,46.86667,-71.016667,CA-QC
+x00050,Larus argentatus x glaucescens,Herring x Glaucous-winged Gull (hybrid),2003,L132565,41.2835884,-72.6874771,US-CT
+winwre,Troglodytes pacificus/hiemalis,Pacific/Winter Wren,1988,L35299,38.35774,-79.84192,US-WV
+winwre,Troglodytes pacificus/hiemalis,Pacific/Winter Wren,1989,L38770,39.4918,-80.66897,US-WV
+whehum,Basilinna leucotis,White-eared Hummingbird,1994,L30699,34.17228,-117.33554,US-CA
+whehum,Basilinna leucotis,White-eared Hummingbird,1997,L30699,34.17228,-117.33554,US-CA
+orcwax,Estrilda melpoda,Orange-cheeked Waxbill,2016,L3159347,34.09143,-118.247058,US-CA
+gretit1,Parus major,Great Tit,2023,L6615601,43.919057,-87.727333,US-WI
+leasan,Calidris minutilla,Least Sandpiper,2021,L12756434,41.0977807,-81.6684799,US-OH
+leasan,Calidris minutilla,Least Sandpiper,2022,L22288848,27.691315,-97.4915219,US-TX
+accipi,Accipiter sp.,Accipiter sp.,1999,L20528,46.9953728,-94.8480392,US-MN
+sonspa2,Melospiza melodia melodia/atlantica,Song Sparrow (melodia/atlantica),2020,L12834979,50.4525858,-96.5682364,CA-MB
+sonspa2,Melospiza melodia melodia/atlantica,Song Sparrow (melodia/atlantica),2022,L14114278,47.0241461,-122.8301729,US-WA
+lazbun,Passerina amoena,Lazuli Bunting,1995,L20454,39.3445,-84.40701,US-OH
+bkpwar,Setophaga striata,Blackpoll Warbler,2000,L76730,47.6813314,-122.6700031,US-WA
+lazbun,Passerina amoena,Lazuli Bunting,1999,L32625,41.07296,-111.97909,US-UT
+bkpwar,Setophaga striata,Blackpoll Warbler,2002,L106315,39.656,-75.366,US-NJ
+bkpwar,Setophaga striata,Blackpoll Warbler,2003,L108486,41.83402,-75.87638,US-PA
+bkpwar,Setophaga striata,Blackpoll Warbler,2007,L371800,42.5260131,-85.8614159,US-MI
+brewar,Vermivora chrysoptera x cyanoptera (F1 hybrid),Brewster's Warbler (hybrid),2007,L364384,42.232639,-71.380014,US-MA
+bkpwar,Setophaga striata,Blackpoll Warbler,2009,L228960,33.7707024,-83.1085434,US-GA
+chswar,Setophaga pensylvanica,Chestnut-sided Warbler,2003,L107896,33.8554,-84.3096,US-GA
+chswar,Setophaga pensylvanica,Chestnut-sided Warbler,2006,L363928,44.50054,-81.38356,CA-ON
+chswar,Setophaga pensylvanica,Chestnut-sided Warbler,2007,L170331,29.6988335,-81.2252502,US-FL
+sheowl,Asio flammeus,Short-eared Owl,2024,L1336896,46.7709032,-56.1834774,PM-
+winwre,Troglodytes pacificus/hiemalis,Pacific/Winter Wren,1992,L28569,43.3957,-89.38576,US-WI
+winwre,Troglodytes pacificus/hiemalis,Pacific/Winter Wren,1998,L42410,39.40083,-81.45127,US-WV
+purgal2,Porphyrio martinica,Purple Gallinule,2004,L233195,28.7650318,-81.653923,US-FL
+y00488,Icterus spurius/cucullatus,Orchard/Hooded Oriole,2010,L279448,36.967595,-121.961746,US-CA
+osprey,Pandion haliaetus,Osprey,1995,L26179,36.34589,-79.65715,US-NC
+rusbla,Euphagus carolinus,Rusty Blackbird,1996,L42020,38.49044,-78.13227,US-VA
+bkpwar,Setophaga striata,Blackpoll Warbler,2012,L1038718,43.4043732,-75.8908234,US-NY
+bkpwar,Setophaga striata,Blackpoll Warbler,2014,L2426101,30.331332,-81.575177,US-FL
+bkpwar,Setophaga striata,Blackpoll Warbler,2016,L617284,39.679492,-75.78206,US-DE
+chswar,Setophaga pensylvanica,Chestnut-sided Warbler,2013,L1030840,38.5191269,-90.6428375,US-MO
+tunswa,Cygnus columbianus,Tundra Swan,1991,L33355,38.767,-76.28037,US-MD
+tunswa,Cygnus columbianus,Tundra Swan,1994,L36946,54.51667,-128.58333,CA-BC
+tunswa,Cygnus columbianus,Tundra Swan,1995,L36946,54.51667,-128.58333,CA-BC
+tunswa,Cygnus columbianus,Tundra Swan,1998,L19626,42.03333,-82.916667,CA-ON
+gbbgul,Larus marinus,Great Black-backed Gull,2023,L16880709,48.9593239,-57.9325122,CA-NL
+gbbgul,Larus marinus,Great Black-backed Gull,2024,L27769442,37.306032,-76.00197,US-VA
+reccar,Paroaria coronata,Red-crested Cardinal,2007,L274477,21.293214,-157.799431,US-HI
+y00488,Icterus spurius/cucullatus,Orchard/Hooded Oriole,2023,L18153895,29.0580212,-95.4521866,US-TX
+y00488,Icterus spurius/cucullatus,Orchard/Hooded Oriole,2024,L21119712,40.9173069,-82.3968601,US-OH
+clarai11,Rallus crepitans,Clapper Rail,2007,L460320,38.835818,-76.511405,US-MD
+lecthr,Toxostoma lecontei,LeConte's Thrasher,2001,L31975,31.50187,-110.25483,US-AZ
+lecthr,Toxostoma lecontei,LeConte's Thrasher,2005,L31975,31.50187,-110.25483,US-AZ
+lecthr,Toxostoma lecontei,LeConte's Thrasher,2006,L31975,31.50187,-110.25483,US-AZ
+quail1,Odontophoridae sp.,new world quail sp.,2002,L103675,38.1784375,-78.0995744,US-VA
+x00617,Larus argentatus x glaucoides,Herring x Iceland Gull (hybrid),2005,L161691,49.2571236,-123.1877446,CA-BC
+yebcha1,Icteria virens virens,Yellow-breasted Chat (virens),2007,L228855,38.7449226,-75.1596298,US-DE
+yebcha1,Icteria virens virens,Yellow-breasted Chat (virens),2008,L132032,45.3697205,-63.285099,CA-NS
+whwpar,Brotogeris versicolurus,White-winged Parakeet,2001,L80962,26.53202,-80.14697,US-FL
+yebcha1,Icteria virens virens,Yellow-breasted Chat (virens),2009,L815329,40.3310127,-74.037674,US-NJ
+whwpar,Brotogeris versicolurus,White-winged Parakeet,2005,L230102,41.1014328,-73.399231,US-CT
+whwpar,Brotogeris versicolurus,White-winged Parakeet,2006,L230102,41.1014328,-73.399231,US-CT
+whwpar,Brotogeris versicolurus,White-winged Parakeet,2009,L150522,26.1113739,-80.2447128,US-FL
+olsfly,Contopus cooperi,Olive-sided Flycatcher,2001,L82009,40.78963,-74.31966,US-NJ
+olsfly,Contopus cooperi,Olive-sided Flycatcher,2003,L167282,34.4006615,-119.5169525,US-CA
+olsfly,Contopus cooperi,Olive-sided Flycatcher,2004,L167674,32.9200974,-117.1332321,US-CA
+y00610,Nycticorax nycticorax/Nyctanassa violacea,Yellow-crowned/Black-crowned Night Heron,2013,L864273,41.180269,-73.3447909,US-CT
+bkbwar,Setophaga fusca,Blackburnian Warbler,2000,L77976,36.47301,-94.32001,US-AR
+coukin,Tyrannus couchii,Couch's Kingbird,2001,L103668,26.3351498,-97.4808505,US-TX
+bkbwar,Setophaga fusca,Blackburnian Warbler,2001,L42600,39.78839,-75.8936,US-PA
+bkbwar,Setophaga fusca,Blackburnian Warbler,2005,L247409,31.6720009,-97.098999,US-TX
+bkbwar,Setophaga fusca,Blackburnian Warbler,2007,L149156,42.3349609,-71.8105774,US-MA
+coukin,Tyrannus couchii,Couch's Kingbird,2009,L635045,27.648433,-97.289427,US-TX
+lecthr,Toxostoma lecontei,LeConte's Thrasher,2012,L1038061,34.1250496,-116.2663498,US-CA
+lecthr,Toxostoma lecontei,LeConte's Thrasher,2013,L1038061,34.1250496,-116.2663498,US-CA
+lecthr,Toxostoma lecontei,LeConte's Thrasher,2015,L1038061,34.1250496,-116.2663498,US-CA
+lecthr,Toxostoma lecontei,LeConte's Thrasher,2019,L10063978,37.5221886,-118.3589637,US-CA
+revbul,Pycnonotus cafer,Red-vented Bulbul,1994,L20430,21.35112,-157.92164,US-HI
+herthr3,Catharus guttatus faxoni/crymophilus,Hermit Thrush (faxoni/crymophilus),2001,L41481,41.9294054,-88.3338064,US-IL
+cavswa,Petrochelidon fulva,Cave Swallow,2023,L20605270,33.0659922,-97.0759249,US-TX
+y00600,Anas platyrhynchos/rubripes,Mallard/American Black Duck,2018,L361279,42.0495476,-70.1951694,US-MA
+yebcha1,Icteria virens virens,Yellow-breasted Chat (virens),2015,L132032,45.3697205,-63.285099,CA-NS
+coukin,Tyrannus couchii,Couch's Kingbird,2010,L635045,27.648433,-97.289427,US-TX
+clarai11,Rallus crepitans,Clapper Rail,2023,L27786303,33.870006,-78.5183085,US-NC
+coukin,Tyrannus couchii,Couch's Kingbird,2013,L2063887,28.5728766,-97.7947569,US-TX
+musduc,Cairina moschata,Muscovy Duck,2012,L139266,25.9260197,-97.5125732,US-TX
+wooscj1,Aphelocoma woodhouseii [woodhouseii Group],Woodhouse's Scrub-Jay (Woodhouse's),2014,L2429502,39.823959,-105.088354,US-CO
+y00330,Toxostoma curvirostre/bendirei,Curve-billed/Bendire's Thrasher,2006,L356137,31.939066,-106.444373,US-TX
+herthr3,Catharus guttatus faxoni/crymophilus,Hermit Thrush (faxoni/crymophilus),2011,L360119,38.1040621,-86.1250877,US-IN
+herthr3,Catharus guttatus faxoni/crymophilus,Hermit Thrush (faxoni/crymophilus),2017,L467514,41.2439193,-73.5235211,US-NY
+virwar,Leiothlypis virginiae,Virginia's Warbler,2000,L77776,34.23533,-118.54731,US-CA
+bkbwar,Setophaga fusca,Blackburnian Warbler,2021,L7031118,36.357958000000004,-81.5537882,US-NC
+virwar,Leiothlypis virginiae,Virginia's Warbler,2006,L233688,40.5862274,-111.836586,US-UT
+virwar,Leiothlypis virginiae,Virginia's Warbler,2008,L614608,37.586896,-122.487779,US-CA
+chclon,Calcarius ornatus,Chestnut-collared Longspur,1989,L34731,49.864,-97.14,CA-MB
+buwwar,Vermivora cyanoptera,Blue-winged Warbler,2002,L23885,30.4116,-91.08462,US-LA
+swallo,Hirundinidae sp.,swallow sp.,2007,L99263,44.3503757,-122.7832568,US-OR
+orcori2,Icterus spurius spurius,Orchard Oriole (Orchard),2009,L98178,33.92053,-80.84172,US-SC
+buwwar,Vermivora cyanoptera,Blue-winged Warbler,2008,L24890,29.7759,-95.59904,US-TX
+buwwar,Vermivora cyanoptera,Blue-winged Warbler,2009,L597647,35.4921583,-76.9513322,US-NC
+bkhpar,Aratinga nenday,Nanday Parakeet,2007,L389349,27.718863,-82.685944,US-FL
+semsan,Calidris pusilla,Semipalmated Sandpiper,2021,L12727506,38.1457851,-105.5533846,US-CO
+semsan,Calidris pusilla,Semipalmated Sandpiper,2023,L27751236,27.8403284,-97.067095,US-TX
+amerob1,Turdus migratorius [migratorius Group],American Robin (migratorius Group),2014,L190489,41.1162071,-74.3507233,US-NJ
+y00330,Toxostoma curvirostre/bendirei,Curve-billed/Bendire's Thrasher,2013,L356137,31.939066,-106.444373,US-TX
+y00330,Toxostoma curvirostre/bendirei,Curve-billed/Bendire's Thrasher,2016,L356137,31.939066,-106.444373,US-TX
+comwax,Estrilda astrild,Common Waxbill,2005,L274477,21.293214,-157.799431,US-HI
+sapsuc,Sphyrapicus sp.,sapsucker sp.,2007,L363887,42.94831,-80.28286,CA-ON
+yebbun,Emberiza aureola,Yellow-breasted Bunting,2007,L162120,39.24979,-106.29744,US-CO
+sapsuc,Sphyrapicus sp.,sapsucker sp.,2009,L229649,34.2682228,-118.2993941,US-CA
+grnjay,Cyanocorax yncas,Green Jay,1991,L29819,26.51648,-99.11224,US-TX
+virwar,Leiothlypis virginiae,Virginia's Warbler,2016,L5102950,32.3312255,-111.0341183,US-AZ
+monqua,Cyrtonyx montezumae,Montezuma Quail,2009,L106949,31.401968,-110.2308004,US-AZ
+buwwar,Vermivora cyanoptera,Blue-winged Warbler,2014,L139307,38.8566017,-75.4037094,US-DE
+chicka1,Poecile sp.,chickadee sp.,2003,L166438,33.4666849,-96.7064559,US-TX
+egygoo,Alopochen aegyptiaca,Egyptian Goose,2010,L809665,32.4754104,-97.7471209,US-TX
+x00423,Anas platyrhynchos x wyvilliana,Mallard x Hawaiian Duck (hybrid),2018,L6474096,21.3812379,-157.7337089,US-HI
+amerob1,Turdus migratorius [migratorius Group],American Robin (migratorius Group),2023,L272673,45.217137,-93.38997,US-MN
+rxyfli,Colaptes auratus luteus x cafer,Northern Flicker (Yellow-shafted x Red-shafted),2001,L77949,47.979,-122.201,US-WA
+naswar1,Leiothlypis ruficapilla ruficapilla,Nashville Warbler (ruficapilla),2011,L75039,30.13695,-82.96435,US-FL
+sapsuc,Sphyrapicus sp.,sapsucker sp.,2010,L78978,34.9426764,-119.6829987,US-CA
+whcpig2,Patagioenas leucocephala,White-crowned Pigeon,2004,L81408,44.165,-77.358,CA-ON
+naswar1,Leiothlypis ruficapilla ruficapilla,Nashville Warbler (ruficapilla),2013,L1816326,27.5896721,-99.4700165,US-TX
+whcpig2,Patagioenas leucocephala,White-crowned Pigeon,2005,L229905,36.1668549,-80.3791656,US-NC
+whcpig2,Patagioenas leucocephala,White-crowned Pigeon,2006,L81777,29.62642,-95.22103,US-TX
+luchum,Calothorax lucifer,Lucifer Hummingbird,1999,L29875,33.70708,-117.20185,US-CA
+virwar,Leiothlypis virginiae,Virginia's Warbler,2021,L12848899,38.7574779,-77.0521738,US-VA
+virwar,Leiothlypis virginiae,Virginia's Warbler,2023,L22257,32.6028,-110.7935143,US-AZ
+crow,Corvus sp. (crow sp.),crow sp.,1994,L26176,27.78971,-82.71874,US-FL
+rethaw2,Buteo jamaicensis jamaicensis,Red-tailed Hawk (jamaicensis),2008,L102948,41.6649,-91.50869,US-IA
+louwat,Parkesia motacilla,Louisiana Waterthrush,2006,L233013,41.0106621,-73.9083023,US-NY
+btbwar,Setophaga caerulescens,Black-throated Blue Warbler,1995,L38723,40.43082,-79.76363,US-PA
+louwat,Parkesia motacilla,Louisiana Waterthrush,2009,L358610,30.0286032,-97.5497532,US-TX
+btbwar,Setophaga caerulescens,Black-throated Blue Warbler,1997,L21990,40.40779,-75.91367,US-PA
+btbwar,Setophaga caerulescens,Black-throated Blue Warbler,1998,L21990,40.40779,-75.91367,US-PA
+rindov,Streptopelia capicola,Ring-necked Dove,2014,L73541,44.08337,-121.28969,US-OR
+calgna,Polioptila californica,California Gnatcatcher,2001,L77334,32.9615517,-117.125072,US-CA
+chicka1,Poecile sp.,chickadee sp.,2019,L34699,41.53136,-81.34309,US-OH
+calgna,Polioptila californica,California Gnatcatcher,2006,L357045,33.630971,-117.909533,US-CA
+btywar,Setophaga nigrescens,Black-throated Gray Warbler,2000,L78065,33.4659,-117.63643,US-CA
+btywar,Setophaga nigrescens,Black-throated Gray Warbler,2001,L103668,26.3351498,-97.4808505,US-TX
+btywar,Setophaga nigrescens,Black-throated Gray Warbler,2004,L24452,34.10911,-117.72571,US-CA
+sparro1,Passerellidae sp.,new world sparrow sp.,2001,L105330,58.35148,-134.49588,US-AK
+comwax,Estrilda astrild,Common Waxbill,2021,L867162,21.4229692,-157.9494202,US-HI
+comwax,Estrilda astrild,Common Waxbill,2023,L867162,21.4229692,-157.9494202,US-HI
+cerwar,Setophaga cerulea,Cerulean Warbler,2001,L77372,30.47201,-88.55114,US-MS
+cerwar,Setophaga cerulea,Cerulean Warbler,2002,L76270,35.81451,-82.68702,US-NC
+cerwar,Setophaga cerulea,Cerulean Warbler,2007,L167591,41.7625656,-73.3608017,US-CT
+cerwar,Setophaga cerulea,Cerulean Warbler,2008,L273473,40.720202,-73.315689,US-NY
+cerwar,Setophaga cerulea,Cerulean Warbler,2009,L81777,29.62642,-95.22103,US-TX
+compau,Nyctidromus albicollis,Common Pauraque,2020,L6824873,20.7531588,-105.3845664,MX-NAY
+rethaw2,Buteo jamaicensis jamaicensis,Red-tailed Hawk (jamaicensis),2010,L618428,44.29535,-64.3218613,CA-NS
+norwat,Parkesia noveboracensis,Northern Waterthrush,2008,L614608,37.586896,-122.487779,US-CA
+monqua,Cyrtonyx montezumae,Montezuma Quail,2023,L21228847,30.0990075,-96.5102048,US-TX
+rethaw2,Buteo jamaicensis jamaicensis,Red-tailed Hawk (jamaicensis),2013,L618428,44.29535,-64.3218613,CA-NS
+louwat,Parkesia motacilla,Louisiana Waterthrush,2010,L25808,39.46009,-77.96689,US-WV
+louwat,Parkesia motacilla,Louisiana Waterthrush,2014,L1318701,32.8352819,-82.9430437,US-GA
+louwat,Parkesia motacilla,Louisiana Waterthrush,2015,L1503916,26.1230374,-97.957406,US-TX
+lovebi1,Agapornis sp.,lovebird sp.,2009,L638496,33.511036,-112.0616,US-AZ
+categr,Bubulcus ibis/coromandus,Western/Eastern Cattle Egret,2023,L27769692,32.8139957,-79.8874102,US-SC
+calgna,Polioptila californica,California Gnatcatcher,2012,L217621,32.76345,-117.122375,US-CA
+gnwtea,Anas crecca,Green-winged Teal,1993,L42132,44.65,-66.85,CA-NB
+gnwtea,Anas crecca,Green-winged Teal,1997,L22114,42.64372,-83.47272,US-MI
+gnwtea,Anas crecca,Green-winged Teal,1999,L22114,42.64372,-83.47272,US-MI
+easkin,Tyrannus tyrannus,Eastern Kingbird,2000,L77374,30.48869,-84.31304,US-FL
+snoowl1,Bubo scandiacus,Snowy Owl,2002,L106912,44.3,-81.266667,CA-ON
+snoowl1,Bubo scandiacus,Snowy Owl,2003,L143771,43.2130013,-77.5800018,US-NY
+snoowl1,Bubo scandiacus,Snowy Owl,2004,L38858,44.6618616,-88.3323526,US-WI
+sprgro,Canachites canadensis,Spruce Grouse,1994,L38580,43.12,-79.105,CA-ON
+lovebi1,Agapornis sp.,lovebird sp.,2015,L2831480,40.674372,-73.705507,US-NY
+comyel,Geothlypis trichas,Common Yellowthroat,1991,L34729,32.79272,-116.96747,US-CA
+redava,Amandava amandava,Red Avadavat,2005,L274477,21.293214,-157.799431,US-HI
+calgna,Polioptila californica,California Gnatcatcher,2020,L7015066,33.4371536,-117.6324391,US-CA
+redava,Amandava amandava,Red Avadavat,2006,L274477,21.293214,-157.799431,US-HI
+calgna,Polioptila californica,California Gnatcatcher,2021,L7015066,33.4371536,-117.6324391,US-CA
+calgna,Polioptila californica,California Gnatcatcher,2022,L28901,32.96235,-117.11978,US-CA
+baitea,Sibirionetta formosa,Baikal Teal,2005,L234470,41.9165077,-70.8409042,US-MA
+buthum,Lampornis clemenciae,Blue-throated Mountain-gem,2021,L13884321,31.9119851,-109.136821,US-AZ
+buthum,Lampornis clemenciae,Blue-throated Mountain-gem,2024,L28737392,32.3276441,-110.830764,US-AZ
+owl1,Strigiformes sp.,owl sp.,2008,L460329,42.780105,-71.083374,US-MA
+owl1,Strigiformes sp.,owl sp.,2009,L217466,41.467533,-122.38173,US-CA
+rinkin1,Megaceryle torquata,Ringed Kingfisher,2007,L296533,43.663334,-116.258068,US-ID
+rudduc,Oxyura jamaicensis,Ruddy Duck,1992,L33230,39.12439,-104.55195,US-CO
+rudduc,Oxyura jamaicensis,Ruddy Duck,1998,L39614,38.68769,-76.12786,US-MD
+wewpew,Contopus sordidulus,Western Wood-Pewee,1997,L33704,32.25557,-109.83999,US-AZ
+y00617,Picoides dorsalis/arcticus,American Three-toed/Black-backed Woodpecker,2009,L980965,45.62719,-66.22424,CA-NB
+olispa,Arremonops rufivirgatus,Olive Sparrow,2008,L470791,34.600161,-93.146759,US-AR
+pitwhy,Vidua macroura,Pin-tailed Whydah,2018,L241642,33.7039206,-118.0163383,US-CA
+obnthr1,Catharus aurantiirostris,Orange-billed Nightingale-Thrush,2020,L6824873,20.7531588,-105.3845664,MX-NAY
+easwpw1,Antrostomus vociferus,Eastern Whip-poor-will,2003,L139882,30.2310791,-81.7498474,US-FL
+easwpw1,Antrostomus vociferus,Eastern Whip-poor-will,2009,L484734,31.6383293,-81.3305855,US-GA
+owl1,Strigiformes sp.,owl sp.,2010,L981183,43.78118,-65.88338,CA-NS
+owl1,Strigiformes sp.,owl sp.,2012,L460245,49.334323,-123.0242887,CA-BC
+lesnig,Chordeiles acutipennis,Lesser Nighthawk,2012,L162461,33.3735413,-112.0015491,US-AZ
+lesnig,Chordeiles acutipennis,Lesser Nighthawk,2013,L494827,36.8341625,-119.8697418,US-CA
+owl1,Strigiformes sp.,owl sp.,2016,L97867,50.65,-104.83333,CA-SK
+lesnig,Chordeiles acutipennis,Lesser Nighthawk,2016,L4011106,27.5104933,-99.523918,US-TX
+lesnig,Chordeiles acutipennis,Lesser Nighthawk,2019,L6824873,20.7531588,-105.3845664,MX-NAY
+royter1,Thalasseus maximus,Royal Tern,2023,L22320762,27.5537461,-82.4536718,US-FL
+yefwoo1,Melanerpes flavifrons,Yellow-fronted Woodpecker,2014,L1806867,30.280041,-98.872633,US-TX
+snoowl1,Bubo scandiacus,Snowy Owl,2024,L21461016,46.3173389,-79.297755,CA-ON
+skylar,Alauda arvensis,Eurasian Skylark,2012,L1447329,20.0159607,-155.6687012,US-HI
+maghum1,Eugenes fulgens,Rivoli's Hummingbird,2005,L139321,32.1636086,-109.3381119,US-AZ
+y00617,Picoides dorsalis/arcticus,American Three-toed/Black-backed Woodpecker,2010,L980979,43.16968,-79.46946,CA-ON
+wesjay,Aphelocoma californica/woodhouseii,California/Woodhouse's Scrub-Jay,2002,L76283,38.90513,-119.73047,US-NV
+sabjay,Cyanocorax sanblasianus,San Blas Jay,2020,L6824873,20.7531588,-105.3845664,MX-NAY
+flycat1,Tyrannidae sp.,new world flycatcher sp.,2003,L150184,35.8743766,-106.0108888,US-NM
+rtlhum,Amazilia tzacatl,Rufous-tailed Hummingbird,2005,L228755,48.8025284,-123.2835999,CA-BC
+easwpw1,Antrostomus vociferus,Eastern Whip-poor-will,2011,L1020223,35.3534737,-82.0143127,US-NC
+easwpw1,Antrostomus vociferus,Eastern Whip-poor-will,2019,L3543705,41.4845276,-73.7005377,US-NY
+eassco1,Megascops asio [asio Group],Eastern Screech-Owl (Northern),2012,L610427,42.473476,-83.374209,US-MI
+x00622,Cyanocitta stelleri x cristata,Steller's x Blue Jay (hybrid),2002,L98653,42.42588,-83.4822,US-MI
+smilon,Calcarius pictus,Smith's Longspur,2002,L132382,38.1485214,-122.2491531,US-CA
+smilon,Calcarius pictus,Smith's Longspur,2003,L132382,38.1485214,-122.2491531,US-CA
+lesnig,Chordeiles acutipennis,Lesser Nighthawk,2022,L10106521,33.391245,-111.4364153,US-AZ
+smilon,Calcarius pictus,Smith's Longspur,2004,L166438,33.4666849,-96.7064559,US-TX
+lesnig,Chordeiles acutipennis,Lesser Nighthawk,2023,L76254,33.4503137,-115.7165051,US-CA
+smilon,Calcarius pictus,Smith's Longspur,2008,L19865,49.01667,-88.266667,CA-ON
+skylar,Alauda arvensis,Eurasian Skylark,2021,L16743582,48.4323162,-123.312355,CA-BC
+hilmyn,Gracula religiosa,Common Hill Myna,2007,L364092,25.606472,-80.345796000000007,US-FL
+maghum1,Eugenes fulgens,Rivoli's Hummingbird,2018,L517869,31.9122811,-109.1577959,US-AZ
+fieldf,Turdus pilaris,Fieldfare,2017,L230166,40.798511,-76.9826146,US-PA
+easmea2,Sturnella magna [magna Group],Eastern Meadowlark (Eastern),2007,L464106,35.772774,-86.904792,US-TN
+flycat1,Tyrannidae sp.,new world flycatcher sp.,2016,L806489,44.5569808,-81.1095554,CA-ON
+easwpw1,Antrostomus vociferus,Eastern Whip-poor-will,2020,L8130555,37.8654401,-77.5135477,US-VA
+flycat1,Tyrannidae sp.,new world flycatcher sp.,2018,L6488140,31.9426556,-110.7927337,US-AZ
+easwpw1,Antrostomus vociferus,Eastern Whip-poor-will,2021,L1408748,42.116243,-80.1296103,US-PA
+ruthum1,Chrysolampis mosquitus,Ruby-topaz Hummingbird,2016,L166531,32.7578906,-79.9930161,US-SC
+palwar3,Setophaga palmarum palmarum,Palm Warbler (Western),2009,L802596,39.2198448,-77.6829605,US-VA
+greprc1,Tympanuchus cupido pinnatus,Greater Prairie-Chicken (pinnatus),2007,L274214,39.667774,-102.418045,US-CO
+sedwre1,Cistothorus stellaris,Sedge Wren,2001,L78936,36.68478,-77.55357,US-VA
+flsjay,Aphelocoma coerulescens,Florida Scrub-Jay,1995,L131599,39.5086432,-77.0889616,US-MD
+flsjay,Aphelocoma coerulescens,Florida Scrub-Jay,1996,L131599,39.5086432,-77.0889616,US-MD
+mexduc,Anas diazi,Mexican Duck,2004,L188817,39.3138847,-78.3275375,US-VA
+mexduc,Anas diazi,Mexican Duck,2007,L470387,35.560213,-106.1175442,US-NM
+sedwre1,Cistothorus stellaris,Sedge Wren,2009,L378625,27.0720044,-82.1435738,US-FL
+maghum1,Eugenes fulgens,Rivoli's Hummingbird,2020,L5548528,32.8001942,-108.2837337,US-NM
+fieldf,Turdus pilaris,Fieldfare,2022,L5414039,33.9853423,-96.5555871,US-OK
+agwtea1,Anas crecca carolinensis,Green-winged Teal (American),2007,L37941,44.2395882,-69.0346863,US-ME
+flycat1,Tyrannidae sp.,new world flycatcher sp.,2023,L1806342,30.1990376,-81.6285782,US-FL
+easmea2,Sturnella magna [magna Group],Eastern Meadowlark (Eastern),2019,L818190,38.0277095,-84.8734081,US-KY
+amered,Setophaga ruticilla,American Redstart,2000,L77994,26.26944,-80.25428,US-FL
+palwar3,Setophaga palmarum palmarum,Palm Warbler (Western),2014,L177795,32.237011,-80.7342377,US-SC
+goose1,Anatidae (goose sp.),goose sp.,2011,L1290063,41.427245,-80.66426,US-OH
+cockat,Nymphicus hollandicus,Cockatiel,1994,L31853,28.53131,-81.47673,US-FL
+goose1,Anatidae (goose sp.),goose sp.,2013,L981001,46.28007,-83.23402,CA-ON
+y00337,Molothrus aeneus/ater,Bronzed/Brown-headed Cowbird,2004,L166125,42.875042,-85.6665726,US-MI
+laplon,Calcarius lapponicus,Lapland Longspur,1997,L36777,43.5173,-96.79041,US-SD
+agwtea1,Anas crecca carolinensis,Green-winged Teal (American),2015,L31331,45.17879,-89.71008,US-WI
+easmea2,Sturnella magna [magna Group],Eastern Meadowlark (Eastern),2023,L460367,41.7425349,-80.170235,US-PA
+prowar,Protonotaria citrea,Prothonotary Warbler,2003,L139432,39.1300011,-76.0299988,US-MD
+prowar,Protonotaria citrea,Prothonotary Warbler,2007,L278848,34.751821,-86.9477286,US-AL
+parauk,Aethia psittacula,Parakeet Auklet,2006,L133056,32.9830437,-96.7371063,US-TX
+prowar,Protonotaria citrea,Prothonotary Warbler,2009,L231482,30.3686008,-90.0357971,US-LA
+ycnher,Nyctanassa violacea,Yellow-crowned Night Heron,2001,L32713,30.38105,-89.09721,US-MS
+thrush1,Turdidae sp.,thrush sp.,1997,L22095,34.46359,-110.09135,US-AZ
+thrush1,Turdidae sp.,thrush sp.,1998,L27907,35.02811,-85.1566,US-TN
+palwar3,Setophaga palmarum palmarum,Palm Warbler (Western),2020,L107530,31.2805,-81.6793,US-GA
+ycnher,Nyctanassa violacea,Yellow-crowned Night Heron,2007,L170331,29.6988335,-81.2252502,US-FL
+ycnher,Nyctanassa violacea,Yellow-crowned Night Heron,2008,L293328,29.5290312,-95.2239561,US-TX
+palwar3,Setophaga palmarum palmarum,Palm Warbler (Western),2024,L4105220,46.95573,-92.2228193,US-MN
+gwfgoo,Anser albifrons,Greater White-fronted Goose,2002,L24064,35.28842,-79.40012,US-NC
+gwfgoo,Anser albifrons,Greater White-fronted Goose,2003,L147924,43.0620003,-78.9167328,US-NY
+gwfgoo,Anser albifrons,Greater White-fronted Goose,2005,L272593,44.287937,-121.530549,US-OR
+y00337,Molothrus aeneus/ater,Bronzed/Brown-headed Cowbird,2012,L98168,43.6856838,-95.5514538,US-MN
+y00337,Molothrus aeneus/ater,Bronzed/Brown-headed Cowbird,2013,L1027324,46.2432899,-63.4994164,CA-PE
+y00337,Molothrus aeneus/ater,Bronzed/Brown-headed Cowbird,2014,L283519,33.534059,-117.332846,US-CA
+wurher,Ardea herodias wardi x occidentalis,Great Blue Heron (Wurdemann's),2004,L79097,32.31584,-106.79064,US-NM
+attwoo1,Picoides dorsalis,American Three-toed Woodpecker,2024,L19868,49.769735,-92.794776,CA-ON
+wilwar2,Cardellina pusilla pusilla,Wilson's Warbler (pusilla),2006,L28492,30.8558,-90.14413,US-LA
+ycnher,Nyctanassa violacea,Yellow-crowned Night Heron,2010,L635045,27.648433,-97.289427,US-TX
+bewwre1,Thryomanes bewickii [spilurus Group],Bewick's Wren (spilurus Group),2006,L281848,45.4287566,-123.8476968,US-OR
+ycnher,Nyctanassa violacea,Yellow-crowned Night Heron,2013,L1930176,27.7184944,-82.6884613,US-FL
+ycnher,Nyctanassa violacea,Yellow-crowned Night Heron,2017,L1314013,32.1542194,-80.7544148,US-SC
+y00337,Molothrus aeneus/ater,Bronzed/Brown-headed Cowbird,2021,L1027324,46.2432899,-63.4994164,CA-PE
+y00337,Molothrus aeneus/ater,Bronzed/Brown-headed Cowbird,2022,L1027324,46.2432899,-63.4994164,CA-PE
+slcjun,Junco hyemalis hyemalis/carolinensis,Dark-eyed Junco (Slate-colored),1996,L40707,44.8431833,-93.3706453,US-MN
+musduc3,Cairina moschata (Domestic type),Muscovy Duck (Domestic type),1995,L28831,47.73726,-122.63394,US-WA
+wurher,Ardea herodias wardi x occidentalis,Great Blue Heron (Wurdemann's),2013,L1025381,30.0934429,-97.4857178,US-TX
+wurher,Ardea herodias wardi x occidentalis,Great Blue Heron (Wurdemann's),2017,L6588891,33.369385,-84.9169129,US-GA
+rubcha1,Ortalis wagleri,Rufous-bellied Chachalaca,2023,L23654259,26.1757854,-98.2293087,US-TX
+flctan,Piranga bidentata,Flame-colored Tanager,2010,L274212,36.141555,-82.410681,US-TN
+buggna1,Polioptila caerulea caerulea,Blue-gray Gnatcatcher (caerulea),2020,L169802,35.0220716,-82.696597,US-SC
+aplfal,Falco femoralis,Aplomado Falcon,2002,L108627,35.084,-106.651,US-NM
+prawar,Setophaga discolor,Prairie Warbler,2001,L103600,28.0140436,-80.693069,US-FL
+buggna1,Polioptila caerulea caerulea,Blue-gray Gnatcatcher (caerulea),2024,L74976,27.6073682,-81.8729056,US-FL
+bewwre1,Thryomanes bewickii [spilurus Group],Bewick's Wren (spilurus Group),2011,L77334,32.9615517,-117.125072,US-CA
+whcsee,Sporophila morelleti/torqueola,Morelet's/Cinnamon-rumped Seedeater,2007,L365934,37.2832044,-107.9003334,US-CO
+sagthr,Oreoscoptes montanus,Sage Thrasher,1998,L23039,35.02558,-106.29774,US-NM
+snogoo,Anser caerulescens,Snow Goose,1993,L33602,41.79029,-88.17296,US-IL
+snogoo,Anser caerulescens,Snow Goose,1994,L28790,42.03625,-87.75525,US-IL
+snogoo,Anser caerulescens,Snow Goose,1997,L42566,40.01868,-82.80584,US-OH
+snogoo,Anser caerulescens,Snow Goose,1999,L27886,36.59567,-76.72368,US-VA
+woewar1,Helmitheros vermivorum,Worm-eating Warbler,2001,L32713,30.38105,-89.09721,US-MS
+woewar1,Helmitheros vermivorum,Worm-eating Warbler,2002,L106945,30.06626,-93.91101,US-TX
+woewar1,Helmitheros vermivorum,Worm-eating Warbler,2006,L28081,35.2409,-82.31655,US-NC
+woewar1,Helmitheros vermivorum,Worm-eating Warbler,2007,L217498,35.764107,-92.30637,US-AR
+gretit3,Parus major [major Group],Great Tit (Great),2009,L808824,44.928849,-74.896974,US-NY
+tanage,Thraupidae sp. (tanager sp.),tanager sp. (Thraupidae sp.),2020,L10480365,38.8822473,-77.1404278,US-VA
+tanage,Thraupidae sp. (tanager sp.),tanager sp. (Thraupidae sp.),2022,L10229276,30.4517509,-84.2380671,US-FL
+rusbun,Emberiza rustica,Rustic Bunting,2018,L161518,49.4661474,-115.4453444,CA-BC
+wesfly,Empidonax difficilis,Western Flycatcher,1994,L32606,38.68233,-121.2274,US-CA
+woewar1,Helmitheros vermivorum,Worm-eating Warbler,2010,L150367,35.1825371,-83.3777237,US-NC
+gryfra,Ortygornis pondicerianus,Gray Francolin,2002,L108626,20.8273198,-156.91713,US-HI
+whocra,Grus americana,Whooping Crane,2005,L137831,41.8906898,-88.0276413,US-IL
+whhwoo,Dryobates albolarvatus,White-headed Woodpecker,1992,L31351,46.74217,-120.72986,US-WA
+spotow1,Pipilo maculatus [oregonus Group],Spotted Towhee (oregonus Group),2007,L281961,41.7995673,-124.1425467,US-CA
+gycthr,Catharus minimus,Gray-cheeked Thrush,1994,L26407,40.68217,-73.98099,US-NY
+gresca,Aythya marila,Greater Scaup,2001,L77279,42.5090554,-78.488732099999993,US-NY
+gycthr,Catharus minimus,Gray-cheeked Thrush,1998,L22095,34.46359,-110.09135,US-AZ
+gresca,Aythya marila,Greater Scaup,2007,L99322,41.1514348,-81.8590531,US-OH
+gresca,Aythya marila,Greater Scaup,2008,L99322,41.1514348,-81.8590531,US-OH
+rusbun,Emberiza rustica,Rustic Bunting,2023,L21753963,47.5997546,-122.2989822,US-WA
+gresca,Aythya marila,Greater Scaup,2009,L712517,38.9395004,-122.63551,US-CA
+foxsp4,Passerella iliaca [megarhyncha Group],Fox Sparrow (Thick-billed),2014,L76090,34.5526,-119.9234,US-CA
+gryfly,Empidonax wrightii,Gray Flycatcher,2008,L597598,33.967889,-112.743832,US-AZ
+buwtea,Spatula discors,Blue-winged Teal,2006,L278784,42.953638,-89.725411,US-WI
+gryfra,Ortygornis pondicerianus,Gray Francolin,2011,L297564,19.9307503,-155.7785797,US-HI
+peflov,Agapornis roseicollis,Rosy-faced Lovebird,2003,L167045,33.570919,-112.0466232,US-AZ
+gryfra,Ortygornis pondicerianus,Gray Francolin,2013,L1447329,20.0159607,-155.6687012,US-HI
+peflov,Agapornis roseicollis,Rosy-faced Lovebird,2004,L233673,35.0126991,-120.5328445,US-CA
+spotow1,Pipilo maculatus [oregonus Group],Spotted Towhee (oregonus Group),2013,L229595,37.9636002,-122.6201019,US-CA
+spotow1,Pipilo maculatus [oregonus Group],Spotted Towhee (oregonus Group),2014,L229595,37.9636002,-122.6201019,US-CA
+spotow1,Pipilo maculatus [oregonus Group],Spotted Towhee (oregonus Group),2015,L229595,37.9636002,-122.6201019,US-CA
+spotow1,Pipilo maculatus [oregonus Group],Spotted Towhee (oregonus Group),2017,L229595,37.9636002,-122.6201019,US-CA
+bushti2,Psaltriparus minimus plumbeus,Bushtit (Interior),2000,L76165,32.76552,-96.68081,US-TX
+grwpel1,Pelecanus onocrotalus,Great White Pelican,2005,L108122,43.7571663,-94.1034204,US-MN
+bushti2,Psaltriparus minimus plumbeus,Bushtit (Interior),2009,L813211,40.4913254,-111.8679123,US-UT
+buwtea,Spatula discors,Blue-winged Teal,2012,L166438,33.4666849,-96.7064559,US-TX
+x00689,Callipepla squamata x gambelii,Scaled x Gambel's Quail (hybrid),2022,L16803711,31.7890868,-109.0925391,US-AZ
+gryfra,Ortygornis pondicerianus,Gray Francolin,2022,L16907399,20.8646214,-156.5152313,US-HI
+phaino,Phainopepla nitens,Phainopepla,1993,L37350,34.4426,-119.74209,US-CA
+paired,Myioborus pictus,Painted Redstart,2001,L73518,31.4511,-110.21528,US-AZ
+paired,Myioborus pictus,Painted Redstart,2006,L277421,35.065133,-106.210683,US-NM
+paired,Myioborus pictus,Painted Redstart,2007,L148568,34.4096001,-111.5012659,US-AZ
+nuthat1,Sitta sp.,nuthatch sp.,2003,L168264,38.9361801,-84.2528,US-OH
+paired,Myioborus pictus,Painted Redstart,2008,L490177,33.5245009,-112.2091734,US-AZ
+paired,Myioborus pictus,Painted Redstart,2009,L494827,36.8341625,-119.8697418,US-CA
+nuthat1,Sitta sp.,nuthatch sp.,2005,L241863,28.5824051,-82.1724014,US-FL
+plsvir,Vireo plumbeus,Plumbeous Vireo,2005,L21592,35.4338199,-108.4474182,US-NM
+plsvir,Vireo plumbeus,Plumbeous Vireo,2006,L105632,31.85869,-110.99958,US-AZ
+plsvir,Vireo plumbeus,Plumbeous Vireo,2008,L79189,39.368,-112.3225,US-UT
+berhum,Saucerottia beryllina,Berylline Hummingbird,2022,L17419398,29.5369013,-95.2994897,US-TX
+belspa2,Artemisiospiza belli,Bell's Sparrow,1994,L33421,37.953360000000004,-122.07515,US-CA
+y00612,Accipiter striatus/cooperii,Sharp-shinned/Cooper's Hawk,2001,L104485,40.3983,-75.5544,US-PA
+y00612,Accipiter striatus/cooperii,Sharp-shinned/Cooper's Hawk,2002,L104485,40.3983,-75.5544,US-PA
+monpar1,Myiopsitta monachus [monachus Group],Monk Parakeet (Monk),2014,L2419402,41.0511406,-72.417007,US-NY
+y00612,Accipiter striatus/cooperii,Sharp-shinned/Cooper's Hawk,2004,L76217,38.7152792,-77.0646867,US-VA
+y00612,Accipiter striatus/cooperii,Sharp-shinned/Cooper's Hawk,2005,L192449,47.3008003,-96.5028,US-MN
+rallus,Rallus elegans/crepitans,King/Clapper Rail,2002,L132646,29.9472065,-90.1517944,US-LA
+paired,Myioborus pictus,Painted Redstart,2011,L27521,31.8373,-109.02996,US-NM
+paired,Myioborus pictus,Painted Redstart,2016,L382397,32.7099611,-108.302536,US-NM
+eawpew,Contopus virens,Eastern Wood-Pewee,1994,L28135,36.388420000000004,-86.45586,US-TN
+broman1,Spermestes cucullata,Bronze Mannikin,2013,L1419566,29.835247,-95.6594925,US-TX
+comcha,Fringilla coelebs,Common Chaffinch,2008,L359538,41.319,-72.8564,US-CT
+plsvir,Vireo plumbeus,Plumbeous Vireo,2011,L1320029,33.9475253,-117.3298645,US-CA
+x00619,Calypte anna x Selasphorus calliope,Anna's x Calliope Hummingbird (hybrid),2001,L79817,38.5992,-120.6238,US-CA
+plsvir,Vireo plumbeus,Plumbeous Vireo,2019,L4011397,35.0410607,-114.5823419,US-AZ
+barswa2,Hirundo rustica rustica,Barn Swallow (White-bellied),2009,L628495,42.777625,-83.332882,US-MI
+y00612,Accipiter striatus/cooperii,Sharp-shinned/Cooper's Hawk,2011,L24412,40.7322264,-73.6724925,US-NY
+swtkit,Elanoides forficatus,Swallow-tailed Kite,2003,L141611,30.1905766,-81.5318146,US-FL
+casvir,Vireo cassinii,Cassin's Vireo,1993,L40039,47.00526,-122.87398,US-WA
+mckbun,Plectrophenax hyperboreus,McKay's Bunting,1992,L36652,58.75095,-156.4884,US-AK
+mckbun,Plectrophenax hyperboreus,McKay's Bunting,1993,L36652,58.75095,-156.4884,US-AK
+virrai,Rallus limicola,Virginia Rail,2001,L76106,36.4845452,-76.5881003,US-NC
+mckbun,Plectrophenax hyperboreus,McKay's Bunting,1998,L19470,48.53333,-80.466667,CA-ON
+virrai,Rallus limicola,Virginia Rail,2006,L137711,53.0001935,-105.4639006,CA-SK
+yehbla,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,1999,L25249,38.04243,-108.31755,US-CO
+virrai,Rallus limicola,Virginia Rail,2009,L275392,40.620463,-111.853928,US-UT
+paired,Myioborus pictus,Painted Redstart,2023,L1804747,34.8210526,-111.8186188,US-AZ
+paired,Myioborus pictus,Painted Redstart,2024,L13688376,32.9468319,-108.0177243,US-NM
+comcha,Fringilla coelebs,Common Chaffinch,2013,L18905,48.95,-57.95,CA-NL
+saffin,Sicalis flaveola,Saffron Finch,2001,L77911,37.28044,-121.95151,US-CA
+plsvir,Vireo plumbeus,Plumbeous Vireo,2024,L3319604,37.3499636,-108.4016705,US-CO
+x00619,Calypte anna x Selasphorus calliope,Anna's x Calliope Hummingbird (hybrid),2014,L356160,49.2723255,-122.8836894,CA-BC
+saffin,Sicalis flaveola,Saffron Finch,2005,L274477,21.293214,-157.799431,US-HI
+prafal,Falco mexicanus,Prairie Falcon,2024,L8353018,45.651969,-111.1159,US-MT
+cacgoo1,Branta hutchinsii,Cackling Goose,2003,L73823,38.7641896,-78.064599,US-VA
+virrai,Rallus limicola,Virginia Rail,2010,L104706,48.5485231,-123.4172352,CA-BC
+virrai,Rallus limicola,Virginia Rail,2011,L231752,43.0161324,-82.3553009,CA-ON
+virrai,Rallus limicola,Virginia Rail,2013,L274257,47.008881,-123.407656,US-WA
+virrai,Rallus limicola,Virginia Rail,2016,L1318307,48.3734865,-116.4558991,US-ID
+virrai,Rallus limicola,Virginia Rail,2017,L5098683,40.429213,-74.2920352,US-NJ
+x00195,Poecile carolinensis x atricapillus,Carolina x Black-capped Chickadee (hybrid),2007,L468462,33.586507,-83.509338,US-GA
+y00332,Zonotrichia leucophrys/albicollis,White-crowned/White-throated Sparrow,2006,L247409,31.6720009,-97.098999,US-TX
+sprpip,Anthus spragueii,Sprague's Pipit,2000,L80952,30.10766,-97.85264,US-TX
+y00332,Zonotrichia leucophrys/albicollis,White-crowned/White-throated Sparrow,2008,L72350,35.24115,-80.72389,US-NC
+y00332,Zonotrichia leucophrys/albicollis,White-crowned/White-throated Sparrow,2009,L72350,35.24115,-80.72389,US-NC
+retloo,Gavia stellata,Red-throated Loon,2000,L78854,43.57945,-70.33266,US-ME
+cliswa,Petrochelidon pyrrhonota,Cliff Swallow,2010,L815382,37.7514099,-122.1473908,US-CA
+cliswa,Petrochelidon pyrrhonota,Cliff Swallow,2012,L1806794,33.0974648,-117.0915351,US-CA
+cliswa,Petrochelidon pyrrhonota,Cliff Swallow,2015,L2420424,34.4211908,-119.8645735,US-CA
+nrwswa1,Stelgidopteryx serripennis [serripennis Group],Northern Rough-winged Swallow (Northern),2023,L27926657,39.0086682,-94.882496,US-KS
+cliswa,Petrochelidon pyrrhonota,Cliff Swallow,2018,L2106567,32.2836571,-90.0177231,US-MS
+nutman,Lonchura punctulata,Scaly-breasted Munia,2001,L76123,34.43209,-119.87577,US-CA
+phoebe1,Sayornis sp.,phoebe sp.,2009,L140433,42.7188339,-84.4361572,US-MI
+virrai,Rallus limicola,Virginia Rail,2024,L29092256,30.1919203,-95.5138782,US-TX
+cacgoo1,Branta hutchinsii,Cackling Goose,2019,L6538683,40.111019400000004,-75.2887369,US-PA
+amerob3,Turdus migratorius nigrideus,American Robin (nigrideus),2011,L189454,48.9421616,-55.6668282,CA-NL
+lobcur,Numenius americanus,Long-billed Curlew,1995,L31988,45.84047,-119.29025,US-OR
+y00332,Zonotrichia leucophrys/albicollis,White-crowned/White-throated Sparrow,2010,L122262,41.15449,-85.47379,US-IN
+amerob3,Turdus migratorius nigrideus,American Robin (nigrideus),2014,L189454,48.9421616,-55.6668282,CA-NL
+y00332,Zonotrichia leucophrys/albicollis,White-crowned/White-throated Sparrow,2011,L122262,41.15449,-85.47379,US-IN
+amerob3,Turdus migratorius nigrideus,American Robin (nigrideus),2017,L189454,48.9421616,-55.6668282,CA-NL
+y00332,Zonotrichia leucophrys/albicollis,White-crowned/White-throated Sparrow,2015,L241091,42.3520012,-71.8639984,US-MA
+saffin,Sicalis flaveola,Saffron Finch,2020,L10498009,19.918508,-155.8824431,US-HI
+buteo,Buteo sp.,Buteo sp.,2004,L189866,43.0999985,-77.5,US-NY
+buteo,Buteo sp.,Buteo sp.,2005,L102933,41.6973844,-72.2069006,US-CT
+buteo,Buteo sp.,Buteo sp.,2008,L106682,41.7968748,-87.8997238,US-IL
+rubrob,Turdus rufopalliatus,Rufous-backed Robin,2001,L81399,45.813,-122.66,US-WA
+rubrob,Turdus rufopalliatus,Rufous-backed Robin,2002,L77323,43.2130895,-78.0857992,US-NY
+norsho,Spatula clypeata,Northern Shoveler,1989,L23502,33.99132,-80.9993,US-SC
+rubrob,Turdus rufopalliatus,Rufous-backed Robin,2005,L81777,29.62642,-95.22103,US-TX
+sumtan,Piranga rubra,Summer Tanager,1994,L35712,30.4116,-91.08462,US-LA
+sumtan,Piranga rubra,Summer Tanager,1997,L29290,30.26096,-95.30957,US-TX
+comnig,Chordeiles minor,Common Nighthawk,2005,L76680,44.77915,-108.77112,US-WY
+x00415,Anser albifrons x Branta canadensis,Greater White-fronted x Canada Goose (hybrid),2013,L614640,42.265158,-83.601872,US-MI
+comnig,Chordeiles minor,Common Nighthawk,2006,L167554,32.7354622,-108.2994308,US-NM
+norshr3,Lanius borealis borealis,Northern Shrike (American),2013,L1805278,44.6592517,-69.673748,US-ME
+comnig,Chordeiles minor,Common Nighthawk,2009,L475168,42.250325,-74.193615,US-NY
+y00322,Dryobates pubescens/villosus,Downy/Hairy Woodpecker,2016,L3220348,39.547993,-76.320742,US-MD
+houwre1,Troglodytes aedon [aedon Group],House Wren (Northern),2008,L72209,46.73372,-116.98612,US-ID
+whthaw,Geranoaetus albicaudatus,White-tailed Hawk,2006,L217482,44.94444,-88.06103,US-WI
+whthaw,Geranoaetus albicaudatus,White-tailed Hawk,2009,L217482,44.94444,-88.06103,US-WI
+amerob3,Turdus migratorius nigrideus,American Robin (nigrideus),2021,L355878,38.538722,-89.972452,US-IL
+clcrob,Turdus grayi,Clay-colored Thrush,2001,L76478,34.2491729,-116.8972847,US-CA
+neocor,Nannopterum brasilianum,Neotropic Cormorant,2012,L1027212,32.2203077,-95.7688844,US-TX
+passer1,Passeriformes sp.,passerine sp.,2016,L4045154,30.381983,-97.8061724,US-TX
+neocor,Nannopterum brasilianum,Neotropic Cormorant,2013,L1810683,32.2144168,-95.7668996,US-TX
+neocor,Nannopterum brasilianum,Neotropic Cormorant,2014,L3176179,32.2484065,-96.0953693,US-TX
+buteo,Buteo sp.,Buteo sp.,2010,L273895,44.40243,-79.51731,CA-ON
+neocor,Nannopterum brasilianum,Neotropic Cormorant,2015,L7696654,33.1523,-96.8499,US-TX
+buteo,Buteo sp.,Buteo sp.,2013,L2831354,39.57487,-104.86107,US-CO
+limpki,Aramus guarauna,Limpkin,2001,L29335,28.85749,-82.02854,US-FL
+limpki,Aramus guarauna,Limpkin,2002,L107454,27.9758,-81.93721,US-FL
+limpki,Aramus guarauna,Limpkin,2006,L150522,26.1113739,-80.2447128,US-FL
+rubrob,Turdus rufopalliatus,Rufous-backed Robin,2014,L2610727,40.303369000000004,-104.911328,US-CO
+limpki,Aramus guarauna,Limpkin,2007,L292489,28.0425054,-82.4928966,US-FL
+limpki,Aramus guarauna,Limpkin,2008,L292489,28.0425054,-82.4928966,US-FL
+comnig,Chordeiles minor,Common Nighthawk,2011,L76616,41.2289517,-79.0933502,US-PA
+comnig,Chordeiles minor,Common Nighthawk,2015,L26446,36.525674,-78.1889248,US-NC
+comnig,Chordeiles minor,Common Nighthawk,2018,L26446,36.525674,-78.1889248,US-NC
+houwre1,Troglodytes aedon [aedon Group],House Wren (Northern),2013,L2412476,32.4015595,-93.4342146,US-LA
+sancra2,Antigone canadensis tabida/rowani,Sandhill Crane (tabida/rowani),2016,L42317,38.66171,-90.8157,US-MO
+yetwar1,Setophaga dominica albilora,Yellow-throated Warbler (albilora),2006,L133308,33.9294206,-78.2316564,US-NC
+seaspa,Ammospiza maritima,Seaside Sparrow,1999,L39283,44.00581,-69.34301,US-ME
+veery,Catharus fuscescens,Veery,1997,L40831,40.86551,-73.36615,US-NY
+veery,Catharus fuscescens,Veery,1998,L22216,39.91653,-75.39489,US-PA
+veery,Catharus fuscescens,Veery,1999,L36714,40.97194,-73.68586,US-NY
+btnwar,Setophaga virens,Black-throated Green Warbler,2011,L289075,34.334648,-85.0333214,US-GA
+btnwar,Setophaga virens,Black-throated Green Warbler,2014,L74890,29.80256,-98.73479,US-TX
+btnwar,Setophaga virens,Black-throated Green Warbler,2016,L1802741,30.1285019,-95.7406387,US-TX
+bahmoc,Mimus gundlachii,Bahama Mockingbird,2004,L199661,26.2158337,-80.2501831,US-FL
+limpki,Aramus guarauna,Limpkin,2010,L611429,27.07471,-82.362159,US-FL
+lessca,Aythya affinis,Lesser Scaup,2011,L168399,38.9027405,-76.3619919,US-MD
+rocpta1,Lagopus muta,Rock Ptarmigan,2014,L1322979,53.8669707,-166.5176229,US-AK
+rocpta1,Lagopus muta,Rock Ptarmigan,2017,L1322979,53.8669707,-166.5176229,US-AK
+whwsco,Melanitta fusca/deglandi/stejnegeri,Velvet/White-winged/Stejneger's Scoter,2010,L77077,44.65456,-67.40507,US-ME
+rethaw4,Buteo jamaicensis abieticola,Red-tailed Hawk (abieticola),2014,L468880,43.8439369,-66.1337471,CA-NS
+rethaw4,Buteo jamaicensis abieticola,Red-tailed Hawk (abieticola),2015,L275101,45.4378515,-75.5193758,CA-ON
+nighth1,Chordeiles sp.,nighthawk sp.,2009,L597366,46.0773223,-79.3124539,CA-ON
+comnig,Chordeiles minor,Common Nighthawk,2020,L4395887,25.937388,-97.51635,US-TX
+comnig,Chordeiles minor,Common Nighthawk,2021,L12834383,34.8817846,-82.1726863,US-SC
+rethaw4,Buteo jamaicensis abieticola,Red-tailed Hawk (abieticola),2017,L275101,45.4378515,-75.5193758,CA-ON
+comnig,Chordeiles minor,Common Nighthawk,2022,L21373621,26.3276144,-97.5049067,US-TX
+rethaw4,Buteo jamaicensis abieticola,Red-tailed Hawk (abieticola),2019,L375528,43.5346427,-80.4762268,CA-ON
+comgol,Bucephala clangula,Common Goldeneye,1994,L36946,54.51667,-128.58333,CA-BC
+chiswi,Chaetura pelagica,Chimney Swift,2001,L27465,30.5269008,-81.6214996,US-FL
+chiswi,Chaetura pelagica,Chimney Swift,2003,L77448,33.1720426,-96.6305923,US-TX
+comgol,Bucephala clangula,Common Goldeneye,1997,L24185,44.29146,-88.26617,US-WI
+comgol,Bucephala clangula,Common Goldeneye,1998,L27382,48.75665,-122.45015,US-WA
+comgol,Bucephala clangula,Common Goldeneye,1999,L24185,44.29146,-88.26617,US-WI
+banswa,Riparia riparia,Bank Swallow,2002,L104744,35.38966,-87.07098,US-TN
+banswa,Riparia riparia,Bank Swallow,2003,L132336,41.023632,-75.6123352,US-PA
+banswa,Riparia riparia,Bank Swallow,2004,L103564,30.2209106,-97.8946055,US-TX
+banswa,Riparia riparia,Bank Swallow,2008,L170054,32.683548,-97.2702026,US-TX
+lotduc,Clangula hyemalis,Long-tailed Duck,2002,L77077,44.65456,-67.40507,US-ME
+graspa,Ammodramus savannarum,Grasshopper Sparrow,2000,L77883,33.64849,-117.5755,US-CA
+lotduc,Clangula hyemalis,Long-tailed Duck,2005,L168399,38.9027405,-76.3619919,US-MD
+lotduc,Clangula hyemalis,Long-tailed Duck,2007,L99322,41.1514348,-81.8590531,US-OH
+graspa,Ammodramus savannarum,Grasshopper Sparrow,2009,L470241,37.886393,-78.82574,US-VA
+x00059,Setophaga townsendi x occidentalis,Townsend's x Hermit Warbler (hybrid),2016,L355507,49.2894184,-123.0189586,CA-BC
+rocpta1,Lagopus muta,Rock Ptarmigan,2022,L8101703,61.1235062,-149.7154677,US-AK
+rethaw4,Buteo jamaicensis abieticola,Red-tailed Hawk (abieticola),2021,L71723,43.911,-78.871,CA-ON
+y00022,Icterus bullockii/galbula,Bullock's/Baltimore Oriole,2000,L76283,38.90513,-119.73047,US-NV
+y00022,Icterus bullockii/galbula,Bullock's/Baltimore Oriole,2002,L76254,33.4503137,-115.7165051,US-CA
+y00022,Icterus bullockii/galbula,Bullock's/Baltimore Oriole,2006,L229069,31.9673119,-110.2728729,US-AZ
+x00039,Junco hyemalis x Zonotrichia albicollis,Dark-eyed Junco x White-throated Sparrow (hybrid),2009,L22688,41.7645579,-73.2674333,US-CT
+chiswi,Chaetura pelagica,Chimney Swift,2019,L177795,32.237011,-80.7342377,US-SC
+gryvir,Vireo vicinior,Gray Vireo,2008,L617071,35.5554473,-105.965302,US-NM
+gryvir,Vireo vicinior,Gray Vireo,2009,L358646,35.8029177,-106.2170219,US-NM
+lotduc,Clangula hyemalis,Long-tailed Duck,2012,L611982,44.7754169,-76.6424194,CA-ON
+lotduc,Clangula hyemalis,Long-tailed Duck,2014,L231749,44.4696388,-77.6836166,CA-ON
+graspa,Ammodramus savannarum,Grasshopper Sparrow,2011,L1320586,39.3657112,-84.3127213,US-OH
+diurap1,Accipitriformes/Falconiformes sp.,diurnal raptor sp.,2001,L36275,44.8391115,-93.3531475,US-MN
+graspa,Ammodramus savannarum,Grasshopper Sparrow,2015,L3514328,35.732846,-81.322745,US-NC
+graspa,Ammodramus savannarum,Grasshopper Sparrow,2017,L6298403,28.6684181,-81.4577961,US-FL
+graspa,Ammodramus savannarum,Grasshopper Sparrow,2018,L6426172,31.443265,-110.246696,US-AZ
+canvas,Aythya valisineria,Canvasback,1999,L24976,40.55664,-89.3207,US-IL
+diurap1,Accipitriformes/Falconiformes sp.,diurnal raptor sp.,2009,L22021,57.056,-135.33073,US-AK
+martin1,Progne sp.,new world martin sp. (Progne sp.),2015,L2831452,44.697489,-116.460765,US-ID
+x00059,Setophaga townsendi x occidentalis,Townsend's x Hermit Warbler (hybrid),2024,L5123127,34.1049911,-118.4447193,US-CA
+yebcha,Icteria virens,Yellow-breasted Chat,1997,L19273,46.937,-60.247,CA-NS
+whepar2,Psittacara leucophthalmus,White-eyed Parakeet,2022,L17036727,26.0150462,-80.1770264,US-FL
+alcgoo1,Branta hutchinsii leucopareia,Cackling Goose (Aleutian),2002,L81518,42.54458,-83.28471,US-MI
+yehpar,Amazona oratrix,Yellow-headed Parrot,2005,L227339,33.1693916,-117.0750504,US-CA
+kingfi1,Alcedinidae sp.,kingfisher sp.,2003,L103660,36.7336573,-119.4641568,US-CA
+kingfi1,Alcedinidae sp.,kingfisher sp.,2005,L230335,43.4174805,-71.9939804,US-NH
+kirwar,Setophaga kirtlandii,Kirtland's Warbler,2007,L276723,33.9567453,-84.3330824,US-GA
+banswa,Riparia riparia,Bank Swallow,2024,L27769741,41.231759,-84.4074387,US-OH
+botgra1,Quiscalus major major,Boat-tailed Grackle (major),2011,L796558,39.8970743,-74.9065836,US-NJ
+lotduc,Clangula hyemalis,Long-tailed Duck,2024,L21306090,48.7244963,-122.6855988,US-WA
+diurap1,Accipitriformes/Falconiformes sp.,diurnal raptor sp.,2010,L279029,43.038338,-78.733906,US-NY
+graspa,Ammodramus savannarum,Grasshopper Sparrow,2023,L6666450,44.556068,-68.444443,US-ME
+graspa,Ammodramus savannarum,Grasshopper Sparrow,2024,L12745853,40.9502788,-74.8100263,US-NJ
+cavswa3,Petrochelidon fulva pallida,Cave Swallow (Texas),2010,L676589,32.736778,-97.782352,US-TX
+swan1,Cygnus sp.,swan sp.,2003,L143461,41.4791985,-73.6455002,US-NY
+swan1,Cygnus sp.,swan sp.,2005,L154316,42.5807915,-76.6127548,US-NY
+yehpar,Amazona oratrix,Yellow-headed Parrot,2016,L4395887,25.937388,-97.51635,US-TX
+y00619,Tyrannus vociferans/verticalis,Cassin's/Western Kingbird,2017,L5115112,34.0947299,-118.2026553,US-CA
+borowl,Aegolius funereus,Boreal Owl,1997,L18703,45.63333,-74.9,CA-ON
+borowl,Aegolius funereus,Boreal Owl,1998,L18704,51.28333,-80.65,CA-ON
+borowl,Aegolius funereus,Boreal Owl,1999,L18704,51.28333,-80.65,CA-ON
+kingfi1,Alcedinidae sp.,kingfisher sp.,2015,L2831452,44.697489,-116.460765,US-ID
+gryvir,Vireo vicinior,Gray Vireo,2022,L21475601,38.658076,-121.2487539,US-CA
+gadwal,Mareca strepera,Gadwall,2000,L78015,47.564,-122.0185,US-WA
+shtgro,Tympanuchus phasianellus,Sharp-tailed Grouse,1994,L20254,42.94064,-100.25741,US-NE
+shtgro,Tympanuchus phasianellus,Sharp-tailed Grouse,1997,L28932,45.57111,-93.58697,US-MN
+zothaw,Buteo albonotatus,Zone-tailed Hawk,2004,L98585,29.6922049,-99.3552387,US-TX
+zothaw,Buteo albonotatus,Zone-tailed Hawk,2006,L98585,29.6922049,-99.3552387,US-TX
+zothaw,Buteo albonotatus,Zone-tailed Hawk,2007,L98585,29.6922049,-99.3552387,US-TX
+zothaw,Buteo albonotatus,Zone-tailed Hawk,2008,L98585,29.6922049,-99.3552387,US-TX
+conwar,Oporornis agilis,Connecticut Warbler,2001,L80196,29.58089,-95.62795,US-TX
+conwar,Oporornis agilis,Connecticut Warbler,2005,L133159,40.8499985,-73.8669968,US-NY
+yehpar,Amazona oratrix,Yellow-headed Parrot,2020,L4395887,25.937388,-97.51635,US-TX
+yehpar,Amazona oratrix,Yellow-headed Parrot,2023,L4395887,25.937388,-97.51635,US-TX
+x00614,Aythya collaris x Mergus serrator,Ring-necked Duck x Red-breasted Merganser (hybrid),2003,L207613,32.2599869,-80.7142639,US-SC
+x00614,Aythya collaris x Mergus serrator,Ring-necked Duck x Red-breasted Merganser (hybrid),2004,L168399,38.9027405,-76.3619919,US-MD
+purfin1,Haemorhous purpureus purpureus,Purple Finch (Eastern),2007,L231031,38.9056242,-104.8684716,US-CO
+icegul1,Larus glaucoides glaucoides,Iceland Gull (glaucoides),2001,L78764,47.38333,-61.866667,CA-QC
+dusfly,Empidonax oberholseri,Dusky Flycatcher,1999,L24373,33.65644,-116.59125,US-CA
+palwar5,Phylloscopus proregulus,Pallas's Leaf Warbler,2006,L229925,35.1155205,-89.8400879,US-TN
+camwar,Setophaga tigrina,Cape May Warbler,1997,L41574,43.84406,-104.24017,US-WY
+camwar,Setophaga tigrina,Cape May Warbler,1998,L41166,29.58641,-81.22899,US-FL
+zothaw,Buteo albonotatus,Zone-tailed Hawk,2011,L98585,29.6922049,-99.3552387,US-TX
+amebit,Botaurus lentiginosus,American Bittern,2010,L1031316,26.0336534,-80.2872384,US-FL
+conwar,Oporornis agilis,Connecticut Warbler,2010,L99160,32.6784137,-80.0368116,US-SC
+y00425,Corthylio calendula/Regulus satrapa,Ruby-crowned/Golden-crowned Kinglet,2003,L20483,41.1563986,-95.8921347,US-NE
+conwar,Oporornis agilis,Connecticut Warbler,2011,L33535,40.60203,-75.52785,US-PA
+y00425,Corthylio calendula/Regulus satrapa,Ruby-crowned/Golden-crowned Kinglet,2004,L73975,37.17596,-93.30181,US-MO
+amebit,Botaurus lentiginosus,American Bittern,2019,L7038686,40.604856,-89.595217,US-IL
+attwoo3,Picoides dorsalis fasciatus,American Three-toed Woodpecker (Northwest),2008,L597438,64.9468,-148.247775,US-AK
+commyn,Acridotheres tristis,Common Myna,1994,L20430,21.35112,-157.92164,US-HI
+norpin,Anas acuta,Northern Pintail,2006,L80588,44.3069209,-68.5639028,US-ME
+triher,Egretta tricolor,Tricolored Heron,2003,L150522,26.1113739,-80.2447128,US-FL
+gubter2,Gelochelidon nilotica,Gull-billed Tern,2005,L229894,26.5062332,-81.9274216,US-FL
+golphe,Chrysolophus pictus,Golden Pheasant,2013,L1811378,41.7926598,-71.3156052,US-MA
+zothaw,Buteo albonotatus,Zone-tailed Hawk,2022,L4395887,25.937388,-97.51635,US-TX
+snoegr,Egretta thula,Snowy Egret,1994,L34729,32.79272,-116.96747,US-CA
+snoegr,Egretta thula,Snowy Egret,1995,L26176,27.78971,-82.71874,US-FL
+amebit,Botaurus lentiginosus,American Bittern,2024,L620441,38.614037,-75.645783,US-DE
+y00425,Corthylio calendula/Regulus satrapa,Ruby-crowned/Golden-crowned Kinglet,2012,L249447,48.1455231,-123.1862488,US-WA
+y00425,Corthylio calendula/Regulus satrapa,Ruby-crowned/Golden-crowned Kinglet,2013,L249447,48.1455231,-123.1862488,US-WA
+y00425,Corthylio calendula/Regulus satrapa,Ruby-crowned/Golden-crowned Kinglet,2015,L37514,41.5414415,-71.4840406,US-RI
+comgra1,Quiscalus quiscula quiscula/stonei,Common Grackle (Florida/Purple),2012,L621983,42.361426,-71.111277,US-MA
+comgra1,Quiscalus quiscula quiscula/stonei,Common Grackle (Florida/Purple),2014,L460492,44.214571,-88.432315,US-WI
+comgra1,Quiscalus quiscula quiscula/stonei,Common Grackle (Florida/Purple),2017,L469596,44.033656,-79.806232,CA-ON
+bcxtit1,Baeolophus bicolor x atricristatus,Tufted x Black-crested Titmouse (hybrid),2007,L104284,34.3825209,-77.6857771,US-NC
+dove1,Columbidae sp.,pigeon/dove sp.,2015,L273959,45.96389,-76.01729,CA-QC
+moublu,Sialia currucoides,Mountain Bluebird,1997,L25384,34.25405,-109.6932,US-AZ
+altori,Icterus gularis,Altamira Oriole,2014,L1503916,26.1230374,-97.957406,US-TX
+casspa,Peucaea cassinii,Cassin's Sparrow,1997,L25273,30.2478163,-98.8317633,US-TX
+amhgul1,Larus argentatus smithsonianus,Herring Gull (American),2008,L368545,38.900385,-89.407382,US-IL
+gloibi,Plegadis falcinellus,Glossy Ibis,2000,L76047,26.44625,-82.06254,US-FL
+x00420,Mareca strepera x Anas platyrhynchos,Gadwall x Mallard (hybrid),2008,L466563,41.7426754,-86.266129,US-IN
+gloibi,Plegadis falcinellus,Glossy Ibis,2004,L229645,27.2725143,-82.5221863,US-FL
+easwar1,Curruca cantillans,Eastern Subalpine Warbler,2013,L2425690,40.2722856,-75.4647821,US-PA
+nswowl,Aegolius acadicus,Northern Saw-whet Owl,1988,L35912,40.21349,-79.76521,US-PA
+bewwre3,Thryomanes bewickii bewickii,Bewick's Wren (bewickii),2009,L74415,39.26749,-84.26134,US-OH
+scrjay,Aphelocoma sp.,Aphelocoma sp.,2018,L2453316,34.4512276,-118.3948302,US-CA
+sora,Porzana carolina,Sora,2023,L4382317,30.1509535,-97.219305,US-TX
+sora,Porzana carolina,Sora,2024,L28039344,29.5903239,-81.2111744,US-FL
+dove1,Columbidae sp.,pigeon/dove sp.,2020,L8353018,45.651969,-111.1159,US-MT
+dove1,Columbidae sp.,pigeon/dove sp.,2021,L3161200,42.5033839,-73.449867,US-NY
+crithr,Toxostoma crissale,Crissal Thrasher,1988,L27521,31.8373,-109.02996,US-NM
+dove1,Columbidae sp.,pigeon/dove sp.,2024,L28075465,44.5927696,-79.4389785,CA-ON
+burowl,Athene cunicularia,Burrowing Owl,2000,L77406,31.50187,-110.25483,US-AZ
+burowl,Athene cunicularia,Burrowing Owl,2002,L79832,34.09354,-116.5427,US-CA
+westan,Piranga ludoviciana,Western Tanager,1991,L41642,40.3528,-105.54771,US-CO
+westan,Piranga ludoviciana,Western Tanager,1993,L37908,38.09685,-122.58196,US-CA
+shrike,Lanius sp.,shrike sp.,2007,L19019,44.498342,-76.8568754,CA-ON
+westan,Piranga ludoviciana,Western Tanager,1998,L34827,29.88886,-97.94638,US-TX
+tern1,Sterninae sp.,tern sp.,2009,L788536,42.495873,-77.512346,US-NY
+commer1,Mergus merganser americanus,Common Merganser (North American),2021,L357435,42.357434,-76.4062643,US-NY
+nswowl,Aegolius acadicus,Northern Saw-whet Owl,1990,L34390,42.90287,-72.41356,US-NH
+nswowl,Aegolius acadicus,Northern Saw-whet Owl,1999,L19240,46.443,-80.986,CA-ON
+y00221,Buteo/eagle sp.,Buteo/eagle sp.,2008,L460405,44.783006,-88.589944,US-WI
+burowl,Athene cunicularia,Burrowing Owl,2010,L24724,36.18117,-115.99524,US-NV
+shrike,Lanius sp.,shrike sp.,2011,L364063,43.164263,-78.6899,US-NY
+shrike,Lanius sp.,shrike sp.,2014,L1806643,44.4614679,-79.6654862,CA-ON
+tern1,Sterninae sp.,tern sp.,2010,L788536,42.495873,-77.512346,US-NY
+tern1,Sterninae sp.,tern sp.,2012,L788536,42.495873,-77.512346,US-NY
+tern1,Sterninae sp.,tern sp.,2014,L788536,42.495873,-77.512346,US-NY
+tern1,Sterninae sp.,tern sp.,2015,L788536,42.495873,-77.512346,US-NY
+strept1,Streptopelia sp.,Streptopelia sp.,2015,L666761,38.790986,-123.017331,US-CA
+henspa,Centronyx henslowii,Henslow's Sparrow,2007,L247409,31.6720009,-97.098999,US-TX
+ruwspa,Peucaea carpalis,Rufous-winged Sparrow,1999,L25958,36.06885,-86.93312,US-TN
+vauswi,Chaetura vauxi,Vaux's Swift,2010,L788597,34.101639,-117.817521,US-CA
+nutfly,Myiarchus nuttingi,Nutting's Flycatcher,2019,L6824873,20.7531588,-105.3845664,MX-NAY
+vauswi,Chaetura vauxi,Vaux's Swift,2018,L6824873,20.7531588,-105.3845664,MX-NAY
+vauswi,Chaetura vauxi,Vaux's Swift,2019,L6824873,20.7531588,-105.3845664,MX-NAY
+goleag,Aquila chrysaetos,Golden Eagle,1994,L39540,38.83125,-105.27391,US-CO
+marwre1,Cistothorus palustris [paludicola Group],Marsh Wren (paludicola Group),2009,L76979,36.0412829,-119.2509538,US-CA
+blugrs,Dendragapus obscurus/fuliginosus,Dusky/Sooty Grouse,2001,L81323,48.333,-120.15,US-WA
+y00598,Parkesia motacilla/noveboracensis,Louisiana/Northern Waterthrush,2015,L3544952,26.959791,-82.342701,US-FL
+magwar,Setophaga magnolia,Magnolia Warbler,2002,L103564,30.2209106,-97.8946055,US-TX
+magwar,Setophaga magnolia,Magnolia Warbler,2003,L99719,41.1822078,-73.5754737,US-NY
+yefcan,Crithagra mozambica,Yellow-fronted Canary,2006,L297564,19.9307503,-155.7785797,US-HI
+yefcan,Crithagra mozambica,Yellow-fronted Canary,2008,L274477,21.293214,-157.799431,US-HI
+henspa,Centronyx henslowii,Henslow's Sparrow,2012,L1806727,30.280041,-98.872633,US-TX
+nutfly,Myiarchus nuttingi,Nutting's Flycatcher,2020,L6824873,20.7531588,-105.3845664,MX-NAY
+y00019,Sphyrapicus varius/nuchalis,Yellow-bellied/Red-naped Sapsucker,2000,L76262,40.10792,-82.91817,US-OH
+y00019,Sphyrapicus varius/nuchalis,Yellow-bellied/Red-naped Sapsucker,2003,L130708,40.5877113,-104.9625931,US-CO
+vauswi,Chaetura vauxi,Vaux's Swift,2020,L5399614,40.8479369,-124.0682602,US-CA
+y00019,Sphyrapicus varius/nuchalis,Yellow-bellied/Red-naped Sapsucker,2005,L106276,39.94175,-75.57965,US-PA
+y00019,Sphyrapicus varius/nuchalis,Yellow-bellied/Red-naped Sapsucker,2006,L230633,40.9470673,-74.1434021,US-NJ
+y00019,Sphyrapicus varius/nuchalis,Yellow-bellied/Red-naped Sapsucker,2007,L229730,43.691288,-84.975441,US-MI
+gilfli,Colaptes chrysoides,Gilded Flicker,1997,L22531,35.89582,-78.70896,US-NC
+gilfli,Colaptes chrysoides,Gilded Flicker,1999,L41015,33.95175,-112.74377,US-AZ
+mdxmal1,Cairina moschata x Anas platyrhynchos,Muscovy Duck x Mallard (hybrid),2002,L80789,41.0430384,-81.7194385,US-OH
+shthaw,Buteo brachyurus,Short-tailed Hawk,1998,L25816,28.20622,-82.68184,US-FL
+naswar,Leiothlypis ruficapilla,Nashville Warbler,1988,L34986,28.10573,-97.22673,US-TX
+yefcan,Crithagra mozambica,Yellow-fronted Canary,2011,L30699,34.17228,-117.33554,US-CA
+loeowl,Asio otus,Long-eared Owl,2013,L669078,38.0821491,-78.9377975,US-VA
+loeowl,Asio otus,Long-eared Owl,2016,L3999203,42.111826,-88.270371,US-IL
+yefcan,Crithagra mozambica,Yellow-fronted Canary,2017,L3151733,37.913369,-122.478519,US-CA
+rempar,Psittacara erythrogenys,Red-masked Parakeet,2012,L838184,37.7688675,-122.4260864,US-CA
+loeowl,Asio otus,Long-eared Owl,2018,L2831401,50.8519352,-120.2035618,CA-BC
+loeowl,Asio otus,Long-eared Owl,2019,L5405534,39.1231273,-74.8039205,US-NJ
+rempar,Psittacara erythrogenys,Red-masked Parakeet,2014,L838184,37.7688675,-122.4260864,US-CA
+vireo1,Vireo sp.,vireo sp.,2003,L106898,46.3267897,-92.7990919,US-MN
+glagul,Larus hyperboreus,Glaucous Gull,2000,L72095,48.454,-123.338,CA-BC
+y00019,Sphyrapicus varius/nuchalis,Yellow-bellied/Red-naped Sapsucker,2010,L358610,30.0286032,-97.5497532,US-TX
+y00019,Sphyrapicus varius/nuchalis,Yellow-bellied/Red-naped Sapsucker,2012,L361756,38.2269209,-85.3534698,US-KY
+glagul,Larus hyperboreus,Glaucous Gull,2003,L104653,49.233866,-124.805541,CA-BC
+ercfra,Pternistis erckelii,Erckel's Spurfowl,2009,L108626,20.8273198,-156.91713,US-HI
+glagul,Larus hyperboreus,Glaucous Gull,2005,L77077,44.65456,-67.40507,US-ME
+redegr,Egretta rufescens,Reddish Egret,2007,L150951,28.1443996,-82.6772995,US-FL
+aldfly,Empidonax alnorum,Alder Flycatcher,2001,L82245,53.628,-113.622,CA-AB
+grwher,Ardea herodias occidentalis,Great Blue Heron (Great White),2000,L77492,25.13241,-80.40719,US-FL
+blugrs,Dendragapus obscurus/fuliginosus,Dusky/Sooty Grouse,2021,L6493374,40.4418358,-106.8386292,US-CO
+grwher,Ardea herodias occidentalis,Great Blue Heron (Great White),2003,L209614,42.3544579,-88.0319824,US-IL
+blugrs,Dendragapus obscurus/fuliginosus,Dusky/Sooty Grouse,2024,L6493374,40.4418358,-106.8386292,US-CO
+grwher,Ardea herodias occidentalis,Great Blue Heron (Great White),2006,L371240,39.451134,-77.65244,US-MD
+wfqdov,Geotrygon leucometopia,White-fronted Quail-Dove,2007,L105274,33.9272441,-97.3153937,US-OK
+grwher,Ardea herodias occidentalis,Great Blue Heron (Great White),2009,L668665,28.5362745,-82.1969175,US-FL
+hoowar,Setophaga citrina,Hooded Warbler,2003,L107695,29.736474,-95.4092879,US-TX
+mdxmal1,Cairina moschata x Anas platyrhynchos,Muscovy Duck x Mallard (hybrid),2012,L614407,44.4675705,-76.6876173,CA-ON
+loeowl,Asio otus,Long-eared Owl,2022,L12735954,43.6900052,-79.5261154,CA-ON
+mdxmal1,Cairina moschata x Anas platyrhynchos,Muscovy Duck x Mallard (hybrid),2017,L364252,38.7942927,-121.1997128,US-CA
+loeowl,Asio otus,Long-eared Owl,2024,L27901603,44.9625168,-93.2147289,US-MN
+mdxmal1,Cairina moschata x Anas platyrhynchos,Muscovy Duck x Mallard (hybrid),2019,L97866,42.730213,-82.477899,CA-ON
+vireo1,Vireo sp.,vireo sp.,2010,L636014,39.0083466,-77.1047974,US-MD
+lawgol,Spinus lawrencei,Lawrence's Goldfinch,1994,L30687,45.51733,-122.86218,US-OR
+vireo1,Vireo sp.,vireo sp.,2011,L1806865,41.22854,-77.01403,US-PA
+y00019,Sphyrapicus varius/nuchalis,Yellow-bellied/Red-naped Sapsucker,2021,L365273,43.8046771,-90.4647732,US-WI
+glagul,Larus hyperboreus,Glaucous Gull,2012,L273924,51.0746525,-56.879611,CA-NL
+glagul,Larus hyperboreus,Glaucous Gull,2013,L620668,46.064588,-64.797636,CA-NB
+glagul,Larus hyperboreus,Glaucous Gull,2015,L2106567,32.2836571,-90.0177231,US-MS
+glagul,Larus hyperboreus,Glaucous Gull,2017,L5085845,41.792435,-86.739994,US-MI
+glagul,Larus hyperboreus,Glaucous Gull,2018,L620668,46.064588,-64.797636,CA-NB
+taimer1,Falco columbarius columbarius,Merlin (Taiga),2009,L808924,37.6153374,-114.5105667,US-NV
+redegr,Egretta rufescens,Reddish Egret,2011,L150951,28.1443996,-82.6772995,US-FL
+oliwar,Peucedramus taeniatus,Olive Warbler,2003,L148568,34.4096001,-111.5012659,US-AZ
+eurrob1,Erithacus rubecula,European Robin,2023,L365755,42.112695,-76.232706,US-NY
+whwsco2,Melanitta deglandi,White-winged Scoter,2020,L10886770,37.4245637,-75.9810204,US-VA
+calhum,Selasphorus calliope,Calliope Hummingbird,2010,L468724,31.657691,-110.647629,US-AZ
+whwsco2,Melanitta deglandi,White-winged Scoter,2022,L16803333,42.2701152,-70.8672957,US-MA
+redpol,Acanthis flammea/hornemanni,Common/Hoary Redpoll,2002,L78402,64.7694877,-148.0366857,US-AK
+whwsco2,Melanitta deglandi,White-winged Scoter,2023,L27689320,43.1749429,-77.518677,US-NY
+redpol,Acanthis flammea/hornemanni,Common/Hoary Redpoll,2003,L78402,64.7694877,-148.0366857,US-AK
+swathr2,Catharus ustulatus [swainsoni Group],Swainson's Thrush (Olive-backed),2006,L291672,38.0072208,-122.2468686,US-CA
+dickci,Spiza americana,Dickcissel,1988,L38876,27.44287,-80.36145,US-FL
+grwher,Ardea herodias occidentalis,Great Blue Heron (Great White),2010,L628492,41.279943,-81.271096,US-OH
+mcclon,Rhynchophanes mccownii,Thick-billed Longspur,2001,L77448,33.1720426,-96.6305923,US-TX
+mdxmal1,Cairina moschata x Anas platyrhynchos,Muscovy Duck x Mallard (hybrid),2021,L355847,42.368573,-83.445585,US-MI
+budger,Melopsittacus undulatus,Budgerigar,2024,L28709909,49.6826493,-112.8873032,CA-AB
+placha,Ortalis vetula,Plain Chachalaca,2007,L139600,26.5144444,-99.1161957,US-TX
+eagle1,Accipitridae sp. (eagle sp.),eagle sp.,2002,L149622,39.9207497,-75.0606079,US-NJ
+whcsee1,Sporophila morelleti,Morelet's Seedeater,2016,L4011106,27.5104933,-99.523918,US-TX
+whcsee1,Sporophila morelleti,Morelet's Seedeater,2018,L4011106,27.5104933,-99.523918,US-TX
+vireo1,Vireo sp.,vireo sp.,2020,L5110776,39.066473,-76.969256,US-MD
+vireo1,Vireo sp.,vireo sp.,2023,L21988850,28.1263795,-82.7156194,US-FL
+baffal1,Micrastur ruficollis,Barred Forest-Falcon,2007,L191111,38.6689932,-77.3044188,US-VA
+forter,Sterna forsteri,Forster's Tern,2007,L454545,31.3772906,-96.902225,US-TX
+rewbul,Pycnonotus jocosus,Red-whiskered Bulbul,2005,L274477,21.293214,-157.799431,US-HI
+clcspa,Spizella pallida,Clay-colored Sparrow,1999,L19888,52.13333,-113.86667,CA-AB
+glagul,Larus hyperboreus,Glaucous Gull,2023,L8076962,44.5110438,-80.3589392,CA-ON
+taimer1,Falco columbarius columbarius,Merlin (Taiga),2010,L808924,37.6153374,-114.5105667,US-NV
+spoowl,Strix occidentalis,Spotted Owl,2004,L75087,31.4511,-110.21528,US-AZ
+glagul,Larus hyperboreus,Glaucous Gull,2024,L28519956,42.1295614,-70.6884727,US-MA
+taimer1,Falco columbarius columbarius,Merlin (Taiga),2017,L250832,49.7564497,-94.3689859,CA-ON
+dusgro,Dendragapus obscurus,Dusky Grouse,2003,L72007,49.51667,-115.76667,CA-BC
+lbbgul,Larus fuscus,Lesser Black-backed Gull,2002,L77077,44.65456,-67.40507,US-ME
+lbbgul,Larus fuscus,Lesser Black-backed Gull,2007,L474575,39.308015,-76.629215,US-MD
+mallar,Anas platyrhynchos/diazi,Mallard/Mexican Duck,2015,L386398,33.6309862,-112.2965384,US-AZ
+mallar,Anas platyrhynchos/diazi,Mallard/Mexican Duck,2019,L2423831,33.1225288,-97.1218872,US-TX
+rinduc,Aythya collaris,Ring-necked Duck,1993,L42190,42.74904,-124.47596,US-OR
+comsni,Gallinago gallinago,Common Snipe,1994,L20730,40.71593,-74.36649,US-NJ
+whcsee1,Sporophila morelleti,Morelet's Seedeater,2021,L4011106,27.5104933,-99.523918,US-TX
+whcsee1,Sporophila morelleti,Morelet's Seedeater,2022,L4011106,27.5104933,-99.523918,US-TX
+comsni,Gallinago gallinago,Common Snipe,1998,L20906,42.74078,-78.42725,US-NY
+comsni,Gallinago gallinago,Common Snipe,1999,L19703,47.33333,-79.816667,CA-ON
+eagle1,Accipitridae sp. (eagle sp.),eagle sp.,2014,L597473,47.231185,-93.523828,US-MN
+gryjay1,Perisoreus canadensis [canadensis Group],Canada Jay (Boreal),2010,L77323,43.2130895,-78.0857992,US-NY
+forter,Sterna forsteri,Forster's Tern,2010,L1027212,32.2203077,-95.7688844,US-TX
+gryjay1,Perisoreus canadensis [canadensis Group],Canada Jay (Boreal),2014,L77323,43.2130895,-78.0857992,US-NY
+forter,Sterna forsteri,Forster's Tern,2017,L3176179,32.2484065,-96.0953693,US-TX
+forter,Sterna forsteri,Forster's Tern,2019,L10048829,34.104005,-81.4776939,US-SC
+x00457,Spatula clypeata x Mareca strepera,Northern Shoveler x Gadwall (hybrid),2007,L470387,35.560213,-106.1175442,US-NM
+dusgro,Dendragapus obscurus,Dusky Grouse,2010,L278293,40.44244,-106.8031758,US-CO
+dusgro,Dendragapus obscurus,Dusky Grouse,2014,L278293,40.44244,-106.8031758,US-CO
+dusgro,Dendragapus obscurus,Dusky Grouse,2019,L10102557,40.5339429,-106.8106417,US-CO
+krthaw1,Buteo jamaicensis kriderii,Red-tailed Hawk (Krider's),2002,L132927,30.530426,-91.3848495,US-LA
+krthaw1,Buteo jamaicensis kriderii,Red-tailed Hawk (Krider's),2007,L337777,34.1660083,-84.4461322,US-GA
+placha,Ortalis vetula,Plain Chachalaca,2024,L27769674,27.0187988,-99.4136095,US-TX
+hutvir,Vireo huttoni,Hutton's Vireo,1999,L31631,47.71352,-122.30432,US-WA
+belvir,Vireo bellii,Bell's Vireo,2008,L98585,29.6922049,-99.3552387,US-TX
+ferhaw,Buteo regalis,Ferruginous Hawk,2003,L132655,39.3300018,-104.5899963,US-CO
+manduc,Aix galericulata,Mandarin Duck,2007,L99174,43.5851,-124.10371,US-OR
+ferhaw,Buteo regalis,Ferruginous Hawk,2008,L169108,44.6866264,-108.7814178,US-WY
+verfly,Pyrocephalus rubinus,Vermilion Flycatcher,1994,L31788,32.22783,-95.22753,US-TX
+solsan,Tringa solitaria,Solitary Sandpiper,2007,L274257,47.008881,-123.407656,US-WA
+solsan,Tringa solitaria,Solitary Sandpiper,2008,L274257,47.008881,-123.407656,US-WA
+weskin,Tyrannus verticalis,Western Kingbird,1991,L41796,33.19301,-117.28825,US-CA
+weskin,Tyrannus verticalis,Western Kingbird,1993,L39360,35.56656,-118.25352,US-CA
+weskin,Tyrannus verticalis,Western Kingbird,1994,L32537,32.58264,-116.6255,US-CA
+weskin,Tyrannus verticalis,Western Kingbird,1995,L30699,34.17228,-117.33554,US-CA
+smafal,Falco sp. (small falcon sp.),small falcon sp.,2008,L20237,45.481,-75.508,CA-ON
+weskin,Tyrannus verticalis,Western Kingbird,1997,L23952,36.45324,-118.87365,US-CA
+dusgro,Dendragapus obscurus,Dusky Grouse,2024,L10540557,39.665119,-106.526042,US-CO
+weskin,Tyrannus verticalis,Western Kingbird,1998,L42445,42.25321,-123.05199,US-OR
+bcrfin,Leucosticte australis,Brown-capped Rosy-Finch,2020,L279809,38.5435062,-106.1921604,US-CO
+y00334,Pheucticus ludovicianus/melanocephalus,Rose-breasted/Black-headed Grosbeak,2006,L74770,37.50245,-122.46972,US-CA
+x00197,Anser caerulescens x Branta canadensis,Snow x Canada Goose (hybrid),2009,L273039,43.691193,-114.361984,US-ID
+y00334,Pheucticus ludovicianus/melanocephalus,Rose-breasted/Black-headed Grosbeak,2009,L104214,42.7703496,-88.6796642,US-WI
+reevir1,Vireo olivaceus,Red-eyed Vireo,1994,L37404,41.55562,-87.6641,US-IL
+belvir,Vireo bellii,Bell's Vireo,2010,L195726,33.1731517,-96.6329795,US-TX
+belvir,Vireo bellii,Bell's Vireo,2011,L819017,30.5059276,-98.038044,US-TX
+belvir,Vireo bellii,Bell's Vireo,2015,L4045833,38.5782425,-90.3850627,US-MO
+eurgol,Carduelis carduelis,European Goldfinch,1992,L36895,43.758,-79.324,CA-ON
+eurgol,Carduelis carduelis,European Goldfinch,1993,L31842,40.35309,-74.07437,US-NJ
+sheowl,Asio flammeus,Short-eared Owl,1997,L26501,46.51268,-114.08237,US-MT
+sheowl,Asio flammeus,Short-eared Owl,1998,L27886,36.59567,-76.72368,US-VA
+sheowl,Asio flammeus,Short-eared Owl,1999,L27886,36.59567,-76.72368,US-VA
+grykin,Tyrannus dominicensis,Gray Kingbird,2007,L279929,27.2496598,-80.3715363,US-FL
+y00324,Empidonax alnorum/traillii,Alder/Willow Flycatcher (Traill's Flycatcher),2009,L77629,33.9370399,-83.4180028,US-GA
+treswa,Tachycineta bicolor,Tree Swallow,1994,L32554,34.16207,-77.91031,US-NC
+nstspa2,Ammospiza nelsoni subvirgata,Nelson's Sparrow (Atlantic Coast),2007,L285564,34.912025,-85.41052,US-GA
+sctfly,Tyrannus forficatus,Scissor-tailed Flycatcher,2003,L77448,33.1720426,-96.6305923,US-TX
+y00334,Pheucticus ludovicianus/melanocephalus,Rose-breasted/Black-headed Grosbeak,2016,L669329,42.2771024,-122.805562,US-OR
+y00334,Pheucticus ludovicianus/melanocephalus,Rose-breasted/Black-headed Grosbeak,2019,L1815534,44.6471623,-123.2508302,US-OR
+grepew,Contopus pertinax,Greater Pewee,1995,L41153,31.84005,-106.53511,US-TX
+miskit,Ictinia mississippiensis,Mississippi Kite,2004,L81777,29.62642,-95.22103,US-TX
+miskit,Ictinia mississippiensis,Mississippi Kite,2007,L357899,32.2919577,-110.8042002,US-AZ
+miskit,Ictinia mississippiensis,Mississippi Kite,2009,L229925,35.1155205,-89.8400879,US-TN
+chemun,Lonchura atricapilla,Chestnut Munia,2011,L867162,21.4229692,-157.9494202,US-HI
+compea,Pavo cristatus,Indian Peafowl,2003,L24424,38.06098,-84.45684,US-KY
+compea,Pavo cristatus,Indian Peafowl,2005,L73444,25.65998,-80.36122,US-FL
+compea,Pavo cristatus,Indian Peafowl,2006,L20253,42.87533,-100.5599,US-NE
+wilsap,Sphyrapicus thyroideus,Williamson's Sapsucker,2003,L141114,35.9058952,-106.294838,US-NM
+yelgro,Pheucticus chrysopeplus,Yellow Grosbeak,2004,L31216,44.8723102,-69.4197317,US-ME
+grykin,Tyrannus dominicensis,Gray Kingbird,2010,L167975,26.0215359,-80.1240387,US-FL
+yelgro,Pheucticus chrysopeplus,Yellow Grosbeak,2006,L19534,44.83333,-76.533333,CA-ON
+grykin,Tyrannus dominicensis,Gray Kingbird,2012,L167975,26.0215359,-80.1240387,US-FL
+swathr,Catharus ustulatus,Swainson's Thrush,2000,L30868,33.81637,-84.11348,US-GA
+grykin,Tyrannus dominicensis,Gray Kingbird,2015,L1798369,33.8263378,-78.6602732,US-SC
+nrwswa,Stelgidopteryx serripennis,Northern Rough-winged Swallow,2000,L76860,38.2764,-77.55102,US-VA
+swawar,Limnothlypis swainsonii,Swainson's Warbler,2004,L227775,28.8883057,-81.6758118,US-FL
+swawar,Limnothlypis swainsonii,Swainson's Warbler,2009,L97903,45.3254863,-73.8052619,CA-QC
+nrwswa,Stelgidopteryx serripennis,Northern Rough-winged Swallow,2007,L274709,34.1491755,-118.2856107,US-CA
+gbbgul,Larus marinus,Great Black-backed Gull,1991,L40513,45.45,-74.15,CA-QC
+gbbgul,Larus marinus,Great Black-backed Gull,1999,L20238,45.05,-64.683333,CA-NS
+sctfly,Tyrannus forficatus,Scissor-tailed Flycatcher,2010,L815548,32.5647774,-95.5997849,US-TX
+sctfly,Tyrannus forficatus,Scissor-tailed Flycatcher,2012,L195726,33.1731517,-96.6329795,US-TX
+whcswi,Streptoprocne zonaris,White-collared Swift,2009,L788597,34.101639,-117.817521,US-CA
+sctfly,Tyrannus forficatus,Scissor-tailed Flycatcher,2015,L2063887,28.5728766,-97.7947569,US-TX
+whwcro,Loxia leucoptera,White-winged Crossbill,1988,L36009,40.6352,-80.08275,US-PA
+miskit,Ictinia mississippiensis,Mississippi Kite,2010,L103633,31.2532981,-92.4518658,US-LA
+miskit,Ictinia mississippiensis,Mississippi Kite,2011,L103633,31.2532981,-92.4518658,US-LA
+solvir1,Vireo cassinii/solitarius/plumbeus,solitary vireo sp.,2004,L106727,44.5934853,-123.322345,US-OR
+solvir1,Vireo cassinii/solitarius/plumbeus,solitary vireo sp.,2005,L103815,38.6863926,-120.6594795,US-CA
+norpyo1,Glaucidium gnoma [californicum Group],Northern Pygmy-Owl (Pacific),2008,L357266,41.4824282,-122.8213978,US-CA
+fuwduc,Dendrocygna bicolor,Fulvous Whistling-Duck,2011,L279929,27.2496598,-80.3715363,US-FL
+barwar,Setophaga subita,Barbuda Warbler,2015,L1806867,30.280041,-98.872633,US-TX
+norpyo1,Glaucidium gnoma [californicum Group],Northern Pygmy-Owl (Pacific),2009,L142256,54.0499992,-128.5500031,CA-BC
+bkpwar,Setophaga striata,Blackpoll Warbler,1999,L25955,40.71425,-73.36192,US-NY
+chemun,Lonchura atricapilla,Chestnut Munia,2020,L867162,21.4229692,-157.9494202,US-HI
+chemun,Lonchura atricapilla,Chestnut Munia,2021,L867162,21.4229692,-157.9494202,US-HI
+fuwduc,Dendrocygna bicolor,Fulvous Whistling-Duck,2013,L279929,27.2496598,-80.3715363,US-FL
+chemun,Lonchura atricapilla,Chestnut Munia,2022,L867162,21.4229692,-157.9494202,US-HI
+fuwduc,Dendrocygna bicolor,Fulvous Whistling-Duck,2014,L279929,27.2496598,-80.3715363,US-FL
+chswar,Setophaga pensylvanica,Chestnut-sided Warbler,1994,L35064,35.76661,-78.7133,US-NC
+fuwduc,Dendrocygna bicolor,Fulvous Whistling-Duck,2015,L279929,27.2496598,-80.3715363,US-FL
+compea,Pavo cristatus,Indian Peafowl,2015,L19882,43.619,-80.133,CA-ON
+compea,Pavo cristatus,Indian Peafowl,2017,L144020,28.0131798,-82.7524033,US-FL
+wilfly,Empidonax traillii,Willow Flycatcher,2002,L81735,32.0554009,-110.3477235,US-AZ
+orfpar,Eupsittula canicularis,Orange-fronted Parakeet,2018,L6824873,20.7531588,-105.3845664,MX-NAY
+wilfly,Empidonax traillii,Willow Flycatcher,2003,L131946,32.7029991,-97.155899,US-TX
+fuwduc,Dendrocygna bicolor,Fulvous Whistling-Duck,2019,L8486439,28.815017,-81.649271,US-FL
+chswar,Setophaga pensylvanica,Chestnut-sided Warbler,1999,L24941,35.92522,-79.03512,US-NC
+truswa,Cygnus buccinator,Trumpeter Swan,2001,L83214,45.30433,-93.79497,US-MN
+wilfly,Empidonax traillii,Willow Flycatcher,2006,L98399,35.20865,-84.86415,US-TN
+truswa,Cygnus buccinator,Trumpeter Swan,2004,L83187,45.22408,-93.97279,US-MN
+swathr,Catharus ustulatus,Swainson's Thrush,2011,L854554,37.2601184,-76.7488575,US-VA
+swawar,Limnothlypis swainsonii,Swainson's Warbler,2013,L1806867,30.280041,-98.872633,US-TX
+nrwswa,Stelgidopteryx serripennis,Northern Rough-winged Swallow,2011,L337777,34.1660083,-84.4461322,US-GA
+savspa4,Passerculus sandwichensis [sandwichensis Group],Savannah Sparrow (Savannah),2013,L168573,35.6891556,-79.7676926,US-NC
+miskit,Ictinia mississippiensis,Mississippi Kite,2021,L13901108,31.9466801,-81.1553415,US-GA
+bkvori,Icterus wagleri,Black-vented Oriole,2020,L6786743,20.4799086,-104.7848977,MX-JAL
+norpyo1,Glaucidium gnoma [californicum Group],Northern Pygmy-Owl (Pacific),2010,L357266,41.4824282,-122.8213978,US-CA
+norpyo1,Glaucidium gnoma [californicum Group],Northern Pygmy-Owl (Pacific),2011,L142256,54.0499992,-128.5500031,CA-BC
+miskit,Ictinia mississippiensis,Mississippi Kite,2024,L3983828,32.43128,-80.688576,US-SC
+solvir1,Vireo cassinii/solitarius/plumbeus,solitary vireo sp.,2015,L217625,30.519188,-85.21274,US-FL
+btmjay,Calocitta colliei,Black-throated Magpie-Jay,2005,L247022,41.7365036,-111.8026276,US-UT
+meadow,Sturnella neglecta/magna,Western/Eastern Meadowlark,2013,L788565,30.176869,-96.609734,US-TX
+compea,Pavo cristatus,Indian Peafowl,2020,L3133694,48.4111163,-123.3317014,CA-BC
+meadow,Sturnella neglecta/magna,Western/Eastern Meadowlark,2015,L22857,40.85242,-80.2822,US-PA
+orfpar,Eupsittula canicularis,Orange-fronted Parakeet,2023,L21753963,47.5997546,-122.2989822,US-WA
+foxsp1,Passerella iliaca iliaca/zaboria,Fox Sparrow (Red),2001,L73683,40.40168,-74.11209,US-NJ
+swawar,Limnothlypis swainsonii,Swainson's Warbler,2020,L1806342,30.1990376,-81.6285782,US-FL
+swawar,Limnothlypis swainsonii,Swainson's Warbler,2021,L168098,33.5578384,-85.021431,US-GA
+foxsp1,Passerella iliaca iliaca/zaboria,Fox Sparrow (Red),2003,L168573,35.6891556,-79.7676926,US-NC
+truswa,Cygnus buccinator,Trumpeter Swan,2017,L356908,46.368494,-94.202152,US-MN
+swawar,Limnothlypis swainsonii,Swainson's Warbler,2024,L16852040,30.2470146,-95.944671,US-TX
+foxsp1,Passerella iliaca iliaca/zaboria,Fox Sparrow (Red),2009,L78260,37.9466292,-87.2874624,US-IN
+whcswi,Streptoprocne zonaris,White-collared Swift,2020,L6824873,20.7531588,-105.3845664,MX-NAY
+whcswi,Streptoprocne zonaris,White-collared Swift,2024,L1804747,34.8210526,-111.8186188,US-AZ
+whfibi,Plegadis chihi,White-faced Ibis,2004,L25322,33.0802248,-117.2447362,US-CA
+blkmer1,Falco columbarius suckleyi,Merlin (Black),2005,L247774,45.4423409,-122.7615509,US-OR
+blkmer1,Falco columbarius suckleyi,Merlin (Black),2006,L80195,44.1339129,-72.340199,US-VT
+woowar,Phylloscopus sibilatrix,Wood Warbler,2007,L99848,44.9002241,-92.7895108,US-MN
+hawgoo,Branta sandvicensis,Hawaiian Goose,2009,L297564,19.9307503,-155.7785797,US-HI
+lecthr,Toxostoma lecontei,LeConte's Thrasher,1994,L39415,35.71044,-117.86197,US-CA
+lecthr,Toxostoma lecontei,LeConte's Thrasher,1995,L39415,35.71044,-117.86197,US-CA
+foxsp1,Passerella iliaca iliaca/zaboria,Fox Sparrow (Red),2010,L97728,49.8396985,-97.2595596,CA-MB
+cangoo4,Branta canadensis moffitti/maxima,Canada Goose (moffitti/maxima),2019,L671725,43.2677844,-123.0451369,US-OR
+quail1,Odontophoridae sp.,new world quail sp.,1995,L20451,42.12109,-88.26598,US-IL
+quail1,Odontophoridae sp.,new world quail sp.,1997,L28062,42.47803,-76.38661,US-NY
+y01184,Sturnella magna/lilianae,Eastern/Chihuahuan Meadowlark,2002,L21377,39.36489,-104.57373,US-CO
+whfibi,Plegadis chihi,White-faced Ibis,2013,L25322,33.0802248,-117.2447362,US-CA
+whfibi,Plegadis chihi,White-faced Ibis,2014,L25322,33.0802248,-117.2447362,US-CA
+y01184,Sturnella magna/lilianae,Eastern/Chihuahuan Meadowlark,2004,L130708,40.5877113,-104.9625931,US-CO
+blkmer1,Falco columbarius suckleyi,Merlin (Black),2011,L1027024,31.3106003,-100.7663956,US-TX
+ipsspa,Passerculus sandwichensis princeps,Savannah Sparrow (Ipswich),2012,L71562,44.7063915,-66.8157713,CA-NB
+ipsspa,Passerculus sandwichensis princeps,Savannah Sparrow (Ipswich),2013,L460329,42.780105,-71.083374,US-MA
+gchwar,Setophaga chrysoparia,Golden-cheeked Warbler,2003,L103564,30.2209106,-97.8946055,US-TX
+olsfly,Contopus cooperi,Olive-sided Flycatcher,1995,L39262,50.45,-119.2,CA-BC
+gchwar,Setophaga chrysoparia,Golden-cheeked Warbler,2006,L103564,30.2209106,-97.8946055,US-TX
+gchwar,Setophaga chrysoparia,Golden-cheeked Warbler,2007,L355489,30.6172136,-98.109498,US-TX
+ipsspa,Passerculus sandwichensis princeps,Savannah Sparrow (Ipswich),2018,L5064111,38.5517296,-75.106067,US-DE
+gchwar,Setophaga chrysoparia,Golden-cheeked Warbler,2008,L488164,29.853607,-98.24024,US-TX
+bkbwar,Setophaga fusca,Blackburnian Warbler,1995,L20857,45.67702,-122.6668,US-WA
+shicow,Molothrus bonariensis,Shiny Cowbird,2000,L77448,33.1720426,-96.6305923,US-TX
+redhea,Aythya americana,Redhead,2003,L140183,40.0746613,-82.8968964,US-OH
+wesgre,Aechmophorus occidentalis,Western Grebe,2012,L133150,34.2420006,-117.2850037,US-CA
+shicow,Molothrus bonariensis,Shiny Cowbird,2006,L361176,26.098053,-80.398988,US-FL
+shicow,Molothrus bonariensis,Shiny Cowbird,2008,L277266,27.989854,-82.5529003,US-FL
+redhea,Aythya americana,Redhead,2009,L99322,41.1514348,-81.8590531,US-OH
+PFW_2020,,,2,L76812,45.385,-75.7567,CA-ON
+pabwoo1,Campephilus guatemalensis,Pale-billed Woodpecker,2017,L6824873,20.7531588,-105.3845664,MX-NAY
+y01184,Sturnella magna/lilianae,Eastern/Chihuahuan Meadowlark,2011,L1336536,33.3166866,-101.8107748,US-TX
+whfibi,Plegadis chihi,White-faced Ibis,2022,L10861244,27.7837332,-97.0983696,US-TX
+y01184,Sturnella magna/lilianae,Eastern/Chihuahuan Meadowlark,2012,L1336536,33.3166866,-101.8107748,US-TX
+whfibi,Plegadis chihi,White-faced Ibis,2023,L28176106,38.4970884,-121.0822138,US-CA
+tribla,Agelaius tricolor,Tricolored Blackbird,2002,L76888,38.7265337,-122.9029314,US-CA
+ipsspa,Passerculus sandwichensis princeps,Savannah Sparrow (Ipswich),2022,L635084,34.9161624,-85.5677213,US-GA
+gchwar,Setophaga chrysoparia,Golden-cheeked Warbler,2017,L1830396,30.6850763,-97.6957884,US-TX
+herwar,Setophaga occidentalis,Hermit Warbler,2005,L234234,38.0153198,-122.5458679,US-CA
+gchwar,Setophaga chrysoparia,Golden-cheeked Warbler,2019,L474345,30.0494822,-98.2364845,US-TX
+herwar,Setophaga occidentalis,Hermit Warbler,2007,L217342,37.829777,-122.22056,US-CA
+grybun,Emberiza variabilis,Gray Bunting,2005,L132532,43.0387726,-76.0326767,US-NY
+y00004,Bucephala clangula/islandica,Common/Barrow's Goldeneye,2014,L597354,45.76271,-66.1407178,CA-NB
+redhea,Aythya americana,Redhead,2010,L99322,41.1514348,-81.8590531,US-OH
+redhea,Aythya americana,Redhead,2011,L72236,42.8002,-76.12932,US-NY
+duck1,Anatidae (duck sp.),duck sp.,2011,L788536,42.495873,-77.512346,US-NY
+shicow,Molothrus bonariensis,Shiny Cowbird,2014,L1810339,40.0423012,-74.8733978,US-NJ
+shicow,Molothrus bonariensis,Shiny Cowbird,2016,L4042144,41.7756414,-72.2287767,US-CT
+bacspa,Peucaea aestivalis,Bachman's Sparrow,2003,L99614,29.5057912,-82.9068472,US-FL
+shicow,Molothrus bonariensis,Shiny Cowbird,2017,L285374,40.2865317,-74.8444033,US-NJ
+bacspa,Peucaea aestivalis,Bachman's Sparrow,2006,L277472,34.70021,-76.7374259,US-NC
+bacspa,Peucaea aestivalis,Bachman's Sparrow,2007,L371096,35.5712269,-78.7959194,US-NC
+pabwoo1,Campephilus guatemalensis,Pale-billed Woodpecker,2020,L6824873,20.7531588,-105.3845664,MX-NAY
+labspa,Passerculus sandwichensis rostratus/atratus,Savannah Sparrow (Large-billed),2003,L76768,37.4475308,-90.228985,US-MO
+labspa,Passerculus sandwichensis rostratus/atratus,Savannah Sparrow (Large-billed),2006,L76330,33.14799,-96.50608,US-TX
+brambl,Fringilla montifringilla,Brambling,2005,L363926,49.97178,-98.31217,CA-MB
+tenwar,Leiothlypis peregrina,Tennessee Warbler,2000,L80196,29.58089,-95.62795,US-TX
+tribla,Agelaius tricolor,Tricolored Blackbird,2015,L166146,45.5099983,-119.1800003,US-OR
+tribla,Agelaius tricolor,Tricolored Blackbird,2018,L7216874,35.475293,-120.4998815,US-CA
+bkskit1,Elanus caeruleus,Black-winged Kite,2012,L981144,37.677454,-120.945644,US-CA
+calgul,Larus californicus,California Gull,2001,L76296,37.73743,-121.42819,US-CA
+nobtyr,Camptostoma imberbe,Northern Beardless-Tyrannulet,2020,L10181550,26.2406535,-98.229146,US-TX
+x00712,Sphyrapicus varius x ruber,Yellow-bellied x Red-breasted Sapsucker (hybrid),2001,L104386,40.16936,-92.1732,US-MO
+x00712,Sphyrapicus varius x ruber,Yellow-bellied x Red-breasted Sapsucker (hybrid),2004,L77028,46.54903,-124.03258,US-WA
+shicow,Molothrus bonariensis,Shiny Cowbird,2022,L10124582,38.4555696,-75.050916,US-DE
+shicow,Molothrus bonariensis,Shiny Cowbird,2023,L4048801,34.8230519,-118.961564,US-CA
+bacspa,Peucaea aestivalis,Bachman's Sparrow,2011,L1290164,30.869783,-83.286528,US-GA
+swallo,Hirundinidae sp.,swallow sp.,1995,L31986,48.02228,-122.06858,US-WA
+wlswar,Cardellina pusilla,Wilson's Warbler,1997,L40483,43.18307,-124.18242,US-OR
+wlswar,Cardellina pusilla,Wilson's Warbler,1999,L24559,45.62732,-122.52745,US-WA
+swallo,Hirundinidae sp.,swallow sp.,1998,L19520,48.91667,-123.71667,CA-BC
+ewcspa1,Zonotrichia leucophrys leucophrys,White-crowned Sparrow (leucophrys),2009,L460290,30.4293,-84.2571,US-FL
+buwwar,Vermivora cyanoptera,Blue-winged Warbler,1997,L22276,29.16264,-82.09903,US-FL
+orabis1,Euplectes franciscanus,Northern Red Bishop,2003,L81964,37.9138417,-122.0753406,US-CA
+orabis1,Euplectes franciscanus,Northern Red Bishop,2007,L374826,33.912734,-117.47211,US-CA
+orabis1,Euplectes franciscanus,Northern Red Bishop,2008,L374826,33.912734,-117.47211,US-CA
+blugrb1,Passerina caerulea,Blue Grosbeak,2000,L76380,34.3701,-92.3551,US-AR
+tribla,Agelaius tricolor,Tricolored Blackbird,2024,L22523052,39.073461,-96.300505,US-KS
+tenwar,Leiothlypis peregrina,Tennessee Warbler,2019,L8623971,36.8077492,-76.1028952,US-VA
+herwar,Setophaga occidentalis,Hermit Warbler,2024,L5123127,34.1049911,-118.4447193,US-CA
+amepip,Anthus rubescens,American Pipit,2002,L100556,34.9898864,-81.0816944,US-SC
+amepip,Anthus rubescens,American Pipit,2009,L366983,29.681118,-95.9173393,US-TX
+frsgro1,Canachites canadensis franklinii/isleibi,Spruce Grouse (Franklin's),2006,L272868,64.0625907,-145.6534552,US-AK
+frsgro1,Canachites canadensis franklinii/isleibi,Spruce Grouse (Franklin's),2009,L272868,64.0625907,-145.6534552,US-AK
+blugrb1,Passerina caerulea,Blue Grosbeak,2014,L133241,30.1369495,-82.9643478,US-FL
+blugrb1,Passerina caerulea,Blue Grosbeak,2015,L274313,40.953661,-72.840957,US-NY
+brambl,Fringilla montifringilla,Brambling,2022,L17415359,46.6984528,-71.8910008,CA-QC
+eurgre1,Chloris chloris,European Greenfinch,2010,L616508,42.6281294,-80.4547048,CA-ON
+yegfin1,Atlapetes luteoviridis,Yellow-green Brushfinch,2008,L477955,43.001348,-81.265952,CA-ON
+yegvir,Vireo flavoviridis,Yellow-green Vireo,2018,L6824873,20.7531588,-105.3845664,MX-NAY
+eurgre1,Chloris chloris,European Greenfinch,2018,L8142896,47.2168628,-120.9917309,US-WA
+phivir,Vireo philadelphicus,Philadelphia Vireo,2024,L27777314,42.8655041,-71.518725,US-NH
+monqua,Cyrtonyx montezumae,Montezuma Quail,1995,L35554,32.77266,-108.27459,US-NM
+frsgro1,Canachites canadensis franklinii/isleibi,Spruce Grouse (Franklin's),2012,L272868,64.0625907,-145.6534552,US-AK
+btywar,Setophaga nigrescens,Black-throated Gray Warbler,1994,L37350,34.4426,-119.74209,US-CA
+sparro1,Passerellidae sp.,new world sparrow sp.,1994,L28955,42.85,-80.733333,CA-ON
+btywar,Setophaga nigrescens,Black-throated Gray Warbler,1999,L25037,45.44544,-122.7764,US-OR
+bongul,Chroicocephalus philadelphia,Bonaparte's Gull,2002,L77077,44.65456,-67.40507,US-ME
+yegvir,Vireo flavoviridis,Yellow-green Vireo,2020,L10259227,42.8401565,-70.9725819,US-MA
+yegvir,Vireo flavoviridis,Yellow-green Vireo,2021,L9122778,28.3662011,-82.6871242,US-FL
+eurgre1,Chloris chloris,European Greenfinch,2020,L10645200,39.7790572,-77.2987747,US-PA
+yegvir,Vireo flavoviridis,Yellow-green Vireo,2022,L9122778,28.3662011,-82.6871242,US-FL
+eurgre1,Chloris chloris,European Greenfinch,2021,L13829715,40.706587,-73.8401851,US-NY
+bongul,Chroicocephalus philadelphia,Bonaparte's Gull,2007,L283674,37.978845,-121.2341309,US-CA
+comros,Carpodacus erythrinus,Common Rosefinch,2009,L132532,43.0387726,-76.0326767,US-NY
+x00422,Anas platyrhynchos x fulvigula,Mallard x Mottled Duck (hybrid),2007,L273148,37.909832,-87.187242,US-IN
+easkin,Tyrannus tyrannus,Eastern Kingbird,1991,L28149,40.52129,-75.77457,US-PA
+easkin,Tyrannus tyrannus,Eastern Kingbird,1992,L41626,31.60342,-110.53298,US-AZ
+swahaw,Buteo swainsoni,Swainson's Hawk,2000,L26698,42.23674,-83.69881,US-MI
+easkin,Tyrannus tyrannus,Eastern Kingbird,1993,L38897,35.4988,-83.00486,US-NC
+swahaw,Buteo swainsoni,Swainson's Hawk,2006,L78100,39.65277,-119.88126,US-NV
+snoowl1,Bubo scandiacus,Snowy Owl,1995,L38446,43.31522,-78.07579,US-NY
+snoowl1,Bubo scandiacus,Snowy Owl,1999,L20969,42.11616,-75.96013,US-NY
+comros,Carpodacus erythrinus,Common Rosefinch,2010,L356209,37.9282767,-78.3479744,US-VA
+wesgul,Larus occidentalis,Western Gull,2000,L77113,44.63607,-123.11022,US-OR
+wesgul,Larus occidentalis,Western Gull,2002,L107548,33.64853,-117.59777,US-CA
+wesgul,Larus occidentalis,Western Gull,2006,L140541,45.6033897,-122.5206833,US-WA
+x00422,Anas platyrhynchos x fulvigula,Mallard x Mottled Duck (hybrid),2019,L8835641,27.7547362,-82.7619678,US-FL
+whevir,Vireo griseus,White-eyed Vireo,1992,L40241,30.51571,-84.27744,US-FL
+bongul,Chroicocephalus philadelphia,Bonaparte's Gull,2024,L10048829,34.104005,-81.4776939,US-SC
+whevir,Vireo griseus,White-eyed Vireo,1999,L20919,35.76665,-79.18964,US-NC
+macwar,Geothlypis tolmiei,MacGillivray's Warbler,2006,L161559,49.60147,-117.18381,CA-BC
+macwar,Geothlypis tolmiei,MacGillivray's Warbler,2007,L207753,33.0177574,-108.2829895,US-NM
+barswa,Hirundo rustica,Barn Swallow,1997,L19398,48.95,-57.95,CA-NL
+archil1,Archilochus colubris/alexandri,Ruby-throated/Black-chinned Hummingbird,2005,L207612,30.0243568,-90.2187119,US-LA
+archil1,Archilochus colubris/alexandri,Ruby-throated/Black-chinned Hummingbird,2007,L207612,30.0243568,-90.2187119,US-LA
+grcfly,Myiarchus crinitus,Great Crested Flycatcher,2000,L76330,33.14799,-96.50608,US-TX
+amewoo,Scolopax minor,American Woodcock,1997,L19145,43.88333,-79.733333,CA-ON
+amewoo,Scolopax minor,American Woodcock,1999,L30421,44.03164,-69.85737,US-ME
+winwre2,Troglodytes pacificus [pacificus Group],Pacific Wren (pacificus Group),2008,L466340,40.758133,-124.064059,US-CA
+olispa,Arremonops rufivirgatus,Olive Sparrow,1991,L29819,26.51648,-99.11224,US-TX
+winwre2,Troglodytes pacificus [pacificus Group],Pacific Wren (pacificus Group),2009,L466340,40.758133,-124.064059,US-CA
+easwpw1,Antrostomus vociferus,Eastern Whip-poor-will,1995,L28026,38.15885,-91.2439,US-MO
+easwpw1,Antrostomus vociferus,Eastern Whip-poor-will,1998,L25522,28.80065,-81.64562,US-FL
+y00666,Accipiter cooperii/atricapillus,Cooper's Hawk/American Goshawk,2002,L132515,34.4446247,-119.278232,US-CA
+y00666,Accipiter cooperii/atricapillus,Cooper's Hawk/American Goshawk,2005,L72273,38.99797,-77.09899,US-MD
+macwar,Geothlypis tolmiei,MacGillivray's Warbler,2019,L6824873,20.7531588,-105.3845664,MX-NAY
+marwre3,Cistothorus palustris [palustris Group],Marsh Wren (palustris Group),2007,L483049,32.01184,-80.95109,US-GA
+archil1,Archilochus colubris/alexandri,Ruby-throated/Black-chinned Hummingbird,2011,L233775,32.6061034,-83.6872602,US-GA
+gyrfal,Falco rusticolus,Gyrfalcon,2001,L107734,44.54,-79.43,CA-ON
+ducfly,Myiarchus tuberculifer,Dusky-capped Flycatcher,2010,L504832,35.1733698,-118.5058308,US-CA
+gyrfal,Falco rusticolus,Gyrfalcon,2003,L139732,52.4954515,-103.5035467,CA-SK
+gyrfal,Falco rusticolus,Gyrfalcon,2006,L363923,43.768,-79.42086,CA-ON
+winwre2,Troglodytes pacificus [pacificus Group],Pacific Wren (pacificus Group),2016,L72724,47.3399351,-122.6348233,US-WA
+pagplo,Pluvialis fulva,Pacific Golden-Plover,2007,L297564,19.9307503,-155.7785797,US-HI
+leater1,Sternula antillarum,Least Tern,2020,L10861244,27.7837332,-97.0983696,US-TX
+rengre,Podiceps grisegena,Red-necked Grebe,2002,L77077,44.65456,-67.40507,US-ME
+leater1,Sternula antillarum,Least Tern,2023,L21921998,36.6066839,-94.7862064,US-OK
+rengre,Podiceps grisegena,Red-necked Grebe,2005,L133150,34.2420006,-117.2850037,US-CA
+rengre,Podiceps grisegena,Red-necked Grebe,2006,L189246,44.987751,-72.243187,US-VT
+sagspa,Artemisiospiza nevadensis/belli,Sagebrush/Bell's Sparrow (Sage Sparrow),2003,L166970,33.9314613,-116.8853607,US-CA
+sagspa,Artemisiospiza nevadensis/belli,Sagebrush/Bell's Sparrow (Sage Sparrow),2005,L24508,32.91932,-117.08532,US-CA
+greyel,Tringa melanoleuca,Greater Yellowlegs,2013,L454545,31.3772906,-96.902225,US-TX
+sagspa,Artemisiospiza nevadensis/belli,Sagebrush/Bell's Sparrow (Sage Sparrow),2008,L478064,32.38824,-111.351915,US-AZ
+flycat1,Tyrannidae sp.,new world flycatcher sp.,1998,L23362,42.4526,-71.87001,US-MA
+sagspa,Artemisiospiza nevadensis/belli,Sagebrush/Bell's Sparrow (Sage Sparrow),2009,L24508,32.91932,-117.08532,US-CA
+greyel,Tringa melanoleuca,Greater Yellowlegs,2016,L454545,31.3772906,-96.902225,US-TX
+hoomer,Lophodytes cucullatus,Hooded Merganser,1991,L38518,35.97977,-78.53163,US-NC
+warble,Parulidae sp.,new world warbler sp.,2008,L273952,49.34078,-123.26356,CA-BC
+y00666,Accipiter cooperii/atricapillus,Cooper's Hawk/American Goshawk,2013,L1313622,40.8634758,-73.5292892,US-NY
+compoo,Phalaenoptilus nuttallii,Common Poorwill,2004,L190133,33.0047531,-116.7690277,US-CA
+compoo,Phalaenoptilus nuttallii,Common Poorwill,2006,L138751,33.0644798,-116.4402008,US-CA
+bkcspa,Spizella atrogularis,Black-chinned Sparrow,2019,L8382699,37.3645593,-118.3893593,US-CA
+smilon,Calcarius pictus,Smith's Longspur,1999,L19814,42.33333,-82,CA-ON
+macwar,Geothlypis tolmiei,MacGillivray's Warbler,2021,L13049781,37.771678,-122.2696157,US-CA
+rosspo1,Platalea ajaja,Roseate Spoonbill,2003,L106945,30.06626,-93.91101,US-TX
+rosspo1,Platalea ajaja,Roseate Spoonbill,2004,L168257,27.8704472,-82.2884369,US-FL
+rosspo1,Platalea ajaja,Roseate Spoonbill,2008,L292489,28.0425054,-82.4928966,US-FL
+rosspo1,Platalea ajaja,Roseate Spoonbill,2009,L292489,28.0425054,-82.4928966,US-FL
+gyrfal,Falco rusticolus,Gyrfalcon,2010,L626730,64.8401262,-147.6543617,US-AK
+gyrfal,Falco rusticolus,Gyrfalcon,2012,L788417,44,-78.016667,CA-ON
+whrsha,Copsychus malabaricus,White-rumped Shama,2017,L867162,21.4229692,-157.9494202,US-HI
+maghum1,Eugenes fulgens,Rivoli's Hummingbird,1997,L27604,32.16361,-109.33811,US-AZ
+gyrfal,Falco rusticolus,Gyrfalcon,2016,L1821166,45.081501,-76.4811859,CA-ON
+maghum1,Eugenes fulgens,Rivoli's Hummingbird,1999,L27604,32.16361,-109.33811,US-AZ
+gyrfal,Falco rusticolus,Gyrfalcon,2017,L241424,42.8311959,-114.8954818,US-ID
+attwoo1,Picoides dorsalis,American Three-toed Woodpecker,1989,L36516,50.06667,-96.55,CA-MB
+pagplo,Pluvialis fulva,Pacific Golden-Plover,2018,L8266210,21.3976777,-157.7401989,US-HI
+rengre,Podiceps grisegena,Red-necked Grebe,2010,L463937,46.4456641,-75.0069237,CA-QC
+rengre,Podiceps grisegena,Red-necked Grebe,2017,L799143,46.2280804,-79.3761657,CA-ON
+sagspa,Artemisiospiza nevadensis/belli,Sagebrush/Bell's Sparrow (Sage Sparrow),2010,L611062,33.721949,-116.954561,US-CA
+lucwar,Leiothlypis luciae,Lucy's Warbler,2003,L72410,31.55062,-110.26995,US-AZ
+greyel,Tringa melanoleuca,Greater Yellowlegs,2024,L29908,41.17325,-82.22178,US-OH
+lucwar,Leiothlypis luciae,Lucy's Warbler,2008,L486536,32.3712266,-111.0150003,US-AZ
+raven,Corvus sp. (raven sp.),raven sp.,2004,L170027,33.0244331,-117.2693405,US-CA
+warble,Parulidae sp.,new world warbler sp.,2015,L138776,32.6884733,-97.1850586,US-TX
+warble,Parulidae sp.,new world warbler sp.,2016,L138776,32.6884733,-97.1850586,US-TX
+warble,Parulidae sp.,new world warbler sp.,2017,L138776,32.6884733,-97.1850586,US-TX
+warble,Parulidae sp.,new world warbler sp.,2019,L138776,32.6884733,-97.1850586,US-TX
+rebmer,Mergus serrator,Red-breasted Merganser,2000,L77077,44.65456,-67.40507,US-ME
+bkcspa,Spizella atrogularis,Black-chinned Sparrow,2021,L12741254,40.5769972,-122.3293758,US-CA
+compoo,Phalaenoptilus nuttallii,Common Poorwill,2012,L162461,33.3735413,-112.0015491,US-AZ
+orwpar,Amazona amazonica,Orange-winged Parrot,2003,L150522,26.1113739,-80.2447128,US-FL
+orwpar,Amazona amazonica,Orange-winged Parrot,2004,L150522,26.1113739,-80.2447128,US-FL
+towhee1,Melozone/Pipilo sp.,towhee sp.,2009,L799896,33.8956032,-110.1737137,US-AZ
+rosspo1,Platalea ajaja,Roseate Spoonbill,2017,L6702548,27.2904224,-80.2712013,US-FL
+gyrfal,Falco rusticolus,Gyrfalcon,2020,L5081523,49.723142,-112.601924,CA-AB
+gyrfal,Falco rusticolus,Gyrfalcon,2022,L71626,44.6600225,-63.9535832,CA-NS
+attwoo1,Picoides dorsalis,American Three-toed Woodpecker,1994,L38060,58.75095,-156.4884,US-AK
+whtswi,Aeronautes saxatalis,White-throated Swift,2001,L78900,34.30576,-118.42846,US-CA
+grawar,Setophaga graciae,Grace's Warbler,2006,L240651,33.7105217,-112.1559525,US-AZ
+pagplo,Pluvialis fulva,Pacific Golden-Plover,2023,L867162,21.4229692,-157.9494202,US-HI
+santer1,Thalasseus sandvicensis,Sandwich Tern,2020,L10861244,27.7837332,-97.0983696,US-TX
+bncfly,Myiarchus tyrannulus,Brown-crested Flycatcher,2007,L207753,33.0177574,-108.2829895,US-NM
+whtswi,Aeronautes saxatalis,White-throated Swift,2005,L77575,36.4663,-118.9042,US-CA
+bncfly,Myiarchus tyrannulus,Brown-crested Flycatcher,2009,L654757,38.435486,-77.390706,US-VA
+whtswi,Aeronautes saxatalis,White-throated Swift,2008,L132515,34.4446247,-119.278232,US-CA
+rengre,Podiceps grisegena,Red-necked Grebe,2023,L21306090,48.7244963,-122.6855988,US-WA
+rengre,Podiceps grisegena,Red-necked Grebe,2024,L21306090,48.7244963,-122.6855988,US-WA
+sagspa,Artemisiospiza nevadensis/belli,Sagebrush/Bell's Sparrow (Sage Sparrow),2020,L478064,32.38824,-111.351915,US-AZ
+warble,Parulidae sp.,new world warbler sp.,2023,L138776,32.6884733,-97.1850586,US-TX
+raven,Corvus sp. (raven sp.),raven sp.,2016,L5086893,40.4101427,-91.3886011,US-IA
+crossb,Loxia sp.,crossbill sp.,2006,L138274,48.466671,-81.2166672,CA-ON
+raven,Corvus sp. (raven sp.),raven sp.,2017,L5086893,40.4101427,-91.3886011,US-IA
+raven,Corvus sp. (raven sp.),raven sp.,2018,L2409943,43.972701,-75.62278,US-NY
+crossb,Loxia sp.,crossbill sp.,2009,L274346,39.2552659,-105.2270937,US-CO
+rebmer,Mergus serrator,Red-breasted Merganser,2015,L2420706,47.1251622,-68.3235455,US-ME
+compoo,Phalaenoptilus nuttallii,Common Poorwill,2023,L2433749,45.53882,-122.3889399,US-OR
+larus1,Larus sp.,Larus sp.,2005,L228733,42.6816216,-70.8466187,US-MA
+rosspo1,Platalea ajaja,Roseate Spoonbill,2021,L10051289,27.9254503,-82.7216274,US-FL
+marwre,Cistothorus palustris,Marsh Wren,2006,L281848,45.4287566,-123.8476968,US-OR
+grawar,Setophaga graciae,Grace's Warbler,2019,L8135673,33.2526851,-111.6697168,US-AZ
+warvir,Vireo gilvus,Warbling Vireo,2005,L78065,33.4659,-117.63643,US-CA
+prowar,Protonotaria citrea,Prothonotary Warbler,1994,L42579,41.9821,-91.62427,US-IA
+prowar,Protonotaria citrea,Prothonotary Warbler,1998,L25217,30.48514,-87.20056,US-FL
+raven,Corvus sp. (raven sp.),raven sp.,2022,L1311582,29.8841136,-98.8727474,US-TX
+crossb,Loxia sp.,crossbill sp.,2012,L139353,47.800499,-117.3380737,US-WA
+gryjay3,Perisoreus canadensis obscurus/griseus,Canada Jay (Pacific),2008,L466251,45.860914,-122.928516,US-OR
+crossb,Loxia sp.,crossbill sp.,2014,L138274,48.466671,-81.2166672,CA-ON
+dabduc1,Anatidae sp. (dabbling duck sp.),dabbling duck sp.,2010,L190288,40.3332496,-75.3299637,US-PA
+dabduc1,Anatidae sp. (dabbling duck sp.),dabbling duck sp.,2011,L190288,40.3332496,-75.3299637,US-PA
+crossb,Loxia sp.,crossbill sp.,2015,L138274,48.466671,-81.2166672,CA-ON
+amered,Setophaga ruticilla,American Redstart,1999,L33323,26.73924,-80.32766,US-FL
+larus1,Larus sp.,Larus sp.,2010,L293491,40.3066488,-74.7613054,US-NJ
+larus1,Larus sp.,Larus sp.,2011,L293491,40.3066488,-74.7613054,US-NJ
+grnpar,Psittacara holochlorus,Green Parakeet,2001,L77994,26.26944,-80.25428,US-FL
+larus1,Larus sp.,Larus sp.,2015,L293491,40.3066488,-74.7613054,US-NJ
+vichum,Ramosomyia violiceps,Violet-crowned Hummingbird,2000,L73518,31.4511,-110.21528,US-AZ
+vichum,Ramosomyia violiceps,Violet-crowned Hummingbird,2002,L79097,32.31584,-106.79064,US-NM
+larus1,Larus sp.,Larus sp.,2018,L4011691,43.0834996,-86.1428493,US-MI
+grnpar,Psittacara holochlorus,Green Parakeet,2006,L279585,40.598369,-74.441515,US-NJ
+marwre,Cistothorus palustris,Marsh Wren,2012,L41601,40.94714,-73.05988,US-NY
+grnpar,Psittacara holochlorus,Green Parakeet,2008,L272434,29.5748777,-98.24974,US-TX
+vichum,Ramosomyia violiceps,Violet-crowned Hummingbird,2008,L75087,31.4511,-110.21528,US-AZ
+grawar,Setophaga graciae,Grace's Warbler,2022,L18755077,34.8556962,-111.8203879,US-AZ
+gryhaw2,Buteo plagiatus,Gray Hawk,2005,L29435,38.58435,-90.41232,US-MO
+warvir,Vireo gilvus,Warbling Vireo,2010,L73845,41.1215,-80.65639,US-OH
+warvir,Vireo gilvus,Warbling Vireo,2011,L28081,35.2409,-82.31655,US-NC
+gryhaw2,Buteo plagiatus,Gray Hawk,2008,L357899,32.2919577,-110.8042002,US-AZ
+gryjay3,Perisoreus canadensis obscurus/griseus,Canada Jay (Pacific),2012,L632850,47.776681,-120.712223,US-WA
+grackl,Quiscalus sp.,grackle sp.,2008,L230391,40.3752365,-105.120224,US-CO
+x00621,Sayornis nigricans x phoebe,Black x Eastern Phoebe (hybrid),2010,L249489,46.0490445,-76.8823873,CA-QC
+vichum,Ramosomyia violiceps,Violet-crowned Hummingbird,2010,L75087,31.4511,-110.21528,US-AZ
+grnpar,Psittacara holochlorus,Green Parakeet,2012,L272434,29.5748777,-98.24974,US-TX
+grnpar,Psittacara holochlorus,Green Parakeet,2015,L2706544,26.28154,-98.2015289,US-TX
+grnpar,Psittacara holochlorus,Green Parakeet,2016,L4395887,25.937388,-97.51635,US-TX
+wesblu,Sialia mexicana,Western Bluebird,1988,L33133,38.39668,-122.83582,US-CA
+audori,Icterus graduacauda,Audubon's Oriole,2009,L466729,29.67017,-97.783614,US-TX
+gryhaw2,Buteo plagiatus,Gray Hawk,2011,L225494,33.8652783,-86.625031,US-AL
+gryhaw2,Buteo plagiatus,Gray Hawk,2012,L1468577,31.7248819,-110.8802891,US-AZ
+cormor1,Phalacrocoracidae sp.,cormorant sp.,2002,L107293,36.7805,-76.1163,US-VA
+graher1,Ardea cinerea,Gray Heron,2007,L312787,29.8411018,-96.0253344,US-TX
+gryhaw2,Buteo plagiatus,Gray Hawk,2017,L6824873,20.7531588,-105.3845664,MX-NAY
+prawar,Setophaga discolor,Prairie Warbler,1993,L35975,30.23764,-85.91399,US-FL
+magfri,Fregata magnificens,Magnificent Frigatebird,2006,L167114,43.1581383,-80.0263519,CA-ON
+prawar,Setophaga discolor,Prairie Warbler,1994,L36026,30.15838,-85.76063,US-FL
+prawar,Setophaga discolor,Prairie Warbler,1998,L34367,34.09953,-84.29775,US-GA
+brocow,Molothrus aeneus,Bronzed Cowbird,2003,L152079,27.4493752,-97.8638611,US-TX
+cathus,Catharus sp.,Catharus sp.,2009,L131627,43.0716705,-89.513649,US-WI
+brocow,Molothrus aeneus,Bronzed Cowbird,2006,L144100,33.4953117,-112.4774628,US-AZ
+grackl,Quiscalus sp.,grackle sp.,2013,L2831440,50.33724,-113.76715,CA-AB
+grnkin,Chloroceryle americana,Green Kingfisher,2002,L81738,39.265,-82.967,US-OH
+vichum,Ramosomyia violiceps,Violet-crowned Hummingbird,2024,L74791,31.4287447,-110.2441977,US-AZ
+y00336,Molothrus bonariensis/ater,Shiny/Brown-headed Cowbird,2005,L105589,43.452742,-79.6988699,CA-ON
+woewar1,Helmitheros vermivorum,Worm-eating Warbler,1999,L32459,34.6903,-82.82333,US-SC
+bucpar,Thectocercus acuticaudatus,Blue-crowned Parakeet,2006,L273999,28.009728,-80.59427,US-FL
+leafly,Empidonax minimus,Least Flycatcher,1994,L31659,39.87931,-75.91681,US-PA
+bucpar,Thectocercus acuticaudatus,Blue-crowned Parakeet,2008,L273999,28.009728,-80.59427,US-FL
+leafly,Empidonax minimus,Least Flycatcher,1995,L20356,43.898,-79.406,CA-ON
+leafly,Empidonax minimus,Least Flycatcher,1998,L22304,29.28925,-81.09941,US-FL
+x00439,Strix occidentalis x varia,Spotted x Barred Owl (hybrid),2010,L170022,45.4082756,-79.0136704,CA-ON
+gryhaw2,Buteo plagiatus,Gray Hawk,2021,L12802282,42.4114996,-71.0263465,US-MA
+gryhaw2,Buteo plagiatus,Gray Hawk,2023,L27786022,29.5819759,-95.5189606,US-TX
+cathus,Catharus sp.,Catharus sp.,2010,L169116,42.6335483,-87.9246569,US-WI
+woodpe1,Picidae sp.,woodpecker sp.,2008,L597477,33.430535,-112.345359,US-AZ
+grnkin,Chloroceryle americana,Green Kingfisher,2011,L474345,30.0494822,-98.2364845,US-TX
+grnkin,Chloroceryle americana,Green Kingfisher,2016,L474345,30.0494822,-98.2364845,US-TX
+grnkin,Chloroceryle americana,Green Kingfisher,2018,L28686,29.49502,-99.7048,US-TX
+y00336,Molothrus bonariensis/ater,Shiny/Brown-headed Cowbird,2011,L227517,44.5415916,-78.549469,CA-ON
+y00336,Molothrus bonariensis/ater,Shiny/Brown-headed Cowbird,2012,L283519,33.534059,-117.332846,US-CA
+cathus,Catharus sp.,Catharus sp.,2020,L283534,41.5899224,-87.9413054,US-IL
+wilwar1,Cardellina pusilla pileolata,Wilson's Warbler (pileolata),2009,L81777,29.62642,-95.22103,US-TX
+cathus,Catharus sp.,Catharus sp.,2022,L169116,42.6335483,-87.9246569,US-WI
+woodpe1,Picidae sp.,woodpecker sp.,2010,L804810,47.596527,-120.6556749,US-WA
+y00326,Baeolophus inornatus/ridgwayi,Oak/Juniper Titmouse (Plain Titmouse),2013,L360998,37.952995,-122.075472,US-CA
+buwtea,Spatula discors,Blue-winged Teal,1994,L36946,54.51667,-128.58333,CA-BC
+buwtea,Spatula discors,Blue-winged Teal,1998,L22839,32.57455,-97.14175,US-TX
+buwtea,Spatula discors,Blue-winged Teal,1999,L29287,45.281714,-92.896249,US-MN
+hawfin,Coccothraustes coccothraustes,Hawfinch,2020,L480203,60.6839388,-137.4609375,CA-YT
+falcon,Falco sp.,falcon sp.,2005,L150310,42.2979126,-89.1276169,US-IL
+gcrwar,Basileuterus culicivorus,Golden-crowned Warbler,2012,L37878,47.45786,-122.34611,US-WA
+falcon,Falco sp.,falcon sp.,2008,L41301,41.37286,-82.10444,US-OH
+acafly,Empidonax virescens,Acadian Flycatcher,2008,L357645,38.269595,-85.656084,US-KY
+dusthr2,Turdus eunomus,Dusky Thrush,2011,L1806900,47.893753,-122.195665,US-WA
+combuz1,Buteo buteo,Common Buzzard,2009,L32594,41.15018,-73.99107,US-NY
+rocwre1,Salpinctes obsoletus [obsoletus Group],Rock Wren (Northern),2007,L77575,36.4663,-118.9042,US-CA
+rocwre1,Salpinctes obsoletus [obsoletus Group],Rock Wren (Northern),2008,L77575,36.4663,-118.9042,US-CA
+woodpe1,Picidae sp.,woodpecker sp.,2021,L12818782,29.6038253,-95.1154983,US-TX
+falcon,Falco sp.,falcon sp.,2011,L19463,50.9367963,-114.0741777,CA-AB
+falcon,Falco sp.,falcon sp.,2012,L1806757,43.175574,-77.561364,US-NY
+falcon,Falco sp.,falcon sp.,2013,L32594,41.15018,-73.99107,US-NY
+sagspa1,Artemisiospiza nevadensis,Sagebrush Sparrow,2003,L82099,45.4317963,-122.6837899,US-OR
+sagspa1,Artemisiospiza nevadensis,Sagebrush Sparrow,2007,L466942,43.6032053,-121.5044117,US-OR
+sagspa1,Artemisiospiza nevadensis,Sagebrush Sparrow,2008,L466368,37.0253063,-112.3927116,US-UT
+acafly,Empidonax virescens,Acadian Flycatcher,2011,L788594,43.272154,-73.583844,US-NY
+secfly1,Leptopogon amaurocephalus,Sepia-capped Flycatcher,2005,L232057,40.8156128,-81.9386063,US-OH
+chukar,Alectoris chukar,Chukar,2000,L76680,44.77915,-108.77112,US-WY
+combuz1,Buteo buteo,Common Buzzard,2010,L98050,41.55455,-81.48724,US-OH
+combuz1,Buteo buteo,Common Buzzard,2018,L233116,38.5109944,-78.8155038,US-VA
+coot1,Fulica sp.,coot sp.,2012,L1806708,26.714921,-80.220012,US-FL
+perfal1,Falco peregrinus anatum,Peregrine Falcon (North American),2007,L104585,34.437421,-118.4829966,US-CA
+perfal1,Falco peregrinus anatum,Peregrine Falcon (North American),2009,L106386,44.9899,-74.837,US-NY
+comter,Sterna hirundo,Common Tern,2008,L481695,29.3629429,-81.516602,US-FL
+comter,Sterna hirundo,Common Tern,2009,L788536,42.495873,-77.512346,US-NY
+hutvir1,Vireo huttoni [huttoni Group],Hutton's Vireo (Pacific),2007,L468026,34.256886,-118.296012,US-CA
+hutvir1,Vireo huttoni [huttoni Group],Hutton's Vireo (Pacific),2008,L81305,34.20079,-118.33041,US-CA
+x00205,Aix sponsa x Anas platyrhynchos,Wood Duck x Mallard (hybrid),2008,L79750,42.66424,-84.64323,US-MI
+sagspa1,Artemisiospiza nevadensis,Sagebrush Sparrow,2010,L463916,36.3543635,-105.6573629,US-NM
+prafal,Falco mexicanus,Prairie Falcon,1991,L29640,45.54728,-106.26699,US-MT
+sagspa1,Artemisiospiza nevadensis,Sagebrush Sparrow,2012,L73541,44.08337,-121.28969,US-OR
+sagspa1,Artemisiospiza nevadensis,Sagebrush Sparrow,2018,L6693726,37.808991,-118.479866,US-CA
+ptarmi1,Lagopus sp.,ptarmigan sp.,1994,L20431,64.78457,-147.35049,US-AK
+combuz1,Buteo buteo,Common Buzzard,2020,L166776,40.9356917,-83.7511396,US-OH
+comeid,Somateria mollissima,Common Eider,2000,L78854,43.57945,-70.33266,US-ME
+comeid,Somateria mollissima,Common Eider,2004,L77077,44.65456,-67.40507,US-ME
+perfal1,Falco peregrinus anatum,Peregrine Falcon (North American),2011,L99793,38.8157135,-90.0054104,US-IL
+perfal1,Falco peregrinus anatum,Peregrine Falcon (North American),2015,L1806753,40.853867,-74.842856,US-NJ
+egwtea1,Anas crecca crecca,Green-winged Teal (Eurasian),2010,L619421,47.5698467,-120.6668839,US-WA
+perfal1,Falco peregrinus anatum,Peregrine Falcon (North American),2016,L981163,41.303987,-106.135244,US-WY
+oriole,Icterus sp.,new world oriole sp.,2005,L98743,40.72892,-73.64962,US-NY
+yelwar2,Setophaga petechia [petechia Group],Yellow Warbler (Golden),2009,L625311,33.689776,-84.71898,US-GA
+foxsp3,Passerella iliaca [schistacea Group],Fox Sparrow (Slate-colored),2015,L4017150,37.7462301,-122.4337879,US-CA
+foxsp3,Passerella iliaca [schistacea Group],Fox Sparrow (Slate-colored),2016,L2423615,35.7687359,-78.752106,US-NC
+comter,Sterna hirundo,Common Tern,2010,L823356,49.8363304,-97.0653229,CA-MB
+comter,Sterna hirundo,Common Tern,2012,L1806747,46.4146802,-84.5704157,US-MI
+willet2,Tringa semipalmata semipalmata,Willet (Eastern),2010,L611559,29.900457,-85.36265,US-FL
+x00051,Larus occidentalis x glaucescens,Western x Glaucous-winged Gull (hybrid),2006,L104414,46.9854841,-124.1614063,US-WA
+x00051,Larus occidentalis x glaucescens,Western x Glaucous-winged Gull (hybrid),2009,L466768,48.459148,-123.3682,CA-BC
+x00205,Aix sponsa x Anas platyrhynchos,Wood Duck x Mallard (hybrid),2010,L356081,40.3297957,-111.7749023,US-UT
+hutvir1,Vireo huttoni [huttoni Group],Hutton's Vireo (Pacific),2017,L77163,47.3633614,-122.2856847,US-WA
+PFW_2017,,,28,L76812,45.385,-75.7567,CA-ON
+mitpar,Psittacara mitratus,Mitred Parakeet,2016,L1842886,25.9016819,-80.2073288,US-FL
+swtkit,Elanoides forficatus,Swallow-tailed Kite,1995,L32553,27.5377,-81.81462,US-FL
+amedip,Cinclus mexicanus,American Dipper,2000,L24525,47.20713,-122.00385,US-WA
+refwar,Cardellina rubrifrons,Red-faced Warbler,2004,L36826,32.81175,-98.10351,US-TX
+comeid,Somateria mollissima,Common Eider,2010,L142442,48.2047234,-69.083046,CA-QC
+amedip,Cinclus mexicanus,American Dipper,2007,L273422,49.266028,-122.9016,CA-BC
+amedip,Cinclus mexicanus,American Dipper,2008,L619421,47.5698467,-120.6668839,US-WA
+x00754,Passer domesticus x montanus,House x Eurasian Tree Sparrow (hybrid),2017,L6617154,41.994369,-73.8727248,US-NY
+x00754,Passer domesticus x montanus,House x Eurasian Tree Sparrow (hybrid),2018,L3182766,50.377976,-105.5549078,CA-SK
+oriole,Icterus sp.,new world oriole sp.,2012,L33220,33.63358,-78.9754,US-SC
+y00631,Acanthis/Spinus sp.,Acanthis/Spinus sp.,2004,L170694,30.5861797,-97.6976013,US-TX
+hutvir1,Vireo huttoni [huttoni Group],Hutton's Vireo (Pacific),2020,L77163,47.3633614,-122.2856847,US-WA
+x00051,Larus occidentalis x glaucescens,Western x Glaucous-winged Gull (hybrid),2019,L8234319,49.2481283,-122.902658,CA-BC
+wessan,Calidris mauri,Western Sandpiper,2007,L365329,42.8201001,-114.8746549,US-ID
+mitpar,Psittacara mitratus,Mitred Parakeet,2024,L29423790,34.0081178,-118.4271616,US-CA
+cliswa,Petrochelidon pyrrhonota,Cliff Swallow,1995,L30411,33.67357,-117.37649,US-CA
+comeid,Somateria mollissima,Common Eider,2022,L16803333,42.2701152,-70.8672957,US-MA
+amedip,Cinclus mexicanus,American Dipper,2016,L3083973,49.3424486,-123.2456991,CA-BC
+x00754,Passer domesticus x montanus,House x Eurasian Tree Sparrow (hybrid),2020,L6617154,41.994369,-73.8727248,US-NY
+amedip,Cinclus mexicanus,American Dipper,2017,L3083973,49.3424486,-123.2456991,CA-BC
+x00754,Passer domesticus x montanus,House x Eurasian Tree Sparrow (hybrid),2023,L2425956,40.9575562,-90.3931904,US-IL
+bushti1,Psaltriparus minimus [minimus Group],Bushtit (Pacific),2007,L496067,48.7787612,-122.5278783,US-WA
+x00724,Mareca strepera x americana,Gadwall x American Wigeon (hybrid),2003,L131946,32.7029991,-97.155899,US-TX
+shtspa,Ammospiza nelsoni/caudacuta,Nelson's/Saltmarsh Sparrow (Sharp-tailed Sparrow),2006,L139304,40.4616318,-74.6379471,US-NJ
+turvul2,Cathartes aura aura/septentrionalis,Turkey Vulture (Northern),2017,L76817,37.75281,-84.30127,US-KY
+bldspa,Passerculus sandwichensis [guttatus Group],Savannah Sparrow (Belding's),2008,L274449,34.257439,-117.222562,US-CA
+bldspa,Passerculus sandwichensis [guttatus Group],Savannah Sparrow (Belding's),2009,L281961,41.7995673,-124.1425467,US-CA
+wilpta,Lagopus lagopus,Willow Ptarmigan,2005,L234295,62.2668076,-150.1165314,US-AK
+yerwar3,Setophaga coronata coronata x auduboni,Yellow-rumped Warbler (Myrtle x Audubon's),2014,L1101086,37.6448205,-91.6239166,US-MO
+yerwar3,Setophaga coronata coronata x auduboni,Yellow-rumped Warbler (Myrtle x Audubon's),2015,L2435088,40.55005,-105.041565,US-CO
+yerwar3,Setophaga coronata coronata x auduboni,Yellow-rumped Warbler (Myrtle x Audubon's),2019,L227482,29.8015709,-94.8426666,US-TX
+orcori,Icterus spurius,Orchard Oriole,2000,L77264,30.3110779,-89.283849,US-MS
+turvul2,Cathartes aura aura/septentrionalis,Turkey Vulture (Northern),2021,L616867,40.2906523,-74.4337839,US-NJ
+turvul2,Cathartes aura aura/septentrionalis,Turkey Vulture (Northern),2024,L616867,40.2906523,-74.4337839,US-NJ
+grgowl,Strix nebulosa,Great Gray Owl,2003,L104957,47.5168196,-122.0541385,US-WA
+nohowl,Surnia ulula,Northern Hawk Owl,2002,L150318,50.0477371,-119.4017105,CA-BC
+semplo,Charadrius semipalmatus,Semipalmated Plover,2011,L597647,35.4921583,-76.9513322,US-NC
+bldspa,Passerculus sandwichensis [guttatus Group],Savannah Sparrow (Belding's),2011,L281961,41.7995673,-124.1425467,US-CA
+x00618,Calypte anna x costae,Anna's x Costa's Hummingbird (hybrid),2005,L233699,47.5186195,-122.2081146,US-WA
+bkbwoo,Picoides arcticus,Black-backed Woodpecker,1995,L20496,45.5978,-75.6169,CA-QC
+wren1,Troglodytidae sp.,wren sp.,2003,L104007,36.7656555,-121.6569228,US-CA
+wren1,Troglodytidae sp.,wren sp.,2005,L247409,31.6720009,-97.098999,US-TX
+bkbwoo,Picoides arcticus,Black-backed Woodpecker,1998,L22868,61.6689124,-149.363162,US-AK
+x00618,Calypte anna x costae,Anna's x Costa's Hummingbird (hybrid),2009,L632361,36.017594,-115.050875,US-NV
+wren1,Troglodytidae sp.,wren sp.,2007,L597477,33.430535,-112.345359,US-AZ
+wren1,Troglodytidae sp.,wren sp.,2009,L788381,43.532470000000004,-79.62945,CA-ON
+rnxsap1,Sphyrapicus nuchalis x ruber,Red-naped x Red-breasted Sapsucker (hybrid),2008,L26955,45.53108,-122.70437,US-OR
+lazbun,Passerina amoena,Lazuli Bunting,2005,L217573,48.372856,-120.12331,US-WA
+lazbun,Passerina amoena,Lazuli Bunting,2008,L106949,31.401968,-110.2308004,US-AZ
+winwre,Troglodytes pacificus/hiemalis,Pacific/Winter Wren,2002,L74681,39.04576,-79.40885,US-WV
+canwar,Cardellina canadensis,Canada Warbler,2021,L2433527,37.876933,-77.544896,US-VA
+nohowl,Surnia ulula,Northern Hawk Owl,2014,L168080,51.8053856,-114.6787567,CA-AB
+nohowl,Surnia ulula,Northern Hawk Owl,2015,L809943,50.5720222,-119.6881934,CA-BC
+canwar,Cardellina canadensis,Canada Warbler,2024,L25848,42.3887582,-72.4030888,US-MA
+nohowl,Surnia ulula,Northern Hawk Owl,2016,L4003306,49.0702317,-117.8049547,CA-BC
+wren1,Troglodytidae sp.,wren sp.,2011,L18871,49.256,-122.856,CA-BC
+wren1,Troglodytidae sp.,wren sp.,2012,L284993,39.82275,-105.122333,US-CO
+wren1,Troglodytidae sp.,wren sp.,2016,L2698812,49.1381342,-120.6135567,CA-BC
+btnwar,Setophaga virens,Black-throated Green Warbler,1995,L41198,30.2436,-81.61898,US-FL
+btnwar,Setophaga virens,Black-throated Green Warbler,1998,L32696,32.8475,-97.13632,US-TX
+limpki,Aramus guarauna,Limpkin,1994,L31853,28.53131,-81.47673,US-FL
+gyhchi,Poecile cinctus,Gray-headed Chickadee,2003,L168611,61.1519012,-149.2779999,US-AK
+lessca,Aythya affinis,Lesser Scaup,1992,L39614,38.68769,-76.12786,US-MD
+larus,Larinae sp.,gull sp.,2004,L227731,41.8718605,-69.9855728,US-MA
+osprey,Pandion haliaetus,Osprey,2000,L77695,44.55,-64.25,CA-NS
+lazbun,Passerina amoena,Lazuli Bunting,2019,L28686,29.49502,-99.7048,US-TX
+nohowl,Surnia ulula,Northern Hawk Owl,2021,L13966721,41.7347977,-73.3509319,US-CT
+tunswa,Cygnus columbianus,Tundra Swan,2018,L3966263,45.5861242,-122.8043383,US-OR
+winwre,Troglodytes pacificus/hiemalis,Pacific/Winter Wren,2018,L30376,36.3177791,-88.9021933,US-TN
+tunswa,Cygnus columbianus,Tundra Swan,2019,L8637999,44.2708791,-121.013546,US-OR
+wren1,Troglodytidae sp.,wren sp.,2022,L21488459,43.0326823,-88.038919,US-WI
+wren1,Troglodytidae sp.,wren sp.,2024,L12785014,41.9711415,-87.6862983,US-IL
+gyhchi,Poecile cinctus,Gray-headed Chickadee,2014,L2751000,64.8773986,-148.3542567,US-AK
+brnowl,Tyto alba,Barn Owl,1993,L40450,38.89142,-94.8308,US-KS
+brnowl,Tyto alba,Barn Owl,1997,L22196,33.23042,-117.34896,US-CA
+larus,Larinae sp.,gull sp.,2016,L616839,45.512031,-122.6969218,US-OR
+brnowl,Tyto alba,Barn Owl,1998,L22196,33.23042,-117.34896,US-CA
+larus,Larinae sp.,gull sp.,2019,L274287,47.953856,-124.387974,US-WA
+relpar,Amazona autumnalis,Red-lored Parrot,2022,L283586,34.164907,-118.322862,US-CA
+bkcgna,Polioptila nigriceps,Black-capped Gnatcatcher,2007,L293617,34.8857197,-82.2856236,US-SC
+bkwvir,Vireo altiloquus,Black-whiskered Vireo,2006,L361176,26.098053,-80.398988,US-FL
+blksco2,Melanitta americana,Black Scoter,2002,L77077,44.65456,-67.40507,US-ME
+blksco2,Melanitta americana,Black Scoter,2007,L77077,44.65456,-67.40507,US-ME
+chiswi,Chaetura pelagica,Chimney Swift,1999,L25522,28.80065,-81.64562,US-FL
+blksco2,Melanitta americana,Black Scoter,2009,L77077,44.65456,-67.40507,US-ME
+horlar1,Eremophila alpestris [strigata Group],Horned Lark (Western rufous Group),2006,L279221,35.5313182,-105.9298754,US-NM
+recwoo,Dryobates borealis,Red-cockaded Woodpecker,2000,L76497,28.477764,-80.7909894,US-FL
+winwre,Troglodytes pacificus/hiemalis,Pacific/Winter Wren,2022,L12785517,40.360786,-75.3131346,US-PA
+recwoo,Dryobates borealis,Red-cockaded Woodpecker,2002,L76792,34.0489,-84.67454,US-GA
+winwre,Troglodytes pacificus/hiemalis,Pacific/Winter Wren,2024,L18222499,41.5662182,-75.9382671,US-PA
+recwoo,Dryobates borealis,Red-cockaded Woodpecker,2005,L26531,36.2046463,-96.2301875,US-OK
+graspa,Ammodramus savannarum,Grasshopper Sparrow,1995,L30729,39.16093,-76.71268,US-MD
+gyhchi,Poecile cinctus,Gray-headed Chickadee,2021,L4307303,60.9727427,-149.4494247,US-AK
+larus,Larinae sp.,gull sp.,2024,L8891987,35.0310374,-81.0663772,US-SC
+goceme1,Cynanthus auriceps,Golden-crowned Emerald,2017,L6824873,20.7531588,-105.3845664,MX-NAY
+screec1,Megascops sp.,screech-owl sp.,2005,L234363,30.3594837,-81.4143829,US-FL
+blksco2,Melanitta americana,Black Scoter,2010,L77077,44.65456,-67.40507,US-ME
+sancra1,Antigone canadensis canadensis,Sandhill Crane (canadensis),2009,L610241,49.789909,-99.1018295,CA-MB
+gryvir,Vireo vicinior,Gray Vireo,1994,L20337,40.60711,-105.05446,US-CO
+recwoo,Dryobates borealis,Red-cockaded Woodpecker,2012,L1797239,30.3321667,-81.4613647,US-FL
+gryvir,Vireo vicinior,Gray Vireo,1999,L41015,33.95175,-112.74377,US-AZ
+recwoo,Dryobates borealis,Red-cockaded Woodpecker,2017,L3586985,30.532115,-87.3597209,US-FL
+recwoo,Dryobates borealis,Red-cockaded Woodpecker,2018,L29620,33.92558,-84.47315,US-GA
+varbun,Passerina versicolor,Varied Bunting,2022,L28686,29.49502,-99.7048,US-TX
+naswar2,Leiothlypis ruficapilla ridgwayi,Nashville Warbler (ridgwayi),2016,L26474,39.27412,-120.99749,US-CA
+thagul,Larus glaucoides thayeri,Iceland Gull (Thayer's),2008,L167345,45.7949829,-122.5497665,US-WA
+thagul,Larus glaucoides thayeri,Iceland Gull (Thayer's),2009,L80408,47.6353622,-122.3418747,US-WA
+rewbla2,Agelaius phoeniceus californicus/mailliardorum,Red-winged Blackbird (California Bicolored),2009,L807019,47.6804237,-122.0340271,US-WA
+rethaw3,Buteo jamaicensis solitudinis,Red-tailed Hawk (solitudinis),2007,L466837,33.872411,-84.3581772,US-GA
+wantat1,Tringa incana,Wandering Tattler,2006,L170027,33.0244331,-117.2693405,US-CA
+sursco,Melanitta perspicillata,Surf Scoter,2002,L77077,44.65456,-67.40507,US-ME
+sursco,Melanitta perspicillata,Surf Scoter,2003,L77077,44.65456,-67.40507,US-ME
+sursco,Melanitta perspicillata,Surf Scoter,2005,L77077,44.65456,-67.40507,US-ME
+bkcgna,Polioptila nigriceps,Black-capped Gnatcatcher,2020,L6824873,20.7531588,-105.3845664,MX-NAY
+recwoo,Dryobates borealis,Red-cockaded Woodpecker,2020,L13167619,39.5691252,-104.96209,US-CO
+recwoo,Dryobates borealis,Red-cockaded Woodpecker,2024,L30480548,41.2755866,-85.4722728,US-IN
+pasfly,Empidonax difficilis [difficilis Group],Western Flycatcher (Pacific-slope),2012,L217621,32.76345,-117.122375,US-CA
+gadwal,Mareca strepera,Gadwall,1989,L36342,37.93358,-75.37078,US-VA
+brnpel,Pelecanus occidentalis,Brown Pelican,2008,L292489,28.0425054,-82.4928966,US-FL
+reshaw2,Buteo lineatus extimus,Red-shouldered Hawk (extimus),2007,L468298,25.079581,-80.457371,US-FL
+orcwar1,Leiothlypis celata celata,Orange-crowned Warbler (celata),2010,L805305,30.4893627,-84.1348419,US-FL
+orcwar1,Leiothlypis celata celata,Orange-crowned Warbler (celata),2012,L25569,28.6365934,-81.2634788,US-FL
+wantat1,Tringa incana,Wandering Tattler,2010,L170027,33.0244331,-117.2693405,US-CA
+orcwar1,Leiothlypis celata celata,Orange-crowned Warbler (celata),2015,L138776,32.6884733,-97.1850586,US-TX
+orcwar1,Leiothlypis celata celata,Orange-crowned Warbler (celata),2016,L4153225,26.1703831,-98.2533073,US-TX
+cangoo1,Branta canadensis [canadensis Group],Canada Goose (canadensis Group),2006,L361000,30.599133,-98.398109,US-TX
+norpar,Setophaga americana,Northern Parula,2000,L34292,29.12655,-82.48519,US-FL
+scaup,Aythya marila/affinis,Greater/Lesser Scaup,2005,L154316,42.5807915,-76.6127548,US-NY
+chclon,Calcarius ornatus,Chestnut-collared Longspur,2004,L166438,33.4666849,-96.7064559,US-TX
+chclon,Calcarius ornatus,Chestnut-collared Longspur,2006,L166438,33.4666849,-96.7064559,US-TX
+brnpel,Pelecanus occidentalis,Brown Pelican,2010,L866355,30.3992985,-87.0282465,US-FL
+brnpel,Pelecanus occidentalis,Brown Pelican,2011,L866355,30.3992985,-87.0282465,US-FL
+brnpel,Pelecanus occidentalis,Brown Pelican,2013,L866355,30.3992985,-87.0282465,US-FL
+brnpel,Pelecanus occidentalis,Brown Pelican,2019,L4289192,28.1297209,-96.9872618,US-TX
+reshaw2,Buteo lineatus extimus,Red-shouldered Hawk (extimus),2011,L618887,28.07573,-80.660574,US-FL
+chwwid,Antrostomus carolinensis,Chuck-will's-widow,2004,L150951,28.1443996,-82.6772995,US-FL
+luchum,Calothorax lucifer,Lucifer Hummingbird,2009,L27521,31.8373,-109.02996,US-NM
+grnjay,Cyanocorax yncas,Green Jay,2000,L83045,31.80117,-99.11562,US-TX
+chclon,Calcarius ornatus,Chestnut-collared Longspur,2010,L166438,33.4666849,-96.7064559,US-TX
+tasbla,Agelaius humeralis,Tawny-shouldered Blackbird,2005,L234363,30.3594837,-81.4143829,US-FL
+chclon,Calcarius ornatus,Chestnut-collared Longspur,2011,L166438,33.4666849,-96.7064559,US-TX
+crow,Corvus sp. (crow sp.),crow sp.,2001,L99205,42.58909,-72.22499,US-MA
+norpin,Anas acuta,Northern Pintail,1989,L34483,40.69433,-122.10668,US-CA
+jacsni,Lymnocryptes minimus,Jack Snipe,2006,L272593,44.287937,-121.530549,US-OR
+helgui,Numida meleagris,Helmeted Guineafowl,2004,L227491,38.6914253,-121.3189621,US-CA
+helgui,Numida meleagris,Helmeted Guineafowl,2005,L73444,25.65998,-80.36122,US-FL
+y00484,Vireo cassinii/plumbeus,Cassin's/Plumbeous Vireo,2008,L358646,35.8029177,-106.2170219,US-NM
+reshaw2,Buteo lineatus extimus,Red-shouldered Hawk (extimus),2022,L13494234,39.1991362,-84.2052962,US-OH
+yeclov,Agapornis personatus,Yellow-collared Lovebird,2002,L78968,40.78608,-73.25654,US-NY
+luchum,Calothorax lucifer,Lucifer Hummingbird,2010,L27521,31.8373,-109.02996,US-NM
+luchum,Calothorax lucifer,Lucifer Hummingbird,2012,L75087,31.4511,-110.21528,US-AZ
+y00425,Corthylio calendula/Regulus satrapa,Ruby-crowned/Golden-crowned Kinglet,1994,L37727,39.31852,-76.11609,US-MD
+purmar1,Progne subis subis/arboricola,Purple Martin (subis/arboricola),2009,L624828,33.388849,-84.892825,US-GA
+amecoo,Fulica americana (Red-shielded),American Coot (Red-shielded),2022,L166438,33.4666849,-96.7064559,US-TX
+rebsap,Sphyrapicus ruber,Red-breasted Sapsucker,1996,L27262,48.2288467,-122.4910784,US-WA
+rebsap,Sphyrapicus ruber,Red-breasted Sapsucker,1998,L23093,47.04031,-122.28737,US-WA
+norpin,Anas acuta,Northern Pintail,1992,L36628,30.12245,-83.61642,US-FL
+rebsap,Sphyrapicus ruber,Red-breasted Sapsucker,1999,L22259,45.3372,-122.56321,US-OR
+crow,Corvus sp. (crow sp.),crow sp.,2011,L231454,48.7481414,-122.3982048,US-WA
+woosto,Mycteria americana,Wood Stork,1995,L26176,27.78971,-82.71874,US-FL
+bargol,Bucephala islandica,Barrow's Goldeneye,2001,L77077,44.65456,-67.40507,US-ME
+triher,Egretta tricolor,Tricolored Heron,1994,L31853,28.53131,-81.47673,US-FL
+bargol,Bucephala islandica,Barrow's Goldeneye,2003,L26048,60.49545,-151.08799,US-AK
+bargol,Bucephala islandica,Barrow's Goldeneye,2004,L26048,60.49545,-151.08799,US-AK
+bargol,Bucephala islandica,Barrow's Goldeneye,2007,L460471,48.086301,-114.046771,US-MT
+osprey1,Pandion haliaetus carolinensis,Osprey (carolinensis),2008,L105694,35.0204951,-76.78187,US-NC
+osprey1,Pandion haliaetus carolinensis,Osprey (carolinensis),2009,L630962,38.0751225,-92.8437424,US-MO
+whtdov,Leptotila verreauxi,White-tipped Dove,1994,L28675,30.66508,-97.69901,US-TX
+y00001,Selasphorus rufus/sasin,Rufous/Allen's Hummingbird,2003,L106477,33.78658,-84.2086,US-GA
+corfly,Empidonax difficilis occidentalis/hellmayri,Western Flycatcher (Cordilleran),2006,L228826,35.2694397,-111.7339935,US-AZ
+helgui,Numida meleagris,Helmeted Guineafowl,2019,L1314246,37.9970779,-122.2471619,US-CA
+luchum,Calothorax lucifer,Lucifer Hummingbird,2021,L13884321,31.9119851,-109.136821,US-AZ
+luchum,Calothorax lucifer,Lucifer Hummingbird,2023,L27346893,31.3804066,-110.2280022,US-AZ
+luchum,Calothorax lucifer,Lucifer Hummingbird,2024,L17110712,31.4569289,-110.2257979,US-AZ
+purmar1,Progne subis subis/arboricola,Purple Martin (subis/arboricola),2016,L624828,33.388849,-84.892825,US-GA
+horgre,Podiceps auritus,Horned Grebe,2005,L99322,41.1514348,-81.8590531,US-OH
+horgre,Podiceps auritus,Horned Grebe,2008,L99322,41.1514348,-81.8590531,US-OH
+horgre,Podiceps auritus,Horned Grebe,2009,L80393,42.4246,-77.15766,US-NY
+parake,Psittaciformes sp. (parakeet sp.),parakeet sp.,2003,L24561,31.53498,-97.18696,US-TX
+parake,Psittaciformes sp. (parakeet sp.),parakeet sp.,2005,L73444,25.65998,-80.36122,US-FL
+bargol,Bucephala islandica,Barrow's Goldeneye,2012,L1312675,44.4381312,-68.3629203,US-ME
+bargol,Bucephala islandica,Barrow's Goldeneye,2014,L1804836,43.9752135,-111.6452551,US-ID
+bargol,Bucephala islandica,Barrow's Goldeneye,2015,L858880,44.7169013,-64.7456074,CA-NS
+icegul,Larus glaucoides kumlieni/glaucoides,Iceland Gull (kumlieni/glaucoides),2003,L78764,47.38333,-61.866667,CA-QC
+osprey1,Pandion haliaetus carolinensis,Osprey (carolinensis),2011,L72864,39.1159024,-76.4507749,US-MD
+osprey1,Pandion haliaetus carolinensis,Osprey (carolinensis),2012,L72864,39.1159024,-76.4507749,US-MD
+icegul,Larus glaucoides kumlieni/glaucoides,Iceland Gull (kumlieni/glaucoides),2008,L77077,44.65456,-67.40507,US-ME
+osprey1,Pandion haliaetus carolinensis,Osprey (carolinensis),2019,L72864,39.1159024,-76.4507749,US-MD
+altori,Icterus gularis,Altamira Oriole,1991,L29819,26.51648,-99.11224,US-TX
+purmar1,Progne subis subis/arboricola,Purple Martin (subis/arboricola),2021,L624828,33.388849,-84.892825,US-GA
+horgre,Podiceps auritus,Horned Grebe,2011,L1312675,44.4381312,-68.3629203,US-ME
+horgre,Podiceps auritus,Horned Grebe,2013,L1797832,38.4871257,-78.8729296,US-VA
+canary1,Serinus sp.,Serinus sp.,1994,L20782,40.8520472,-74.1596317,US-NJ
+canary1,Serinus sp.,Serinus sp.,1995,L20782,40.8520472,-74.1596317,US-NJ
+horgre,Podiceps auritus,Horned Grebe,2016,L80311,47.5235188,-122.5268805,US-WA
+parake,Psittaciformes sp. (parakeet sp.),parakeet sp.,2010,L40167,42.16772,-87.87087,US-IL
+nstspa,Ammospiza nelsoni,Nelson's Sparrow,2002,L138120,44.2026062,-78.5780411,CA-ON
+nstspa,Ammospiza nelsoni,Nelson's Sparrow,2003,L138120,44.2026062,-78.5780411,CA-ON
+bargol,Bucephala islandica,Barrow's Goldeneye,2020,L1345346,47.6915658,-70.3480339,CA-QC
+nstspa,Ammospiza nelsoni,Nelson's Sparrow,2007,L273957,46.75662,-71.30348,CA-QC
+yecpar,Brotogeris chiriri,Yellow-chevroned Parakeet,2002,L108127,25.69943,-80.30228,US-FL
+yecpar,Brotogeris chiriri,Yellow-chevroned Parakeet,2004,L150522,26.1113739,-80.2447128,US-FL
+yecpar,Brotogeris chiriri,Yellow-chevroned Parakeet,2007,L150522,26.1113739,-80.2447128,US-FL
+fragul,Leucophaeus pipixcan,Franklin's Gull,2008,L231668,31.5514793,-97.2062302,US-TX
+osprey1,Pandion haliaetus carolinensis,Osprey (carolinensis),2024,L72864,39.1159024,-76.4507749,US-MD
+gwcspa,Zonotrichia leucophrys gambelii,White-crowned Sparrow (Gambel's),2003,L78060,41.932544,-82.5104741,CA-ON
+fepowl,Glaucidium brasilianum,Ferruginous Pygmy-Owl,2017,L6824873,20.7531588,-105.3845664,MX-NAY
+gwcspa,Zonotrichia leucophrys gambelii,White-crowned Sparrow (Gambel's),2004,L228605,39.0959511,-108.5635986,US-CO
+gwcspa,Zonotrichia leucophrys gambelii,White-crowned Sparrow (Gambel's),2007,L232519,36.3183937,-95.6198273,US-OK
+gwcspa,Zonotrichia leucophrys gambelii,White-crowned Sparrow (Gambel's),2009,L150158,42.5966454,-83.4184647,US-MI
+x00623,Poecile atricapillus x gambeli,Black-capped x Mountain Chickadee (hybrid),2017,L5160831,53.1943133,-105.7428235,CA-SK
+pecsan,Calidris melanotos,Pectoral Sandpiper,2012,L1027212,32.2203077,-95.7688844,US-TX
+pecsan,Calidris melanotos,Pectoral Sandpiper,2013,L1810216,46.4059068,-63.2693195,CA-PE
+nopowl,Glaucidium gnoma,Northern Pygmy-Owl,1999,L21543,39.6661,-123.51453,US-CA
+shrike,Lanius sp.,shrike sp.,1995,L41781,45.05017,-92.8257,US-MN
+horgre,Podiceps auritus,Horned Grebe,2021,L5105496,39.0269187,-94.7502136,US-KS
+shrike,Lanius sp.,shrike sp.,1999,L25321,45.02467,-92.23803,US-WI
+carwre1,Thryothorus ludovicianus [ludovicianus Group],Carolina Wren (Northern),2013,L2409427,40.907355,-73.081285,US-NY
+brnjay,Psilorhinus morio,Brown Jay,1991,L29819,26.51648,-99.11224,US-TX
+gnttow,Pipilo chlorurus,Green-tailed Towhee,1994,L34729,32.79272,-116.96747,US-CA
+brnjay,Psilorhinus morio,Brown Jay,1997,L37060,27.88566,-97.32021,US-TX
+daejun4,Junco hyemalis mearnsi x caniceps,Dark-eyed Junco (Pink-sided x Gray-headed),2013,L108663,31.84005,-106.53511,US-TX
+silphe,Lophura nycthemera,Silver Pheasant,2006,L22613,40.2644013,-76.0464063,US-PA
+silphe,Lophura nycthemera,Silver Pheasant,2007,L22613,40.2644013,-76.0464063,US-PA
+fragul,Leucophaeus pipixcan,Franklin's Gull,2010,L231668,31.5514793,-97.2062302,US-TX
+wewpew,Contopus sordidulus,Western Wood-Pewee,2002,L77160,42.308,-123.1872,US-OR
+wewpew,Contopus sordidulus,Western Wood-Pewee,2004,L77326,34.164619,-118.5911894,US-CA
+fragul,Leucophaeus pipixcan,Franklin's Gull,2013,L1948049,41.1735611,-95.9846344,US-NE
+wewpew,Contopus sordidulus,Western Wood-Pewee,2008,L241332,38.0244484,-104.6991806,US-CO
+yecpar,Brotogeris chiriri,Yellow-chevroned Parakeet,2019,L3176381,34.1488727,-118.2839756,US-CA
+x00623,Poecile atricapillus x gambeli,Black-capped x Mountain Chickadee (hybrid),2022,L107425,53.83597,-122.55105,CA-BC
+baispa,Centronyx bairdii,Baird's Sparrow,2006,L364273,32.179566,-110.803432,US-AZ
+attwoo2,Picoides dorsalis dorsalis,American Three-toed Woodpecker (Rocky Mts.),2010,L104513,49.71667,-114.88333,CA-BC
+motduc,Anas fulvigula,Mottled Duck,1995,L33618,27.29215,-81.36605,US-FL
+henspa,Centronyx henslowii,Henslow's Sparrow,1998,L29981,30.4111,-86.70412,US-FL
+yecpar,Brotogeris chiriri,Yellow-chevroned Parakeet,2020,L3176381,34.1488727,-118.2839756,US-CA
+wewpew,Contopus sordidulus,Western Wood-Pewee,2012,L1792531,37.216532,-121.856486,US-CA
+wewpew,Contopus sordidulus,Western Wood-Pewee,2014,L75087,31.4511,-110.21528,US-AZ
+blugrs,Dendragapus obscurus/fuliginosus,Dusky/Sooty Grouse,1989,L35729,41.30208,-73.79248,US-NY
+baispa,Centronyx bairdii,Baird's Sparrow,2010,L980979,43.16968,-79.46946,CA-ON
+baispa,Centronyx bairdii,Baird's Sparrow,2012,L980979,43.16968,-79.46946,CA-ON
+commer,Mergus merganser,Common Merganser,1993,L40253,54.51667,-128.58333,CA-BC
+commer,Mergus merganser,Common Merganser,1994,L31211,43.86804,-76.19392,US-NY
+commer,Mergus merganser,Common Merganser,1995,L20718,46.24355,-114.1584,US-MT
+sancra,Antigone canadensis,Sandhill Crane,1997,L21144,42.54151,-88.59973,US-WI
+sancra,Antigone canadensis,Sandhill Crane,1999,L24829,38.78955,-107.7629,US-CO
+loeowl,Asio otus,Long-eared Owl,1997,L23509,38.08678,-105.45465,US-CO
+loeowl,Asio otus,Long-eared Owl,1998,L18704,51.28333,-80.65,CA-ON
+loeowl,Asio otus,Long-eared Owl,1999,L18704,51.28333,-80.65,CA-ON
+heptan,Piranga flava,Hepatic Tanager,2015,L1879327,34.6376274,-111.1683464,US-AZ
+rudduc,Oxyura jamaicensis,Ruddy Duck,2020,L3322122,37.4042385,-77.6811524,US-VA
+wilwar3,Cardellina pusilla chryseola,Wilson's Warbler (chryseola),2005,L106727,44.5934853,-123.322345,US-OR
+wilwar3,Cardellina pusilla chryseola,Wilson's Warbler (chryseola),2006,L76326,34.15391,-118.49125,US-CA
+wilwar3,Cardellina pusilla chryseola,Wilson's Warbler (chryseola),2009,L815382,37.7514099,-122.1473908,US-CA
+blugrs,Dendragapus obscurus/fuliginosus,Dusky/Sooty Grouse,1994,L29063,50.23333,-121.56667,CA-BC
+blugrs,Dendragapus obscurus/fuliginosus,Dusky/Sooty Grouse,1995,L29063,50.23333,-121.56667,CA-BC
+bkcnih2,Nycticorax nycticorax hoactli,Black-crowned Night Heron (American),2008,L712517,38.9395004,-122.63551,US-CA
+baispa,Centronyx bairdii,Baird's Sparrow,2022,L13478519,49.8768526,-97.1716209,CA-MB
+budger,Melopsittacus undulatus,Budgerigar,1999,L41790,37.28044,-121.95151,US-CA
+heptan,Piranga flava,Hepatic Tanager,2022,L811202,32.8392122,-108.20014,US-NM
+heptan,Piranga flava,Hepatic Tanager,2024,L22212828,31.8185748,-111.0101573,US-AZ
+ricgoo1,Branta hutchinsii hutchinsii,Cackling Goose (Richardson's),2018,L3266148,40.7434366,-111.8742896,US-UT
+pisjun,Junco hyemalis mearnsi,Dark-eyed Junco (Pink-sided),2000,L74192,42.92229,-88.83839,US-WI
+wilwar3,Cardellina pusilla chryseola,Wilson's Warbler (chryseola),2010,L815382,37.7514099,-122.1473908,US-CA
+wilwar3,Cardellina pusilla chryseola,Wilson's Warbler (chryseola),2012,L98588,47.28304,-122.50942,US-WA
+wilwar3,Cardellina pusilla chryseola,Wilson's Warbler (chryseola),2015,L278106,33.8970112,-118.3433264,US-CA
+glagul,Larus hyperboreus,Glaucous Gull,1998,L30467,42.10411,-70.7204,US-MA

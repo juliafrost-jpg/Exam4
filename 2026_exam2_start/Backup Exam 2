@@ -1,0 +1,77 @@
+$1#!/usr/bin/env bash 
+#just practice using script 
+#Usage: bash practice_script.sh
+
+#lists files in feederwatch
+ls ../shared/feederwatch
+
+#opens the shared folder but only prints first 10 lines
+awk -F',' '$1 > 5 {print $0}' ../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv | head
+
+
+#open the translation table 
+awk -F',' '$1 > 5 {print $0}' ../shared/feederwatch/PFW_spp_translation_table_May2024.csv | head
+
+#prints from 
+awk -F',' '
+FNR==1 { next }
+{
+    count[$12]++
+}
+END {
+    for (s in count) {
+        if (count[s] == 1) {
+            print s
+        }
+    }
+}
+' ../shared/feederwatch/*.csv > rare_species.txt
+
+awk -F',' '
+BEGIN {
+    while ((getline line < "rare_species.txt") > 0) {
+        rare[line]=1
+    }
+    print "Species code, Scientific name, Common name,Year, Location ID,LATITUDE,LONGITUDE, State"
+}
+FNR==1 { next }
+{
+    if ($12 in rare) {
+        print $12 "," "" "," "" "," $10 "," $1 "," $2 "," $3 "," $4
+    }
+}
+' ../shared/feederwatch/*.csv > rare_birds.csv 
+
+awk -F',' '
+FNR==1 { next }
+{
+    key = $12 "_" $10
+    count[key]++
+}
+END {
+    for (k in count) {
+        if (count[k] == 1) {
+            print k
+        }
+    }
+}
+' ../shared/feederwatch/*.csv > rare_species_yearly.txt
+
+awk -F',' '
+BEGIN {
+    while ((getline line < "rare_species_yearly.txt") > 0) {
+        rare[line]=1
+    }
+    print "SPECIES_CODE,SCIENTIFIC_NAME,COMMON_NAME,Year,LOC_ID,LATITUDE,LONGITUDE,SUBNATIONAL1_CODE"
+}
+FNR==1 { next }
+{
+    key = $12 "_" $10
+    if (key in rare) {
+        print $12 "," "" "," "" "," $10 "," $1 "," $2 "," $3 "," $4
+    }
+}
+' ../shared/feederwatch/*.csv > rare_birds_yearly.csv
+
+#echo shows that the code ran completely, the csv are ready to check 
+echo "done"

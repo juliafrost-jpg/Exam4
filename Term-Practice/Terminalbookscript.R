@@ -1,0 +1,7 @@
+#Julia Frost
+#March 11th, 2026
+#Making a script which will be used for terminal code practice
+#The number of species in ena_results.txt is 9 and the number of genera is 4
+
+
+

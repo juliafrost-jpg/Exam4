@@ -1,0 +1,45 @@
+# Julia Frost
+# Canada Goose Peak Migration in New York
+
+library(tidyverse)
+
+
+# Find all feederwatch files
+files <- list.files(
+  "~/../shared/feederwatch/",
+  pattern = "PFW_.*csv",
+  full.names = TRUE
+)
+
+# Read and combine all datasets
+birddataset <- map_dfr(files, read_csv, show_col_types = FALSE)
+
+# Filter for Canada geese in New York
+goose_data <- birddataset |>
+  filter(SUBNATIONAL1_CODE == "US_NY",
+         SPECIES_CODE == "cangoo") |>
+  group_by(Year, Month) |>
+  summarise(total_geese = sum(HOW_MANY, na.rm = TRUE))
+
+# Average counts across years
+migration_pattern <- goose_data |>
+  group_by(Month) |>
+  summarise(avg_geese = mean(total_geese, na.rm = TRUE))
+
+# Convert month numbers to month names
+migration_pattern$Month <- factor(
+  migration_pattern$Month,
+  levels = 1:12,
+  labels = month.abb
+)
+
+# Plot migration peaks
+ggplot(migration_pattern, aes(x = Month, y = avg_geese, group = 1)) +
+  geom_line() +
+  geom_point() +
+  labs(
+    title = "Peak Canada Goose Migration in New York",
+    x = "Month",
+    y = "Average Number of Geese Observed"
+  ) +
+  theme_minimal()

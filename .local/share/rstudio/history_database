@@ -1,0 +1,3514 @@
+1770048312504:fish <- read_csv(https://docs.google.com/spreadsheets/d/1AWIm4ZGcgO9LhrL6hZkck5XA3lEQ3BxZNoCeblijwf4/edit?gid=1408506438#gid=1408506438)
+1770048381409:fish <- read_csv(https://docs.google.com/spreadsheets/d/1j7MnEkAUleI-Sx_8Ra2hX5MvaQC6GcVNY8ZGL4S4LCk/edit?gid=1408506438#gid=1408506438)
+1770048409214:read_csv(https://docs.google.com/spreadsheets/d/1j7MnEkAUleI-Sx_8Ra2hX5MvaQC6GcVNY8ZGL4S4LCk/edit?gid=1408506438#gid=1408506438)
+1770048444846:read_csv(https://docs.google.com/spreadsheets/d/1j7MnEkAUleI-Sx_8Ra2hX5MvaQC6GcVNY8ZGL4S4LCk/edit?usp=sharing)
+1770048466112:library(tidyverse)
+1770048476480:library(tidyverse)
+1770048476506:library(lubridate)
+1770048476534:read_csv (https://docs.google.com/spreadsheets/d/1j7MnEkAUleI-Sx_8Ra2hX5MvaQC6GcVNY8ZGL4S4LCk/edit?usp=sharing)
+1770048718899:library(tidyverse)
+1770048718899:library(lubridate)
+1770048718899:url <- 'https://docs.google.com/spreadsheets/d/1j7MnEkAUleI-Sx_8Ra2hX5MvaQC6GcVNY8ZGL4S4LCk/edit?usp=sharing'
+1770048718900:excretion_data <- gsheet2tbl(url)
+1770048738036:library(gsheet)
+1770048748160:library(tidyverse)
+1770048748160:library(lubridate)
+1770048748161:library(gsheet)
+1770048748161:url <- 'https://docs.google.com/spreadsheets/d/1j7MnEkAUleI-Sx_8Ra2hX5MvaQC6GcVNY8ZGL4S4LCk/edit?usp=sharing'
+1770048748161:excretion_data <- gsheet2tbl(url)
+1770048784986:url <- 'https://docs.google.com/spreadsheets/d/1j7MnEkAUleI-Sx_8Ra2hX5MvaQC6GcVNY8ZGL4S4LCk/edit?gid=1408506438#gid=1408506438'
+1770048788735:excretion_data <- gsheet2tbl(url)
+1770048832934:url <- 'https://docs.google.com/spreadsheets/d/1j7MnEkAUleI-Sx_8Ra2hX5MvaQC6GcVNY8ZGL4S4LCk/edit?usp=sharing'
+1770048835798:excretion_data <- gsheet2tbl(url)
+1770048877397:read_csv(“http://tinyurl.com/mtsthelens111”)
+1770048885584:read.csv(“http://tinyurl.com/mtsthelens111”)
+1770048901414:library(tidyverse)
+1770048904598:library(tidyverse)
+1770048904598:library(lubridate)
+1770048904598:library(gsheet)
+1770048904599:read_csv(“http://tinyurl.com/mtsthelens111”)
+1770049631632:ls
+1770049857063:fishdata <- read_csv(https://docs.google.com/spreadsheets/d/1j7MnEkAUleI-Sx_8Ra2hX5MvaQC6GcVNY8ZGL4S4LCk/edit?usp=sharing)
+1770049895172:fishdata <- read_csv('https://docs.google.com/spreadsheets/d/1j7MnEkAUleI-Sx_8Ra2hX5MvaQC6GcVNY8ZGL4S4LCk/edit?usp=sharing')
+1770049956381:fishdata <- read_csv('https://tinyurl.com/fish439')
+1770049985718:head(fishdata)
+1770050399023:view(fishdata)
+1770050538045:ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()
+1770050929761:ggplot2::aes(x, y)
+1770220876381:library(tidyverse)
+1770220876940:library(lubridate)
+1770220876940:library(gsheet)
+1770220876946:fishdata <- read_csv('https://tinyurl.com/fish439')
+1770220877172:head(fishdata)
+1770220877195:ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()
+1770220877388:ggplot2::aes(x, y)
+1770221005106:library(tidyverse)
+1770221005107:library(lubridate)
+1770221005107:library(gsheet)
+1770221005107:fishdata <- read_csv('https://tinyurl.com/fish439')
+1770221005354:head(fishdata)
+1770221005370:ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()
+1770221005513:ggplot2::aes(x, y)
+1770221171794:#Relationship between temp and nitrogen excretion
+1770221171794:ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()+geom_smooth(method = "lm")
+1770221234856:#Relationship between temp and nitrogen excretion
+1770221234856:ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()+geom_smooth(method = "lm")
+1770221267580:#Relationship between temp and nitrogen excretion
+1770221267580:ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+1770221387410:#Weight and N excretion
+1770221387410:ggplot(data = fishdata, mapping = aes(x = `Body mass_g`, `Per capita N excretion rate`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+1770221444073:#frequncy of different sizes of fish
+1770221444073:ggplot(fishdata, aes(`Body mass_g`))+geom_histogram()
+1770222770326:library(tidyverse)
+1770222770326:library(ggplot2)
+1770222770327:mountstdata <- read_csv('https://tinyurl.com/mountst')
+1770222817936:head(mountstdata)
+1770222838608:mountdata <- read_csv('https://tinyurl.com/mountst')
+1770222842301:mountdata <- read_csv('https://tinyurl.com/mountst')
+1770222858160:library(tidyverse)
+1770222858160:library(lubridate)
+1770222858161:library(gsheet)
+1770222858161:mountdata <- read_csv('https://tinyurl.com/mountst')
+1770223102565:#putting the data from the google sheet into fishdata
+1770223102566:fishdata <- read_csv('https://docs.google.com/spreadsheets/d/1r2ukTFVIdHp6PAAq2Avd9nV5fvUErl0Be5F6ma004Xo/edit?gid=1409658518#gid=1409658518')
+1770223184615:mountdata <- read_csv('http://tinyurl.com/mtsthelens111')
+1770223189597:head(mountdata)
+1770223220458:mountdata <- read_csv ('http://tinyurl.com/mtsthelens111')
+1770223304380:library(tidyverse)
+1770223304381:library(lubridate)
+1770223304381:library(gsheet)
+1770223304381:mountdata <- read_csv('http://tinyurl.com/mtsthelens111')
+1770223304481:head(mountdata)
+1770223304512:ggplot(data = mountdata, mapping = aes(x = `year`, y = `richness`))+geom_point()+geom_smooth(method = "lm", se = FALSE) #se is standard error, gets rid of the standard error
+1770223352087:#putting the data from the google sheet into fishdata
+1770223352087:fishdata <- read_csv('https://tinyurl.com/fishdata')
+1770223379270:view(mountdata)
+1770223487645:ggplot(data = mountdata, mapping = aes(x = `first_year`, y = `richness`))+geom_point() #se is standard error, gets rid of the standard error
+1770223576187:library(tidyverse)
+1770223576187:library(lubridate)
+1770223576187:library(gsheet)
+1770223576188:mountdata <- read_csv('http://tinyurl.com/mtsthelens111')
+1770223576333:head(mountdata)
+1770223576358:view(mountdata)
+1770223576393:ggplot(data = mountdata, mapping = aes(x = `first_year`, y = `richness`))+geom_point() #se is standard error, gets rid of the standard error
+1770393690548:fishdata <- read_csv('https://tinyurl.com/fish439')
+1770393696929:library(tidyverse)
+1770393697379:library(lubridate)
+1770393697379:library(gsheet)
+1770393697385:fishdata <- read_csv('https://tinyurl.com/fish439')
+1770393697606:head(fishdata)
+1770393697629:ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()
+1770393697818:ggplot2::aes(x, y)
+1770393732811:ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()+geom_smooth()
+1770393755195:ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()+geom_smooth(method = "lm", se = false)
+1770393765994:ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+1770394247611:library(tidyverse)
+1770394247611:library(lubridate)
+1770394247612:library(gsheet)
+1770394247612:fishdata <- read_csv('https://tinyurl.com/fish439')
+1770394247800:head(fishdata)
+1770394247814:ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+1770394247977:ggplot2::aes(x, y)
+1770394247978:fishdata |> group_by(Temperature_C) |>
+1770394247978:summarise(mean_N_exc = mean(`Per capita N excretion rate`))%>%
+1770394247978:ggplot(aes(Temperature_C, avg_N_exc))+geom_point()
+1770394274990:library(tidyverse)
+1770394274990:library(lubridate)
+1770394274990:library(gsheet)
+1770394274990:fishdata <- read_csv('https://tinyurl.com/fish439')
+1770394275098:head(fishdata)
+1770394275111:ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+1770394275247:ggplot2::aes(x, y)
+1770394275248:fishdata |> group_by(Temperature_C) |>
+1770394275248:summarise(avg_N_exc = mean(`Per capita N excretion rate`))%>%
+1770394275248:ggplot(aes(Temperature_C, avg_N_exc))+geom_point()
+1770395565535:MSH <- read_csv('https://docs.google.com/spreadsheets/d/1LXMuadeXyVfLuWhSG9Et6Ot2Wq7JgY335mvJwtoLwOk/edit?gid=2036728902#gid=2036728902')
+1770395641542:MSH <- read_csv('http://tinyurl.com/mtsthelens111')
+1770395655268:library(tidyverse)
+1770395655725:library(lubridate)
+1770395655726:library(gsheet)
+1770395655731:MSH <- read_csv('http://tinyurl.com/mtsthelens111')
+1770395675450:library(tidyverse)
+1770395675450:library(lubridate)
+1770395675450:library(gsheet)
+1770395675451:MSH <- read_csv('http://tinyurl.com/mtsthelens111')
+1770395675547:head(MSH)
+1770395684469:view(MSH)
+1770653056669:library(tidyverse)
+1770653057235:library(lubridate)
+1770653057236:library(gsheet)
+1770653057242:fishdata <- read_csv('https://tinyurl.com/fish439')
+1770653057648:head(fishdata)
+1770653057672:ggplot(data = fishdata, mapping = aes(x = Temperature_C, y = `Per capita N excretion rate`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+1770653058697:ggplot2::aes(x, y)
+1770653058699:fishdata |> group_by(Temperature_C) |>
+1770653058699:summarise(avg_N_exc = mean(`Per capita N excretion rate`))%>%
+1770653058699:ggplot(aes(Temperature_C, avg_N_exc))+geom_point()
+1770653067426:ggplot2::aes(x, y)
+1770653444256:mtsthelens_data <- read_csv('https://tinyurl.com/mtsthelens222')
+1770653455818:library(tidyverse)
+1770653460941:library(tidyverse)
+1770653460942:mtsthelens_data <- read_csv('https://tinyurl.com/mtsthelens222')
+1770653482351:view(mtsthelens_data)
+1770653489175:source("~/Mount_st_helen/MSH.R")
+1770653551515:library(tidyverse)
+1770653551515:mtsthelens_data <- read_csv('https://tinyurl.com/mtsthelens222')
+1770653551615:view(mtsthelens_data)
+1770653620426:library(ggplot2)
+1770653623313:library(tidyverse)
+1770653623313:library(ggplot2)
+1770653623314:mtsthelens_data <- read_csv('https://tinyurl.com/mtsthelens222')
+1770653623582:view(mtsthelens_data)
+1770653623584:ggplot(data = mtsthelens_data, mapping = aes(x = year, y = `richness`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+1770653624702:ggplot2::aes(x, y)
+1770653630469:source("~/Mount_st_helen/MSH.R")
+1770653783046:library(tidyverse)
+1770653783046:library(ggplot2)
+1770653783047:mtsthelens_data <- read_csv('https://tinyurl.com/mtsthelens222')
+1770653783162:view(mtsthelens_data)
+1770653783163:ggplot(data = mtsthelens_data, mapping = aes(x = year, y = `richness`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+1770653783401:ggplot2::aes(x, y)
+1770653783403:mtsthelens_data_avg <- group_by(mtsthelens_data, plot_name, year) %>%
+1770653783403:summarize(avg_richness = mean(richness))
+1770653790417:mtsthelens_data_avg <- group_by(mtsthelens_data, plot_name, year) %>%
+1770653790417:summarize(avg_richness = mean(richness))
+1770653857909:source("~/Mount_st_helen/MSH.R")
+1770653942183:library(tidyverse)
+1770653942537:library(ggplot2)
+1770653942538:mtsthelens_data <- read_csv('https://tinyurl.com/mtsthelens222')
+1770653942921:view(mtsthelens_data)
+1770653942923:ggplot(data = mtsthelens_data, mapping = aes(x = year, y = `richness`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+1770653944165:ggplot2::aes(x, y)
+1770654517817:library(tidyverse)
+1770654649015:metdata <-url(https://docs.google.com/spreadsheets/d/10tZc8WhBGAa-2BhAsXUhdrQOGrWBIux6cYXPBWvQK4k/edit?gid=2087425706#gid=2087425706)
+1770654673655:metdata <- read_csv(https://docs.google.com/spreadsheets/d/10tZc8WhBGAa-2BhAsXUhdrQOGrWBIux6cYXPBWvQK4k/edit?gid=2087425706#gid=2087425706)
+1770999509570:library(tidyverse)
+1770999590290:longwide <- read_csv(https://tinyurl.com/Oz-temp-across-cities)
+1770999619382:library(tidyverse)
+1770999619383:longwide <- read_csv(https://tinyurl.com/Oz-temp-across-cities)
+1770999639755:longwide <- read_csv(`https://tinyurl.com/Oz-temp-across-cities`)
+1770999651483:longwide <- read_csv('https://tinyurl.com/Oz-temp-across-cities')
+1770999660980:view longwide
+1770999667295:view(longwide)
+1770999791273:longwide|> pivot_longer(names_to = "year", values_to = "abundance", cols=-state)
+1770999796358:longwide|> pivot_longer(names_to = "year", values_to = "abundance", cols=-state)
+1770999897230:longwide|> pivot_longer(names_to = "Location", values_to = "Temp")
+1770999918750:longwide|> pivot_longer(names_to = "Location", values_to = "Temp", cols = -state)
+1771000269870:longwide|> pivot_longer(names_to = "airport", values_to = "temp", cols = `PERTH AIRPORT:`MELBOURNE (OLYMPIC PARK)``)
+1771000291631:longwide|> pivot_longer(names_to = "airport", values_to = "temp", cols = `PERTH AIRPORT`:`MELBOURNE (OLYMPIC PARK)`
+1771000429180:ggplot(longwide)
+1771000562671:ggplot(data = longwide, mapping aes(x = airport, y = temp))+geom_point()
+1771000570531:ggplot(data = longwide, mapping aes(x = airport, y = temp)+geom_point()
+1771000595015:longwide|> pivot_longer(names_to = "airport", values_to = "temp", cols = (`PERTH AIRPORT`:`MELBOURNE (OLYMPIC PARK)`)
+1771000619500:ggplot(data = longwide, mapping = aes(x = airport, y = temp)+geom_point()
+1771000718382:longwidelonger <- longwide|> pivot_longer(names_to = "airport", values_to = "temp", cols = (`PERTH AIRPORT`:`MELBOURNE (OLYMPIC PARK)`)
+1771000735213:view(longwidelonger)
+1771000801629:library(tidyverse)
+1771000801629:longwide <- read_csv('https://tinyurl.com/Oz-temp-across-cities')
+1771000801880:view(longwide)
+1771000801914:longwidelonger <- longwide|> pivot_longer(names_to =
+1771000801914:"airport", values_to = "temp", cols = (`PERTH AIRPORT`:`MELBOURNE (OLYMPIC PARK)`))
+1771000801947:ggplot(data = longwidelonger, mapping = aes(x = airport, y = temp)+geom_point()
+1771000819976:ggplot(data = longwidelonger, mapping = aes(x = airport, y = temp)+geom_point()))
+1771000833849:ggplot(data = longwidelonger, mapping = aes(x = airport, y = temp))
+1771000983514:ggplot(data = longwidelonger, mapping = aes(x = airport, y = temp))+geom_point()
+1771001050011:ggplot(data = longwidelonger, mapping = aes(x = airport, y = temp))
+1771001051160:library(tidyverse)
+1771001051160:longwide <- read_csv('https://tinyurl.com/Oz-temp-across-cities')
+1771001051420:view(longwide)
+1771001051422:longwidelonger <- longwide|> pivot_longer(names_to = "airport",
+1771001051422:values_to = "temp",
+1771001051422:cols = (`PERTH AIRPORT`:`MELBOURNE (OLYMPIC PARK)`))
+1771001051447:ggplot(data = longwidelonger, mapping = aes(x = airport, y = temp))+geom_point()
+1771001061837:library(tidyverse)
+1771001061838:longwide <- read_csv('https://tinyurl.com/Oz-temp-across-cities')
+1771001080571:view(longwide)
+1771001080572:longwidelonger <- longwide|> pivot_longer(names_to = "airport",
+1771001080573:values_to = "temp",
+1771001080573:cols = (`PERTH AIRPORT`:`MELBOURNE (OLYMPIC PARK)`))
+1771001080601:ggplot(data = longwidelonger, mapping = aes(x = airport, y = temp))+geom_point()
+1771001091026:ggplot(data = longwidelonger, mapping = aes(x = airport, y = temp))+geom_point()
+1771001101505:view(longwide)
+1771001101506:library(tidyverse)
+1771001101507:longwide <- read_csv('https://tinyurl.com/Oz-temp-across-cities')
+1771001120475:view(longwide)
+1771604777121:library(tidyverse)
+1771604777122:library(arrow)
+1771604777295:#get a connection to part of the data
+1771604777295:PFW_all_1988_1995 <- open_dataset(
+1771604777295:sources = "~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv",
+1771604777295:format = "csv" )
+1771604784717:library(tidyverse)
+1771604784717:library(arrow)
+1771604788899:#get a connection to part of the data
+1771604788899:PFW_all_1988_1995 <- open_dataset(
+1771604788899:sources = "~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv",
+1771604788900:format = "csv" )
+1771604818309:#rare birds by month
+1771604818309:PFW_all_1988_1995 |>
+1771604818310:group_by(Year,Month,SPECIES_CODE) |>
+1771604818310:summarise(birds = sum(HOW_MANY)) |>
+1771604818310:filter(birds < 10) |>
+1771604818310:collect()
+1771604823296:PFW_all_1988_1995 |> glimpse()
+1771604829950:library(tidyverse)
+1771604829950:library(arrow)
+1771604829950:#get a connection to part of the data
+1771604829950:PFW_all_1988_1995 <- open_dataset(
+1771604829951:sources = "~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv",
+1771604829951:format = "csv" )
+1771604829965:PFW_all_1988_1995 |> glimpse()
+1771604830646:#rare birds by month
+1771604830646:PFW_all_1988_1995 |>
+1771604830646:group_by(Year,Month,SPECIES_CODE) |>
+1771604830647:summarise(birds = sum(HOW_MANY)) |>
+1771604830647:filter(birds < 10) |>
+1771604830647:collect()
+1771604892668:view(PFW_all_1988_1995)
+1771605607378:library(tidyverse)
+1771605607378:library(arrow)
+1771605607378:#get a connection to part of the data
+1771605607378:PFW_all_1988_2000 <- open_dataset(
+1771605607379:sources = "~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv",
+1771605607379:format = "csv" )
+1771605607393:PFW_all_1988_2000 |> glimpse()
+1771605608065:#rare birds by month
+1771605608065:PFW_all_1988_2000 |>
+1771605608065:group_by(Year,Month,SPECIES_CODE) |>
+1771605608065:summarise(birds = sum(HOW_MANY)) |>
+1771605608065:filter(birds < 10) |>
+1771605608065:collect()
+1771605608922:view(PFW_all_1988_2000)
+1771606043839:library(tidyverse)
+1771606043840:library(arrow)
+1771606043840:#get a connection to part of the data
+1771606043840:PFW_all_1988_2005 <- open_dataset(
+1771606043840:sources = "~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv",
+1771606043840:format = "csv" )
+1771606043854:PFW_all_1988_2005 |> glimpse()
+1771606044542:#rare birds by month
+1771606044543:PFW_all_1988_2005 |>
+1771606044543:group_by(Year,Month,SPECIES_CODE) |>
+1771606044543:summarise(birds = sum(HOW_MANY)) |>
+1771606044543:filter(birds < 10) |>
+1771606044543:collect()
+1771606045425:view(PFW_all_1988_2005)
+1771606045447:library(tidyverse)
+1771606045447:library(arrow)
+1771606045448:#get a connection to part of the data
+1771606045448:PFW_all_1988_2005 <- open_dataset(
+1771606045448:sources = "~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv",
+1771606045448:format = "csv" )
+1771606045459:PFW_all_1988_2005 |> glimpse()
+1771606046147:#rare birds by month
+1771606046147:PFW_all_1988_2005 |>
+1771606046147:group_by(Year,Month,SPECIES_CODE) |>
+1771606046147:summarise(birds = sum(HOW_MANY)) |>
+1771606046147:filter(birds < 10) |>
+1771606046147:collect()
+1771606047024:view(PFW_all_1988_2005)
+1771606047046:library(tidyverse)
+1771606047046:library(arrow)
+1771606047046:#get a connection to part of the data
+1771606047046:PFW_all_1988_2005 <- open_dataset(
+1771606047046:sources = "~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv",
+1771606047046:format = "csv" )
+1771606047057:PFW_all_1988_2005 |> glimpse()
+1771606047733:#rare birds by month
+1771606047733:PFW_all_1988_2005 |>
+1771606047733:group_by(Year,Month,SPECIES_CODE) |>
+1771606047733:summarise(birds = sum(HOW_MANY)) |>
+1771606047733:filter(birds < 10) |>
+1771606047733:collect()
+1771606048887:view(PFW_all_1988_2005)
+1772068159486:view(PFW_all_1988_2000)
+1772208753591:library(tidyverse)
+1772208753952:library(ggplot2)
+1772208753953:mtsthelens_data <- read_csv('https://tinyurl.com/mtsthelens222')
+1772208754295:view(mtsthelens_data)
+1772208754298:ggplot(data = mtsthelens_data, mapping = aes(x = year, y = `richness`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+1772208755485:ggplot2::aes(x, y)
+1772208882317:library(tidyverse)
+1772208882317:library(ggplot2)
+1772208882318:mtsthelens_data <- read_csv('https://tinyurl.com/mtsthelens222')
+1772208882429:view(mtsthelens_data)
+1772208882463:ggplot(data = mtsthelens_data, mapping = aes(x = year, y = `richness`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+1772208882782:ggplot2::aes(x, y)
+1772208882784:#Fit regression model
+1772208882784:model <- lm(response ~ explanatory, data = data)
+1772208912659:#Get regression table:
+1772208912660:summary(model)
+1772208915923:#Fit regression model
+1772208915923:model <- lm(response ~ explanatory, data = data)
+1772208944188:#Fit regression model
+1772208944188:model <- lm(response ~ explanatory, mtsthelens_data = data)
+1772209065715:#Fit regression model
+1772209065716:model <- lm(response ~ explanatory, data = mtsthelens_data)
+1772209094472:library(moderndrive)
+1772209103603:library(moderndive)
+1772209159886:library(moderndive)
+1772209163110:library(tidyverse)
+1772209163111:library(ggplot2)
+1772209163111:library(moderndive)
+1772209376764:mtsthelens_data <- read_csv('https://tinyurl.com/mtsthelens222')
+1772209380529:view(mtsthelens_data)
+1772209384270:ggplot2::aes(x, y)
+1772209387370:#Fit regression model
+1772209387370:model <- lm(response ~ explanatory, data = mtsthelens_data)
+1772209416984:#Fit regression model
+1772209416985:model <- lm(richness ~ year, data = mtsthelens_data)
+1772209420320:#Get regression data
+1772209420320:get_regression_table(model)
+1772209426495:#Get regression table:
+1772209426496:summary(model)
+1772209446098:#Get regression data
+1772209446098:get_regression_table(model)
+1772209473117:#Get regression table:
+1772209473117:summary(model)
+1772209815638:#Fit regression model
+1772209815638:model <- lm(richness ~ year + cover_percent, data = mtsthelens_data)
+1772209818902:#Get regression table:
+1772209818902:summary(model)
+1772209868219:source("~/Mount_st_helen/MSH.R")
+1772210673984:filter(year, richness)
+1772210716279:library(tidyverse)
+1772210716280:library(ggplot2)
+1772210716280:mtsthelens_data <- read_csv('https://tinyurl.com/mtsthelens222')
+1772210716438:view(mtsthelens_data)
+1772210716440:ggplot(data = mtsthelens_data, mapping = aes(x = year, y = `richness`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+1772210716658:ggplot2::aes(x, y)
+1772210716659:#Fit regression model model <- lm (response ~ explanatory 1 + explanatory 2, data = data)
+1772210716660:model <- lm(richness ~ year + cover_percent, data = mtsthelens_data)
+1772210716661:#Get regression table:
+1772210716661:summary(model)
+1772469576410:library(tidyverse)
+1772469576933:library(ggplot2)
+1772469576934:mtsthelens_data <- read_csv('https://tinyurl.com/mtsthelens222')
+1772469577297:view(mtsthelens_data)
+1772469577300:ggplot(data = mtsthelens_data, mapping = aes(x = year, y = `richness`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+1772469578428:ggplot2::aes(x, y)
+1772469578430:#Fit regression model model <- lm (response ~ explanatory 1 + explanatory 2, data = data)
+1772469578430:model <- lm(richness ~ year + cover_percent, data = mtsthelens_data)
+1772469578432:#Get regression table:
+1772469578432:summary(model)
+1772469967319:view(mtsthelens_data)
+1772469971048:library(tidyverse)
+1772469971466:library(ggplot2)
+1772469971467:mtsthelens_data <- read_csv('https://tinyurl.com/mtsthelens222')
+1772469971737:view(mtsthelens_data)
+1772469971739:ggplot(data = mtsthelens_data, mapping = aes(x = year, y = `richness`))+geom_point()+geom_smooth(method = "lm", se = FALSE)
+1772469972895:ggplot2::aes(x, y)
+1772469972896:#Fit regression model model <- lm (response ~ explanatory 1 + explanatory 2, data = data)
+1772469972897:model <- lm(richness ~ year + cover_percent, data = mtsthelens_data)
+1772469972898:#Get regression table:
+1772469972898:summary(model)
+1772475284609:library(tidyverse)
+1772475285562:library(arrow)
+1772475285581:#get a connection to part of the data
+1772475285581:PFW_all_1988_2000 <- open_dataset(
+1772475285582:sources = "~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv",
+1772475285582:format = "csv" )
+1772475285620:PFW_all_1988_2000 |> glimpse()
+1772475286342:#rare birds by month
+1772475286342:PFW_all_1988_2000 |>
+1772475286343:group_by(Year,Month,SPECIES_CODE) |>
+1772475286343:summarise(birds = sum(HOW_MANY)) |>
+1772475286343:filter(birds < 10) |>
+1772475286343:collect()
+1772475287326:view(PFW_all_1988_2000)
+1772566496506:library(tidyverse)
+1772566497540:library(arrow)
+1772566497692:#get a connection to part of the data
+1772566497692:PFW_all_1988_2000 <- open_dataset(
+1772566497692:sources = "~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv",
+1772566497692:format = "csv" )
+1772566497729:PFW_all_1988_2000 |> glimpse()
+1772566498414:#rare birds by month
+1772566498415:PFW_all_1988_2000 |>
+1772566498415:group_by(Year,Month,SPECIES_CODE) |>
+1772566498415:summarise(birds = sum(HOW_MANY)) |>
+1772566498415:filter(birds < 10) |>
+1772566498415:collect()
+1772566499366:view(PFW_all_1988_2000)
+1772566536437:library(tidyverse)
+1772566536438:library(arrow)
+1772566536438:#get a connection to part of the data
+1772566536438:PFW_all_1988_1995 <- open_dataset(
+1772566536438:sources = "~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv",
+1772566536438:format = "csv" )
+1772566536452:PFW_all_1988_1995 |> glimpse()
+1772566537128:#rare birds by month
+1772566537128:PFW_all_1988_1995 |>
+1772566537129:group_by(Year,Month,SPECIES_CODE) |>
+1772566537129:summarise(birds = sum(HOW_MANY)) |>
+1772566537129:filter(birds < 10) |>
+1772566537129:collect()
+1772566537993:view(PFW_all_1988_1995)
+1772566597009:PFW_all_1996_2000 <- open_dataset(
+1772566597009:sources = "~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv",
+1772566597009:format = "csv" )
+1772566628869:view(PFW_all_1996_2000)
+1772566703001:PFW_all_2001_2005 <- open_dataset(
+1772566703001:sources = "~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv",
+1772566703001:format = "csv" )
+1772566746897:PFW_all_2006_2010 <- open_dataset(
+1772566746897:sources = "~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv",
+1772566746897:format = "csv" )
+1772566769720:view(PFW_all_2006_2010)
+1772566960193:view(PFW_all_2001_2005)
+1772571225786:source("~/Exam 1-Feed/Feedwatch.R")
+1772572241744:source("~/Exam 1-Feed/Feedwatch.R")
+1772572711286:library(tidyverse)
+1772572711286:library(arrow)
+1772572711287:#get a connection to part of the data
+1772572711287:PFW_all_1988_1995 <- open_dataset(
+1772572711287:sources = "~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv",
+1772572711287:format = "csv" )
+1772572711297:PFW_all_1988_1995 |> glimpse()
+1772572711966:#rare birds by month
+1772572711967:PFW_all_1988_1995 |>
+1772572711967:group_by(Year,Month,SPECIES_CODE) |>
+1772572711967:summarise(birds = sum(HOW_MANY)) |>
+1772572711967:filter(birds < 10) |>
+1772572711967:collect()
+1772572712841:view(PFW_all_1988_1995)
+1772572712862:PFW_all_states <- PFW_all_1988_1955 %>% group_by(subnational1_code) %>% summarise(sum_observations = sum(how_many))
+1772572736583:PFW_all_1988_1955 <- %>% group_by(subnational1_code) %>% summarise(sum_observations = sum(how_many))
+1772572743235:PFW_all_1988_1955 <- group_by(subnational1_code) %>% summarise(sum_observations = sum(how_many))
+1772572766177:PFW_all_1988_1955 <- group_by(SUBNATIONAL1_CODE) %>% summarise(sum_observations = sum(how_many))
+1772572788370:PFW_all_1988_1955 <- group_by(subnational1_code) %>% summarise(sum_observations = sum(how_many))
+1772572818761:ls()
+1772572828885:ls(PFW_all_1988_1955)
+1772572922007:source("~/Exam 1-Feed/Feedwatch.R")
+1772635001536:library(tidyverse)
+1772635002536:library(arrow)
+1772635002553:#get a connection to part of the data
+1772635002553:PFW_all_1988_1995 <- open_dataset(
+1772635002553:sources = "~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv",
+1772635002553:format = "csv" )
+1772635002597:PFW_all_1988_1995 |> glimpse()
+1772635004608:#rare birds by month
+1772635004608:PFW_all_1988_1995 |>
+1772635004608:group_by(Year,Month,SPECIES_CODE) |>
+1772635004608:summarise(birds = sum(HOW_MANY)) |>
+1772635004608:filter(birds < 10) |>
+1772635004608:collect()
+1772635005514:view(PFW_all_1988_1995)
+1772635005535:PFW_all_1988_1955 <- group_by(subnational1_code) %>% summarise(sum_observations = sum(how_many))
+1772673831830:library(tidyverse)
+1772673832743:library(arrow)
+1772673832890:#get a connection to part of the data
+1772673832890:PFW_all_1988_1995 <- open_dataset(
+1772673832891:sources = "~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv",
+1772673832891:format = "csv" )
+1772673832936:PFW_all_1996_2000 <- open_dataset(
+1772673832936:sources = "~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv",
+1772673832936:format = "csv" )
+1772673832954:PFW_all_2001_2005 <- open_dataset(
+1772673832954:sources = "~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv",
+1772673832954:format = "csv" )
+1772673832971:PFW_all_2006_2010 <- open_dataset(
+1772673832971:sources = "~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv",
+1772673832971:format = "csv" )
+1772673832988:view(PFW_all_2001_2005)
+1772673833018:PFW_all_1988_1995 |> glimpse()
+1772673835167:#rare birds by month
+1772673835167:PFW_all_1988_1995 |>
+1772673835167:group_by(Year,Month,SPECIES_CODE) |>
+1772673835167:summarise(birds = sum(HOW_MANY)) |>
+1772673835167:filter(birds < 10) |>
+1772673835168:collect()
+1772673836200:view(PFW_all_1988_1995)
+1772674223498:library(tidyverse)
+1772674223499:library(arrow)
+1772674223500:#get a connection to part of the data
+1772674223500:birddataset <- list(
+1772674223500:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv" )
+1772674223500:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv" )
+1772674287764:birddataset <- list(
+1772674287764:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772674287764:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772674287764:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772674287764:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1772674287764:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1772674287764:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1772674287765:)
+1772674368849:birddataset <- list(
+1772674368849:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772674368849:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1772674368850:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1772674368850:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1772674368850:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1772674368850:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv"),
+1772674368850:)
+1772674444547:birddataset <- list(
+1772674444547:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772674444547:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1772674444547:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1772674444548:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1772674444548:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1772674444548:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1772674444548:)
+1772674444611:view(birddataset)
+1772674481505:view(birddataset)
+1772674537599:birddataset |> glimpse()
+1772677819897:source("~/Exam 1-Feed/Feedwatch.R")
+1772678025612:birddataset <- list(
+1772678025613:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772678025613:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1772678025613:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1772678025613:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1772678025613:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1772678025613:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1772678025613:)
+1772678085333:lapply(birddataset, glimpse)
+1772678351571:library(ggplot2)
+1772678362781:ggplot(storm_birds, aes(x = Year, y = total_birds)) +
+1772678362781:geom_line() +
+1772678362781:geom_vline(xintercept = 2012, linetype = "dashed", color = "red") +
+1772678362781:labs(
+1772678362781:title = "Bird Counts Before and After Hurricane Sandy",
+1772678362781:x = "Year",
+1772678362781:y = "Total Birds Observed"
+1772678362782:)
+1772678377470:storm_birds <- birddataset |>
+1772678377470:group_by(Year, Month) |>
+1772678377470:summarise(total_birds = sum(HOW_MANY, na.rm = TRUE)) |>
+1772678377470:collect()
+1772678398698:library(tidyverse)
+1772678398699:library(arrow)
+1772678398699:library(ggplot2)
+1772678398699:#get a connection to part of the data
+1772678398699:birddataset <- list(
+1772678398700:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772678398700:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1772678398700:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1772678398700:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1772678398700:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1772678398700:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1772678398700:)
+1772678398832:view(birddataset)
+1772678770943:#Julia Frost
+1772678770944:#FeederWatch Data Analysis
+1772678770944:#Graphing Bird Population Patterns
+1772678770944:library(tidyverse)
+1772678770944:library(arrow)
+1772678770944:library(ggplot2)
+1772678770945:#Connect to FeederWatch datasets
+1772678770945:birddataset <- list(
+1772678770945:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772678770945:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1772678770945:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1772678770945:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1772678770945:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1772678770945:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1772678770945:)
+1772678771064:#Inspect dataset structure
+1772678771064:lapply(birddataset, glimpse)
+1772678810447:#Question 1-How did bird observations change before and after Hurricane Sandy
+1772678810449:storm_birds <- map_dfr(birddataset, ~ .x |>
+1772678810450:group_by(Year) |>
+1772678810450:summarise(total_birds = sum(HOW_MANY, na.rm = TRUE)) |>
+1772678810450:collect()
+1772678810450:)
+1772678889961:library(tidyverse)
+1772678889964:library(arrow)
+1772678889964:library(ggplot2)
+1772678889965:#Connect to FeederWatch datasets
+1772678889965:birddataset <- list(
+1772678889965:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772678889965:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1772678889965:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1772678889965:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1772678889965:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1772678889965:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1772678889965:)
+1772678898901:storm_birds <- map_dfr(birddataset, ~ .x |>
+1772678898901:group_by(Year) |>
+1772678898901:summarise(total_birds = sum(HOW_MANY, na.rm = TRUE)) |>
+1772678898901:collect()
+1772678904015:ggplot(storm_birds, aes(x = Year, y = total_birds)) +
+1772678936569:storm_birds <- map_dfr(birddataset, function(x) {
+1772678936579:x |>
+1772678936580:group_by(Year) |>
+1772678936580:summarise(total_birds = sum(HOW_MANY, na.rm = TRUE)) |>
+1772678936580:collect()
+1772678936580:})
+1772678971274:library(tidyverse)
+1772678971274:library(arrow)
+1772678971274:library(ggplot2)
+1772678971275:#Connect to FeederWatch datasets
+1772678971275:birddataset <- list(
+1772678971275:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772678971275:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1772678971275:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1772678971275:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1772678971275:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1772678971275:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1772678971275:)
+1772678971515:#Inspect dataset structure
+1772678971515:lapply(birddataset, glimpse)
+1772679059321:library(tidyverse)
+1772679059322:library(arrow)
+1772679059322:library(ggplot2)
+1772679059323:#Connect to FeederWatch datasets
+1772679059323:birddataset <- list(
+1772679059323:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772679059323:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1772679059323:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1772679059323:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1772679059323:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1772679059323:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1772679059323:)
+1772679059476:#Inspect dataset structure
+1772679059477:lapply(birddataset, glimpse)
+1772679098737:goose_data <- map_dfr(birddataset, ~ .x |>
+1772679098739:filter(SPECIES_CODE == "CANG") |>
+1772679098739:group_by(Year, Month) |>
+1772679098739:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE)) |>
+1772679098739:collect()
+1772679098739:)
+1772720772435:#Connect to FeederWatch datasets
+1772720772436:birddataset <- list(
+1772720772436:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772720772436:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1772720772436:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1772720772436:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1772720772436:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1772720772437:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1772720772437:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1772720772437:)
+1772720772556:#Inspect dataset structure
+1772720772556:lapply(birddataset, glimpse)
+1772721038154:library(tidyverse)
+1772721038155:library(arrow)
+1772721038155:library(ggplot2)
+1772721038155:#Connect to FeederWatch datasets
+1772721038155:birddataset <- list(
+1772721038155:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772721038155:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1772721038155:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1772721038156:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1772721038156:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1772721038156:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1772721038156:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1772721038156:)
+1772721038219:#Inspect dataset structure
+1772721038219:lapply(birddataset, glimpse)
+1772721078473:#Question 1-How did bird observations change before and after Hurricane Sandy
+1772721078474:storm_birds <- map_dfr(birddataset, function(x) {
+1772721078474:x |>
+1772721078474:group_by(Year) |>
+1772721078474:summarise(total_birds = sum(HOW_MANY, na.rm = TRUE)) |>
+1772721078475:collect()
+1772721078475:})
+1772721129216:ggplot(storm_birds, aes(x = Year, y = total_birds)) +
+1772721129217:geom_line() +
+1772721129217:geom_vline(xintercept = 2012, linetype = "dashed", color = "red") +
+1772721129217:labs(
+1772721129217:title = "Bird Observations Before and After Hurricane Sandy",
+1772721129217:x = "Year",
+1772721129217:y = "Total Birds Observed"
+1772721129218:)
+1772721184101:colnames(birddataset)
+1772813076377:goose_data <- map_dfr(birddataset, ~ .x |>
+1772813076378:filter(SPECIES_CODE == "CANG") |>
+1772813076378:group_by(Year, Month) |>
+1772813076378:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE)) |>
+1772813076378:collect()
+1772813076378:)
+1772813085558:library(tidyverse)
+1772813085558:library(arrow)
+1772813085559:library(ggplot2)
+1772813088348:#Connect to FeederWatch datasets
+1772813088348:birddataset <- list(
+1772813088348:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772813088349:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1772813088349:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1772813088349:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1772813088349:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1772813088349:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1772813088350:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1772813088350:)
+1772813094080:#Inspect dataset structure
+1772813094080:lapply(birddataset, glimpse)
+1772813144112:goose_data <- map_dfr(birddataset, ~ .x |>
+1772813144113:filter(SPECIES_CODE == "CANG") |>
+1772813144113:group_by(Year, Month) |>
+1772813144113:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE)) |>
+1772813144113:collect()
+1772813144113:)
+1772813195068:ggplot(goose_data, aes(x = Month, y = total_geese, group = Year)) +
+1772813195069:geom_line(alpha = 0.3) +
+1772813195069:labs(
+1772813195069:title = "Canada Goose Migration Patterns Since 1988",
+1772813195069:x = "Month",
+1772813195069:y = "Number of Geese Observed"
+1772813195069:)
+1772813195211:diversity_data <- map_dfr(birddataset, ~ .x |>
+1772813195211:group_by(Year) |>
+1772813195211:summarise(species_count = n_distinct(SPECIES_CODE)) |>
+1772813195211:collect()
+1772813195211:)
+1772813246089:ggplot(diversity_data, aes(x = Year, y = species_count)) +
+1772813246090:geom_line() +
+1772813246090:labs(
+1772813246090:title = "Bird Species Diversity in FeederWatch Data",
+1772813246090:x = "Year",
+1772813246091:y = "Number of Species Observed"
+1772813246091:)
+1772813246235:ggplot(diversity_data, aes(x = Year, y = species_count)) +
+1772813246235:geom_line() +
+1772813246236:labs(
+1772813246236:title = "Bird Species Diversity in FeederWatch Data",
+1772813246236:x = "Year",
+1772813246236:y = "Number of Species Observed"
+1772813246236:)
+1772814444592:source("~/Exam 1-Feed/Feedwatch.R")
+1772814965363:ggplot(diversity_data, aes(x = Year, y = species_count)) +
+1772814965363:geom_line() +
+1772814965364:labs(
+1772814965364:title = "Bird Species Diversity in FeederWatch Data",
+1772814965364:x = "Year",
+1772814965364:y = "Number of Species Observed"
+1772814965364:)
+1772814974908:pwd
+1772815567282:diversity_data <- map_dfr(birddataset, ~ .x |>
+1772815567282:group_by(Year) |>
+1772815567282:summarise(species_count = n_distinct(SPECIES_CODE)) |>
+1772815567283:collect()
+1772815567283:)
+1772815580346:library(tidyverse)
+1772815580347:library(arrow)
+1772815580347:library(ggplot2)
+1772815580347:#Connect to FeederWatch datasets
+1772815580347:birddataset <- list(
+1772815580347:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772815580348:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1772815580348:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1772815580348:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1772815580348:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1772815580348:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1772815580348:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1772815580348:)
+1772815580440:#Inspect dataset structure
+1772815580440:lapply(birddataset, glimpse)
+1772815595137:diversity_data <- map_dfr(birddataset, ~ .x |>
+1772815595137:group_by(Year) |>
+1772815595137:summarise(species_count = n_distinct(SPECIES_CODE)) |>
+1772815595137:collect()
+1772815595137:)
+1772815609336:ggplot(diversity_data, aes(x = Year, y = species_count)) +
+1772815609336:geom_line() +
+1772815609336:labs(
+1772815609336:title = "Bird Species Diversity in FeederWatch Data",
+1772815609336:x = "Year",
+1772815609336:y = "Number of Species Observed"
+1772815609337:)
+1772815726296:goose_data <- map_dfr(birddataset, ~ .x |>
+1772815726296:filter(SPECIES_CODE == "CANG") |>
+1772815726296:group_by(Year, Month) |>
+1772815726296:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE)) |>
+1772815726296:collect()
+1772815726297:)
+1772815741623:ggplot(goose_data, aes(x = Month, y = total_geese, group = Year)) +
+1772815741623:geom_line(alpha = 0.3) +
+1772815741623:labs(
+1772815741623:title = "Canada Goose Migration Patterns Since 1988",
+1772815741624:x = "Month",
+1772815741624:y = "Number of Geese Observed"
+1772815741624:)
+1772828215389:goose_data <- map_dfr(birddataset, ~ .x |>
+1772828215390:filter(SPECIES_CODE == "cangoo") |>
+1772828215390:group_by(Year, Month) |>
+1772828215390:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE)) |>
+1772828215390:collect()
+1772828215390:)
+1772828242763:#Connect to FeederWatch datasets
+1772828242763:birddataset <- list(
+1772828242763:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772828242763:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1772828242763:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1772828242764:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1772828242764:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1772828242764:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1772828242764:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1772828242764:)
+1772828249454:library(tidyverse)
+1772828250559:library(arrow)
+1772828250575:library(ggplot2)
+1772828250576:#Connect to FeederWatch datasets
+1772828250576:birddataset <- list(
+1772828250576:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772828250576:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1772828250576:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1772828250576:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1772828250576:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1772828250576:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1772828250577:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1772828250577:)
+1772828250716:#Inspect dataset structure
+1772828250716:lapply(birddataset, glimpse)
+1772828268174:goose_data <- map_dfr(birddataset, ~ .x |>
+1772828268174:filter(SPECIES_CODE == "cangoo") |>
+1772828268174:group_by(Year, Month) |>
+1772828268174:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE)) |>
+1772828268175:collect()
+1772828268175:)
+1772828283579:ggplot(goose_data, aes(x = Month, y = total_geese, group = Year)) +
+1772828283579:geom_line(alpha = 0.3) +
+1772828283579:labs(
+1772828283579:title = "Canada Goose Migration Patterns Since 1988",
+1772828283579:x = "Month",
+1772828283579:y = "Number of Geese Observed"
+1772828283580:)
+1772828932516:goose_data <- map_dfr(birddataset, ~ .x |>
+1772828932517:filter(SPECIES_CODE == "cangoo",
+1772828932517:SUBNATIONAL1_CODE == "US_NY") |>
+1772828932518:group_by(Year, Month) |>
+1772828932518:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1772828932518:collect()
+1772828932519:)
+1772828952659:ggplot(goose_data, aes(x = Month, y = total_geese, group = Year, color = Year)) +
+1772828952660:geom_line(alpha = 0.5, show.legend = FALSE) +
+1772828952660:labs(
+1772828952660:title = "Canada Goose Migration Patterns in New York Since 1988",
+1772828952660:x = "Month",
+1772828952660:y = "Number of Geese Observed"
+1772828952661:)
+1772828984473:source("~/Exam 1-Feed/Feedwatch.R")
+1772829046812:#Connect to FeederWatch datasets
+1772829046812:birddataset <- list(
+1772829046812:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1772829046812:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1772829046812:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1772829046812:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1772829046813:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1772829046813:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1772829046813:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1772829046813:)
+1772829046877:#Inspect dataset structure
+1772829046877:lapply(birddataset, glimpse)
+1772829059877:goose_data <- map_dfr(birddataset, ~ .x |>
+1772829059877:filter(SPECIES_CODE == "cangoo",
+1772829059877:SUBNATIONAL1_CODE == "US_NY") |>
+1772829059877:group_by(Year, Month) |>
+1772829059878:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1772829059878:collect()
+1772829059878:)
+1772829075755:ggplot(goose_data, aes(x = Month, y = total_geese, group = Year)) +
+1772829075755:geom_line(alpha = 0.3) +
+1772829075755:labs(
+1772829075755:title = "Canada Goose Migration Patterns in New York Since 1988",
+1772829075755:x = "Month",
+1772829075755:y = "Number of Geese Observed"
+1772829075755:)
+1772829075851:goose_data <- map_dfr(birddataset, ~ .x |>
+1772829075851:filter(SPECIES_CODE == "cangoo",
+1772829075852:SUBNATIONAL1_CODE == "US_NY") |>
+1772829075852:group_by(Year, Month) |>
+1772829075852:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1772829075852:collect()
+1772829075852:)
+1772829091881:ggplot(goose_data, aes(x = Month, y = total_geese, group = Year)) +
+1772829091882:geom_line(alpha = 0.3) +
+1772829091882:labs(
+1772829091882:title = "Canada Goose Migration Patterns in New York Since 1988",
+1772829091882:x = "Month",
+1772829091882:y = "Number of Geese Observed"
+1772829091882:)
+1772829110738:goose_data <- map_dfr(birddataset, ~ .x |>
+1772829110738:filter(SPECIES_CODE == "cangoo",
+1772829110738:SUBNATIONAL1_CODE == "US_NY") |>
+1772829110738:group_by(Year, Month) |>
+1772829110738:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1772829110738:collect()
+1772829110739:)
+1772829127240:goose_avg <- goose_data |>
+1772829127240:group_by(Month) |>
+1772829127241:summarise(avg_geese = mean(total_geese, na.rm = TRUE))
+1772829127252:ggplot(goose_avg, aes(x = Month, y = avg_geese)) +
+1772829127252:geom_line(linewidth = 1.2) +
+1772829127253:geom_point() +
+1772829127253:labs(
+1772829127253:title = "Average Seasonal Migration Pattern of Canada Geese in New York",
+1772829127253:x = "Month",
+1772829127253:y = "Average Number of Geese Observed"
+1772829127253:)
+1772829235430:nrow(goose_data)
+1773005650750:library(tidyverse)
+1773005650752:library(arrow)
+1773005650752:library(ggplot2)
+1773005650752:#Connect to FeederWatch datasets
+1773005650752:birddataset <- list(
+1773005650753:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773005650753:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773005650753:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773005650753:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773005650753:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773005650753:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773005650753:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773005650753:)
+1773005650864:#Inspect dataset structure
+1773005650864:lapply(birddataset, glimpse)
+1773005693361:colnames(birddataset)
+1773005693365:#Question 1-How did bird observations change before and after Hurricane Sandy in
+1773005693366:#New Jersey and New York
+1773005693366:storm_birds <- map_dfr(birddataset, function(x) {
+1773005693366:x |>
+1773005693366:group_by(Year) |>
+1773005693366:summarise(total_birds = sum(HOW_MANY, na.rm = TRUE)) |>
+1773005693366:collect()
+1773005693366:})
+1773005935790:library(tidyverse)
+1773005935791:library(arrow)
+1773005935791:birddataset <- open_dataset("~/../shared/feederwatch/", format = "csv")
+1773005935833:goose_data <- birddataset |>
+1773005935833:filter(SPECIES_CODE == "cangoo") |>
+1773005935833:group_by(Year, Month) |>
+1773005935833:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE)) |>
+1773005935833:collect()
+1773006194659:library(tidyverse)
+1773006194664:library(arrow)
+1773006194665:birddataset <- open_dataset("~/../shared/feederwatch/", format = "csv")
+1773006194675:goose_data <- birddataset |>
+1773006194675:filter(SUBNATIONAL1_CODE == "NY",
+1773006194675:SPECIES_CODE == "cangoo") |>
+1773006194675:group_by(Year, Month) |>
+1773006194675:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE)) |>
+1773006194675:collect()
+1773006375190:library(tidyverse)
+1773006375191:library(arrow)
+1773006375191:birddataset <- open_dataset("~/../shared/feederwatch/", format = "csv",
+1773006375191:convert_options = csv_convert_options(null_values = c("", "NA")
+1773006375191:)
+1773006424917:#Julia Frost
+1773006424917:library(tidyverse)
+1773006508818:# Julia Frost
+1773006508818:library(tidyverse)
+1773006508819:library(arrow)
+1773006508819:birddataset <- open_dataset(
+1773006508819:"~/../shared/feederwatch/",
+1773006508819:format = "csv",
+1773006508819:convert_options = csv_convert_options(null_values = c("", "NA"))
+1773006508819:)
+1773006508831:goose_data <- birddataset |>
+1773006508831:filter(SUBNATIONAL1_CODE == "US_NY",
+1773006508831:SPECIES_CODE == "cangoo") |>
+1773006508832:group_by(Year, Month) |>
+1773006508832:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE)) |>
+1773006508832:collect()
+1773006605811:library(tidyverse)
+1773006605812:library(arrow)
+1773006605812:birddataset <- open_dataset(
+1773006605812:"~/../shared/feederwatch/",
+1773006605813:format = "csv",
+1773006605813:convert_options = CsvConvertOptions(
+1773006605813:null_values = c("", "NA"),
+1773006605813:strings_can_be_null = TRUE
+1773006605813:)
+1773006605813:)
+1773006617872:library(tidyverse)
+1773006617872:library(arrow)
+1773006617872:birddataset <- open_dataset(
+1773006617872:"~/../shared/feederwatch/",
+1773006617873:format = "csv",
+1773006617873:convert_options = csvconvertoptions(
+1773006617873:null_values = c("", "NA"),
+1773006617873:strings_can_be_null = TRUE
+1773006617873:)
+1773006617873:)
+1773006638117:library(tidyverse)
+1773006638118:library(arrow)
+1773006638118:birddataset <- open_dataset(
+1773006638118:"~/../shared/feederwatch/",
+1773006638118:format = "csv",
+1773006638118:convert_options = csv_convert_options(
+1773006638118:null_values = c("", "NA"),
+1773006638119:strings_can_be_null = TRUE
+1773006638119:)
+1773006638119:)
+1773006644711:library(tidyverse)
+1773006644712:library(arrow)
+1773006644712:birddataset <- open_dataset(
+1773006644712:"~/../shared/feederwatch/",
+1773006644712:format = "csv",
+1773006644712:convert_options = csv_convert_options(
+1773006644712:null_values = c("", "NA"),
+1773006644712:strings_can_be_null = TRUE
+1773006644713:)
+1773006644713:)
+1773006653095:library(tidyverse)
+1773006653095:library(arrow)
+1773006653095:birddataset <- open_dataset(
+1773006653095:"~/../shared/feederwatch/",
+1773006653096:format = "csv",
+1773006653096:convert_options = csv_convert_options(
+1773006653096:null_values = c("", "NA"),
+1773006653096:strings_can_be_null = TRUE
+1773006653096:)
+1773006653096:)
+1773006653108:goose_data <- birddataset |>
+1773006653109:filter(SUBNATIONAL1_CODE == "US_NY",
+1773006653109:SPECIES_CODE == "cangoo") |>
+1773006653109:group_by(Year, Month) |>
+1773006653109:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE)) |>
+1773006653109:collect()
+1773006748917:library(tidyverse)
+1773006748922:library(arrow)
+1773006748923:birddataset <- open_dataset(
+1773006748923:"~/../shared/feederwatch/",
+1773006748923:format = "csv",
+1773006748923:convert_options = csv_convert_options(
+1773006748923:null_values = c("", "NA"),
+1773006748923:strings_can_be_null = TRUE,
+1773006748923:quoted_strings_can_be_null = TRUE
+1773006748923:)
+1773006748924:)
+1773006763595:library(tidyverse)
+1773006763595:library(arrow)
+1773006763595:birddataset <- open_dataset(
+1773006763595:"~/../shared/feederwatch/",
+1773006763596:format = "csv",
+1773006763596:convert_options = csv_convert_options(
+1773006763596:null_values = c("", "NA"),
+1773006763596:strings_can_be_null = TRUE
+1773006763596:)
+1773006763596:)
+1773006769143:goose_data <- birddataset |>
+1773006769143:filter(SUBNATIONAL1_CODE == "US_NY",
+1773006769143:SPECIES_CODE == "cangoo") |>
+1773006769143:group_by(Year, Month) |>
+1773006769144:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE)) |>
+1773006769144:collect()
+1773006795771:library(ggplot2)
+1773006802796:library(tidyverse)
+1773006802796:library(arrow)
+1773006802796:library(ggplot2)
+1773006802797:birddataset <- open_dataset(
+1773006802797:"~/../shared/feederwatch/",
+1773006802797:format = "csv",
+1773006802797:convert_options = csv_convert_options(
+1773006802797:null_values = c("", "NA"),
+1773006802797:strings_can_be_null = TRUE
+1773006802797:)
+1773006802798:)
+1773006802810:goose_data <- birddataset |>
+1773006802810:filter(SUBNATIONAL1_CODE == "US_NY",
+1773006802810:SPECIES_CODE == "cangoo") |>
+1773006802810:group_by(Year, Month) |>
+1773006802810:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE)) |>
+1773006802810:collect()
+1773006924660:# Julia Frost
+1773006924661:# Canada Goose Peak Migration in New York
+1773006924661:library(tidyverse)
+1773006924662:library(arrow)
+1773006924662:# Load the FeederWatch dataset from the shared folder
+1773006924662:birddataset <- open_dataset(
+1773006924662:"~/../shared/feederwatch/",
+1773006924662:format = "csv",
+1773006924662:skip = 1,
+1773006924662:convert_options = CsvConvertOptions(
+1773006924663:null_values = c("", "NA"),
+1773006924663:strings_can_be_null = TRUE
+1773006924663:)
+1773006924663:)
+1773006947095:# Julia Frost
+1773006947095:# Canada Goose Peak Migration in New York
+1773006947095:library(tidyverse)
+1773006947096:library(arrow)
+1773006947096:# Load the FeederWatch dataset from the shared folder
+1773006947096:birddataset <- open_dataset(
+1773006947096:"~/../shared/feederwatch/",
+1773006947096:format = "csv",
+1773006947096:skip = 1,
+1773006947097:convert_options = csv_convert_options(
+1773006947097:null_values = c("", "NA"),
+1773006947097:strings_can_be_null = TRUE
+1773006947097:)
+1773006947097:)
+1773006996135:# Julia Frost
+1773006996136:# Canada Goose Peak Migration in New York
+1773006996136:library(tidyverse)
+1773006996137:library(arrow)
+1773006996137:#Connect to FeederWatch datasets
+1773006996137:birddataset <- list(
+1773006996138:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773006996138:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773006996138:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773006996138:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773006996138:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773006996139:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773006996141:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773006996141:)
+1773006996277:#Inspect dataset structure
+1773006996277:lapply(birddataset, glimpse)
+1773007045010:# Filter for Canada geese in New York and summarize counts
+1773007045011:goose_data <- birddataset |>
+1773007045011:filter(SUBNATIONAL1_CODE == "US_NY",
+1773007045011:SPECIES_CODE == "cangoo") |>
+1773007045011:group_by(Year, Month) |>
+1773007045012:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE)) |>
+1773007045012:collect()
+1773007143909:# Julia Frost
+1773007143911:# Canada Goose Peak Migration in New York
+1773007143911:library(tidyverse)
+1773007143911:# Find all feederwatch files
+1773007143911:files <- list.files(
+1773007143912:"~/../shared/feederwatch/",
+1773007143912:pattern = "PFW_.*csv",
+1773007143912:full.names = TRUE
+1773007143912:)
+1773007143912:# Read and combine all datasets
+1773007143912:birddataset <- map_dfr(files, read_csv, show_col_types = FALSE)
+1773007524991:#Julia Frost
+1773007524997:#FeederWatch Data Analysis
+1773007524998:#Graphing Bird Population Patterns
+1773007524998:library(tidyverse)
+1773007525934:library(arrow)
+1773007525950:library(ggplot2)
+1773007525950:#Connect to FeederWatch datasets
+1773007525950:birddataset <- list(
+1773007525950:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773007525951:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773007525951:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773007525951:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773007525951:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773007525951:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773007525951:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773007525951:)
+1773007526130:#Inspect dataset structure
+1773007526130:lapply(birddataset, glimpse)
+1773007606820:storm_birds <- map_dfr(birddataset, function(x) {
+1773007606821:x |>
+1773007606821:group_by(Year) |>
+1773007606821:summarise(total_birds = sum(HOW_MANY, na.rm = TRUE)) |>
+1773007606821:collect()
+1773007606821:})
+1773007676815:#Julia Frost
+1773007676815:#FeederWatch Data Analysis
+1773007676815:#Graphing Bird Population Patterns
+1773007676815:library(tidyverse)
+1773007676816:library(arrow)
+1773007676816:library(ggplot2)
+1773007676816:#Connect to FeederWatch datasets
+1773007676817:birddataset <- list(
+1773007676817:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773007676817:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773007676817:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773007676817:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773007676818:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773007676818:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773007676818:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773007676818:)
+1773007676945:#Inspect dataset structure
+1773007676945:lapply(birddataset, glimpse)
+1773007705109:colnames(birddataset)
+1773007705113:#Question 1-How did bird observations change before and after Hurricane Sandy in
+1773007705114:#New Jersey and New York
+1773007711633:goose_data <- map_dfr(birddataset, ~ .x |>
+1773007711633:filter(SPECIES_CODE == "cangoo",
+1773007711633:SUBNATIONAL1_CODE == "US_NY") |>
+1773007711633:group_by(Year, Month) |>
+1773007711634:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773007711634:collect()
+1773007711634:)
+1773009096056:library(tidyverse)
+1773009096057:library(arrow)
+1773009096057:library(ggplot2)
+1773009096058:#Connect to FeederWatch datasets
+1773009096058:birddataset <- list(
+1773009096058:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773009096058:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773009096058:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773009096058:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773009096058:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773009096058:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773009096058:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773009096058:)
+1773009096191:#Inspect dataset structure
+1773009096191:lapply(birddataset, glimpse)
+1773009129236:colnames(birddataset)
+1773009129238:#Question 1-How did bird observations change before and after Hurricane Sandy in
+1773009129238:#New Jersey and New York
+1773009129238:storm_birds <- map_dfr(birddataset, function(x) {
+1773009129238:x |>
+1773009129238:group_by(Year) |>
+1773009129239:summarise(total_birds = sum(HOW_MANY, na.rm = TRUE)) |>
+1773009129239:collect()
+1773009129239:})
+1773009158725:ggplot(storm_birds, aes(x = Year, y = total_birds)) +
+1773009158725:geom_line() +
+1773009158725:geom_vline(xintercept = 2012, linetype = "dashed", color = "red") +
+1773009158725:labs(
+1773009158725:title = "Bird Observations Before and After Hurricane Sandy",
+1773009158725:x = "Year",
+1773009158725:y = "Total Birds Observed"
+1773009158725:)
+1773009256409:names(birddataset[[1]])
+1773009298256:birddataset[[1]] |>
+1773009298257:head(10) |>
+1773009298257:collect()
+1773009364500:# Question 2
+1773009364501:# How has Canada Goose migration changed since 1988?
+1773009364501:goose_data <- map_dfr(birddataset, ~ .x |>
+1773009364501:filter(SPECIES_CODE == "cangoo", SUBNATIONAL1_CODE == "US-NY") |>
+1773009364501:group_by(Year, Month) |>
+1773009364502:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE)) |>
+1773009364502:collect()
+1773009364502:)
+1773009397641:ggplot(goose_data, aes(x = Month, y = total_geese, group = Year)) +
+1773009397642:geom_line(alpha = 0.3) +
+1773009397642:labs(
+1773009397643:title = "Canada Goose Migration Patterns Since 1988",
+1773009397643:x = "Month",
+1773009397643:y = "Number of Geese Observed"
+1773009397643:)
+1773009717766:source("~/Exam 1-Feed/Feedwatch.R")
+1773010150516:#Julia Frost
+1773010150517:#FeederWatch Data Analysis
+1773010150517:#Graphing Bird Population Patterns
+1773010150517:library(tidyverse)
+1773010150518:library(arrow)
+1773010150518:library(ggplot2)
+1773010150518:#Connect to FeederWatch datasets
+1773010150518:birddataset <- list(
+1773010150519:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773010150519:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773010150519:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773010150519:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773010150519:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773010150519:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773010150519:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773010150519:)
+1773010150631:#View
+1773010150631:names(birddataset[[1]])
+1773010150633:birddataset[[1]] |>
+1773010150633:head(10) |>
+1773010150633:collect()
+1773010150700:#Question 1-How did bird observations change before and after Hurricane Sandy in
+1773010150700:#New Jersey and New York
+1773010150700:storm_birds <- map_dfr(birddataset, function(x) {
+1773010150701:x |>
+1773010150701:filter(SUBNATIONAL1_CODE == "US-NY") |>
+1773010150701:group_by(Year) |>
+1773010150701:summarise(total_birds = sum(HOW_MANY, na.rm = TRUE)) |>
+1773010150701:collect()
+1773010150701:}) |>
+1773010150701:group_by(Year) |>
+1773010150701:summarise (total_bird = sum(total_birds, na.rm = TRUE)) |>
+1773010150701:arrange(Year)
+1773010180514:ggplot(storm_birds, aes(x = Year, y = total_birds)) +
+1773010180514:geom_line(color = "steelblue", linewidth = 1) +
+1773010180515:geom_point(color = "steelblue", size = 2) +
+1773010180515:geom_vline(xintercept = 2012, linetype = "dashed", color = "red", linewidth = 1) +
+1773010180515:annotate("text", x = 2012.2, y = max(storm_birds$total_birds, na.rm = TRUE),
+1773010180515:labs(
+1773010180515:title = "Bird Observations Before and After Hurricane Sandy",
+1773010180515:x = "Year",
+1773010180515:y = "Total Birds Observed"
+1773010180515:)
+1773010183614:#Julia Frost
+1773010183614:#FeederWatch Data Analysis
+1773010183614:#Graphing Bird Population Patterns
+1773010183615:library(tidyverse)
+1773010540957:#Julia Frost
+1773010540957:#FeederWatch Data Analysis
+1773010540957:#Graphing Bird Population Patterns
+1773010540958:library(tidyverse)
+1773010540958:library(arrow)
+1773010540958:library(ggplot2)
+1773010540958:#Connect to FeederWatch datasets
+1773010540958:birddataset <- list(
+1773010540959:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773010540959:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773010540959:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773010540959:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773010540959:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773010540959:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773010540959:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773010540959:)
+1773010541036:#View
+1773010541036:names(birddataset[[1]])
+1773010541037:birddataset[[1]] |>
+1773010541037:head(10) |>
+1773010541037:collect()
+1773010541079:#Question 1-How did bird observations change before and after Hurricane Sandy in
+1773010541079:#New Jersey and New York
+1773010541079:# Collect raw yearly NY data (don't pre-summarise — boxplot needs the spread)
+1773010541079:storm_birds_raw <- map_dfr(birddataset, function(x) {
+1773010541080:x |>
+1773010541080:filter(SUBNATIONAL1_CODE == "US-NY") |>
+1773010541080:select(Year, HOW_MANY) |>
+1773010541080:collect()
+1773010541080:})
+1773010578260:# Add a before/after Sandy label
+1773010578261:storm_birds_raw <- storm_birds_raw |>
+1773010578261:mutate(period = ifelse(Year < 2012, "Before Sandy", "After Sandy"),
+1773010578261:period = factor(period, levels = c("Before Sandy", "After Sandy")))
+1773010579766:# Box plot
+1773010579770:ggplot(storm_birds_raw, aes(x = period, y = HOW_MANY, fill = period)) +
+1773010579770:geom_boxplot(outlier.alpha = 0.3) +
+1773010579770:scale_fill_manual(values = c("Before Sandy" = "steelblue", "After Sandy" = "tomato")) +
+1773010579770:labs(
+1773010579771:title = "Bird Observations in New York Before and After Hurricane Sandy",
+1773010579771:x = "",
+1773010579771:y = "Birds Observed per Report",
+1773010579771:fill = "Period"
+1773010579771:) +
+1773010579771:theme_minimal() +
+1773010579772:theme(legend.position = "none")
+1773010606967:#Julia Frost
+1773010606976:#FeederWatch Data Analysis
+1773010606976:#Graphing Bird Population Patterns
+1773010606977:library(tidyverse)
+1773010606977:library(arrow)
+1773010606977:library(ggplot2)
+1773010606977:#Connect to FeederWatch datasets
+1773010606977:birddataset <- list(
+1773010606977:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773010606977:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773010606978:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773010606978:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773010606978:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773010606978:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773010606979:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773010606979:)
+1773010607244:#View
+1773010607244:names(birddataset[[1]])
+1773010607245:birddataset[[1]] |>
+1773010607245:head(10) |>
+1773010607245:collect()
+1773010607288:#Question 1-How did bird observations change before and after Hurricane Sandy in
+1773010607288:#New Jersey and New York
+1773010607288:# Collect raw yearly NY data (don't pre-summarise — boxplot needs the spread)
+1773010607288:storm_birds_raw <- map_dfr(birddataset, function(x) {
+1773010607289:x |>
+1773010607289:filter(SUBNATIONAL1_CODE == "US-NY") |>
+1773010607289:select(Year, HOW_MANY) |>
+1773010607289:collect()
+1773010607289:})
+1773010650193:# Add a before/after Sandy label
+1773010650194:storm_birds_raw <- storm_birds_raw |>
+1773010650194:mutate(period = ifelse(Year < 2012, "Before Sandy", "After Sandy"),
+1773010650194:period = factor(period, levels = c("Before Sandy", "After Sandy")))
+1773010650688:# Box plot
+1773010650688:ggplot(storm_birds_raw, aes(x = period, y = HOW_MANY, fill = period)) +
+1773010650688:geom_boxplot(outlier.alpha = 0.3) +
+1773010650688:scale_fill_manual(values = c("Before Sandy" = "steelblue", "After Sandy" = "tomato")) +
+1773010650689:labs(
+1773010650689:title = "Bird Observations in New York Before and After Hurricane Sandy",
+1773010650689:x = "",
+1773010650689:y = "Birds Observed per Report",
+1773010650689:fill = "Period"
+1773010650689:) +
+1773010650690:theme_minimal() +
+1773010650690:theme(legend.position = "none")
+1773010763345:# Collect raw yearly NY data (don't pre-summarise — boxplot needs the spread)
+1773010763346:storm_birds_raw <- map_dfr(birddataset, function(x) {
+1773010763346:x |>
+1773010763346:filter(SUBNATIONAL1_CODE == "US-NY") |>
+1773010763346:select(Year, HOW_MANY) |>
+1773010763346:collect()
+1773010763346:})
+1773010832445:# Add a before/after Sandy label
+1773010832446:storm_birds_raw <- storm_birds_raw |>
+1773010832446:mutate(period = ifelse(Year < 2012, "Before Sandy", "After Sandy"),
+1773010832446:period = factor(period, levels = c("Before Sandy", "After Sandy")))
+1773010832938:# Box plot
+1773010832938:ggplot(storm_birds_raw, aes(x = period, y = HOW_MANY, fill = period)) +
+1773010832938:geom_boxplot(outlier.alpha = 0.3) +
+1773010832938:scale_fill_manual(values = c("Before Sandy" = "steelblue", "After Sandy" = "tomato")) +
+1773010832938:labs(
+1773010832938:title = "Bird Observations in New York Before and After Hurricane Sandy",
+1773010832938:x = "",
+1773010832938:y = "Birds Observed per Report",
+1773010832938:fill = "Period"
+1773010832939:)
+1773010841828:# Collect raw yearly NY data (don't pre-summarise — boxplot needs the spread)
+1773010841828:storm_birds_raw <- map_dfr(birddataset, function(x) {
+1773010841828:x |>
+1773010841828:filter(SUBNATIONAL1_CODE == "US-NY") |>
+1773010841828:select(Year, HOW_MANY) |>
+1773010841829:collect()
+1773010841829:})
+1773011017942:#Julia Frost
+1773011017943:#FeederWatch Data Analysis
+1773011017943:#Graphing Bird Population Patterns
+1773011017943:library(tidyverse)
+1773011017944:library(arrow)
+1773011017944:library(ggplot2)
+1773011017944:#Connect to FeederWatch datasets
+1773011017944:birddataset <- list(
+1773011017944:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773011017944:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773011017944:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773011017944:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773011017944:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773011017944:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773011017945:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773011017945:)
+1773011018085:#View
+1773011018085:names(birddataset[[1]])
+1773011018086:birddataset[[1]] |>
+1773011018087:head(10) |>
+1773011018087:collect()
+1773011018150:#Question 1-How did bird observations change before and after Hurricane Sandy in
+1773011018150:#New Jersey and New York
+1773011018151:# Collect raw yearly NY data (don't pre-summarise — boxplot needs the spread)
+1773011018151:storm_birds_raw <- map_dfr(birddataset, function(x) {
+1773011018151:x |>
+1773011018151:filter(SUBNATIONAL1_CODE == "US-NY") |>
+1773011018151:select(Year, HOW_MANY) |>
+1773011018151:collect()
+1773011018151:})
+1773011052461:storm_birds_raw <- map_dfr(birddataset, function(x) {
+1773011052461:x |>
+1773011052462:filter(SUBNATIONAL1_CODE == "US-NY",
+1773011052462:Year %in% c(2011, 2013)) |>        # ← Only pull 2011 and 2013
+1773011052462:select(Year, HOW_MANY) |>
+1773011052462:collect()
+1773011052462:})
+1773011073208:# Label by year
+1773011073208:storm_birds_raw <- storm_birds_raw |>
+1773011073208:mutate(period = ifelse(Year == 2011, "Before Sandy (2011)", "After Sandy (2013)"),
+1773011073208:period = factor(period, levels = c("Before Sandy (2011)", "After Sandy (2013)")))
+1773011073245:# Box plot
+1773011073245:ggplot(storm_birds_raw, aes(x = period, y = HOW_MANY, fill = period)) +
+1773011073245:geom_boxplot(outlier.alpha = 0.3) +
+1773011073246:scale_fill_manual(values = c("Before Sandy (2011)" = "steelblue", "After Sandy (2013)" = "tomato")) +
+1773011073246:labs(
+1773011073246:title = "Bird Observations in New York Before and After Hurricane Sandy",
+1773011073246:x = "",
+1773011073246:y = "Birds Observed per Report",
+1773011073246:fill = "Period"
+1773011073246:) +
+1773011073246:theme_minimal() +
+1773011073246:theme(legend.position = "none")
+1773011154063:#Julia Frost
+1773011154064:#FeederWatch Data Analysis
+1773011154064:#Graphing Bird Population Patterns
+1773011154064:library(tidyverse)
+1773011154064:library(arrow)
+1773011154065:library(ggplot2)
+1773011154065:#Connect to FeederWatch datasets
+1773011154065:birddataset <- list(
+1773011154065:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773011154065:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773011154065:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773011154065:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773011154065:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773011154065:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773011154066:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773011154066:)
+1773011154141:#View
+1773011154141:names(birddataset[[1]])
+1773011154142:birddataset[[1]] |>
+1773011154142:head(10) |>
+1773011154142:collect()
+1773011154180:#Question 1-How did bird observations change before and after Hurricane Sandy in
+1773011154180:#New Jersey and New York
+1773011154180:storm_birds_raw <- map_dfr(birddataset, function(x) {
+1773011154180:x |>
+1773011154180:filter(SUBNATIONAL1_CODE == "US-NY",
+1773011154181:Year %in% c(2011, 2013)) |>
+1773011154181:select(Year, HOW_MANY) |>
+1773011154181:collect()
+1773011154181:}) |>
+1773011154181:filter(!is.na(HOW_MANY)) |>
+1773011154181:mutate(period = ifelse(Year == 2011, "Before Sandy (2011)", "After Sandy (2013)"),
+1773011154181:period = factor(period, levels = c("Before Sandy (2011)", "After Sandy (2013)")))
+1773011199349:source("~/Exam 1-Feed/Feedwatch.R")
+1773011248027:library(tidyverse)
+1773011248028:library(arrow)
+1773011248029:library(ggplot2)
+1773011248029:#Connect to FeederWatch datasets
+1773011248029:birddataset <- list(
+1773011248029:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773011248029:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773011248029:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773011248030:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773011248030:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773011248030:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773011248030:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773011248030:)
+1773011248096:#View
+1773011248096:names(birddataset[[1]])
+1773011248097:birddataset[[1]] |>
+1773011248097:head(10) |>
+1773011248097:collect()
+1773011248157:#Question 1-How did bird observations change before and after Hurricane Sandy in
+1773011248158:#New Jersey and New York
+1773011248158:storm_birds_raw <- map_dfr(birddataset, function(x) {
+1773011248158:x |>
+1773011248158:filter(SUBNATIONAL1_CODE == "US-NY",
+1773011248158:Year %in% c(2011, 2013)) |>
+1773011248158:select(Year, HOW_MANY) |>
+1773011248158:collect()
+1773011248158:}) |>
+1773011248158:filter(!is.na(HOW_MANY)) |>
+1773011248159:mutate(period = ifelse(Year == 2011, "Before Sandy (2011)", "After Sandy (2013)"),
+1773011248159:period = factor(period, levels = c("Before Sandy (2011)", "After Sandy (2013)")))
+1773011263929:# Check data loaded correctly
+1773011263929:print(head(storm_birds_raw))
+1773011263939:print(table(storm_birds_raw$period))
+1773011263944:# Box plot with error bars
+1773011263944:ggplot(storm_birds_raw, aes(x = period, y = HOW_MANY, fill = period)) +
+1773011263944:stat_boxplot(geom = "errorbar", width = 0.25) +          # ← error bar whiskers
+1773011263944:geom_boxplot(outlier.shape = NA) +                        # ← hide outliers to see box clearly
+1773011263945:scale_y_continuous(limits = quantile(storm_birds_raw$HOW_MANY, c(0.05, 0.95), na.rm = TRUE)) +  # ← zoom to 5th-95th percentile
+1773011263945:scale_fill_manual(values = c("Before Sandy (2011)" = "steelblue", "After Sandy (2013)" = "tomato")) +
+1773011263945:labs(
+1773011263945:title = "Bird Observations in New York Before and After Hurricane Sandy",
+1773011263945:x = "",
+1773011263945:y = "Birds Observed per Report",
+1773011263946:fill = "Period"
+1773011263946:) +
+1773011263946:theme_minimal() +
+1773011263946:theme(legend.position = "none")
+1773011292935:names(birddataset[[1]])
+1773011292937:birddataset[[1]] |>
+1773011292937:head(10) |>
+1773011292937:collect()
+1773011353201:source("~/Exam 1-Feed/Feedwatch.R")
+1773011535527:#View
+1773011535528:names(birddataset[[1]])
+1773011535530:birddataset[[1]] |>
+1773011535530:head(10) |>
+1773011535530:collect()
+1773011535588:storm_birds_raw <- map_dfr(birddataset, function(x) {
+1773011535588:x |>
+1773011535588:filter(SUBNATIONAL1_CODE %in% c("US-NY", "US-NJ"),
+1773011535588:Year %in% c(2008:2011, 2013:2016)) |>
+1773011535588:select(Year, HOW_MANY, SUBNATIONAL1_CODE, SPECIES_CODE) |>
+1773011535589:collect()
+1773011535589:}) |>
+1773011535589:filter(!is.na(HOW_MANY)) |>
+1773011535589:mutate(
+1773011535589:period = ifelse(Year <= 2011, "Before Sandy", "After Sandy"),
+1773011535589:period = factor(period, levels = c("Before Sandy", "After Sandy"))
+1773011535589:)
+1773011575817:library(tidyverse)
+1773011575817:library(arrow)
+1773011575817:library(ggplot2)
+1773011575818:#Connect to FeederWatch datasets
+1773011575818:birddataset <- list(
+1773011575818:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773011575818:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773011575819:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773011575819:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773011575819:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773011575819:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773011575819:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773011575819:)
+1773011575924:#View
+1773011575924:names(birddataset[[1]])
+1773011575925:birddataset[[1]] |>
+1773011575925:head(10) |>
+1773011575925:collect()
+1773011575996:storm_birds_raw <- map_dfr(birddataset, function(x) {
+1773011575996:x |>
+1773011575997:filter(SUBNATIONAL1_CODE %in% c("US-NY", "US-NJ"),
+1773011575997:Year %in% c(2008:2011, 2013:2016)) |>
+1773011575997:select(Year, HOW_MANY, SUBNATIONAL1_CODE, SPECIES_CODE) |>
+1773011575997:collect()
+1773011575997:}) |>
+1773011575997:filter(!is.na(HOW_MANY)) |>
+1773011575997:mutate(
+1773011575998:period = ifelse(Year <= 2011, "Before Sandy", "After Sandy"),
+1773011575998:period = factor(period, levels = c("Before Sandy", "After Sandy"))
+1773011575998:)
+1773011593113:# Birds per checklist by year (normalized)
+1773011593114:yearly_summary <- storm_birds_raw |>
+1773011593114:group_by(Year, period, SUBNATIONAL1_CODE) |>
+1773011593114:summarise(
+1773011593114:birds_per_checklist = sum(HOW_MANY) / n(),
+1773011593114:species_richness = n_distinct(SPECIES_CODE),
+1773011593114:.groups = "drop"
+1773011593115:)
+1773011593203:# Box plot — normalized, split by state
+1773011593203:ggplot(storm_birds_raw, aes(x = period, y = HOW_MANY, fill = period)) +
+1773011593204:stat_boxplot(geom = "errorbar", width = 0.25) +
+1773011593204:geom_boxplot(outlier.shape = NA) +
+1773011593204:scale_y_continuous(
+1773011593204:limits = quantile(storm_birds_raw$HOW_MANY, c(0.05, 0.95), na.rm = TRUE)
+1773011593204:) +
+1773011593204:scale_fill_manual(values = c("Before Sandy" = "steelblue", "After Sandy" = "tomato")) +
+1773011593204:facet_wrap(~ SUBNATIONAL1_CODE) +                         # ← side by side NY vs NJ
+1773011593204:labs(
+1773011593204:title = "Bird Observations Before and After Hurricane Sandy (2008–2016)",
+1773011593205:subtitle = "New York and New Jersey | Outliers hidden for clarity",
+1773011593205:x = "",
+1773011593205:y = "Birds Observed per Report"
+1773011593205:) +
+1773011593205:theme_minimal() +
+1773011593205:theme(legend.position = "none")
+1773011798112:# Pull NY/NJ data for 2008-2016, excluding Sandy year itself
+1773011798113:top_species <- map_dfr(birddataset, function(x) {
+1773011798113:x |>
+1773011798113:filter(SUBNATIONAL1_CODE %in% c("US-NY", "US-NJ"),
+1773011798113:Year %in% c(2008:2011, 2013:2016)) |>
+1773011798113:select(Year, HOW_MANY, SUBNATIONAL1_CODE, SPECIES_CODE) |>
+1773011798113:collect()
+1773011798114:}) |>
+1773011798114:filter(!is.na(HOW_MANY)) |>
+1773011798114:mutate(
+1773011798114:period = ifelse(Year <= 2011, "Before Sandy", "After Sandy"),
+1773011798114:period = factor(period, levels = c("Before Sandy", "After Sandy"))
+1773011798114:)
+1773011813917:# Get top 10 species by total observations across both periods
+1773011813918:top10_species <- top_species |>
+1773011813918:group_by(SPECIES_CODE) |>
+1773011813918:summarise(total = sum(HOW_MANY, na.rm = TRUE)) |>
+1773011813918:slice_max(total, n = 10) |>
+1773011813918:pull(SPECIES_CODE)
+1773011813998:# Summarise counts for just those top 10, split by period
+1773011813998:top_species_summary <- top_species |>
+1773011813998:filter(SPECIES_CODE %in% top10_species) |>
+1773011813998:group_by(SPECIES_CODE, period) |>
+1773011813998:summarise(total_observed = sum(HOW_MANY, na.rm = TRUE), .groups = "drop")
+1773011814081:# Grouped bar chart
+1773011814081:ggplot(top_species_summary, aes(x = reorder(SPECIES_CODE, -total_observed),
+1773011814082:y = total_observed, fill = period)) +
+1773011814082:geom_col(position = "dodge") +
+1773011814082:scale_fill_manual(values = c("Before Sandy" = "steelblue", "After Sandy" = "tomato")) +
+1773011814082:labs(
+1773011814082:title = "Top 10 Most Observed Bird Species Around Hurricane Sandy",
+1773011814082:subtitle = "New York & New Jersey | 2008–2011 vs 2013–2016",
+1773011814083:x = "Species Code",
+1773011814083:y = "Total Birds Observed",
+1773011814083:fill = "Period"
+1773011814083:) +
+1773011814083:theme_minimal() +
+1773011814083:theme(axis.text.x = element_text(angle = 45, hjust = 1))
+1773012079197:goose_data <- map_dfr(birddataset, ~ .x |>
+1773012079197:filter(SPECIES_CODE == "CANGOO",
+1773012079197:SUBNATIONAL1_CODE == "US-NY") |>
+1773012079197:select(Year, Month, HOW_MANY) |>
+1773012079197:collect()
+1773012079197:) |>
+1773012079198:filter(!is.na(HOW_MANY)) |>
+1773012079198:group_by(Year, Month) |>
+1773012079198:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE), .groups = "drop")
+1773012102385:# Check it loaded correctly
+1773012102385:print(nrow(goose_data))
+1773012102386:print(head(goose_data))
+1773012136013:# Question 2
+1773012136014:# How has Canada Goose migration changed since 1988?
+1773012136014:# Pull Canada Goose data for New York since 1988
+1773012136014:goose_data <- map_dfr(birddataset, ~ .x |>
+1773012136014:filter(SPECIES_CODE == "cangoo",
+1773012136015:SUBNATIONAL1_CODE == "US-NY") |>
+1773012136015:select(Year, Month, HOW_MANY) |>
+1773012136015:collect()
+1773012136015:) |>
+1773012136015:filter(!is.na(HOW_MANY)) |>
+1773012136015:group_by(Year, Month) |>
+1773012136015:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE), .groups = "drop")
+1773012233043:library(tidyverse)
+1773012233045:library(arrow)
+1773012233045:library(ggplot2)
+1773012233045:#Connect to FeederWatch datasets
+1773012233045:birddataset <- list(
+1773012233045:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773012233045:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773012233045:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773012233046:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773012233046:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773012233046:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773012233046:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773012233046:)
+1773012233143:#View
+1773012233143:names(birddataset[[1]])
+1773012233144:birddataset[[1]] |>
+1773012233144:head(10) |>
+1773012233144:collect()
+1773012243101:# Question 2
+1773012243101:# How has Canada Goose migration changed since 1988?
+1773012243102:# Pull Canada Goose data for New York since 1988
+1773012243102:goose_data <- map_dfr(birddataset, ~ .x |>
+1773012243102:filter(SPECIES_CODE == "cangoo",
+1773012243102:SUBNATIONAL1_CODE == "US-NY") |>
+1773012243102:select(Year, Month, HOW_MANY) |>
+1773012243102:collect()
+1773012243102:) |>
+1773012243102:filter(!is.na(HOW_MANY)) |>
+1773012243103:group_by(Year, Month) |>
+1773012243103:summarise(total_geese = sum(HOW_MANY, na.rm = TRUE), .groups = "drop")
+1773012259528:# Check it loaded correctly
+1773012259529:print(nrow(goose_data))
+1773012259529:print(head(goose_data))
+1773012259539:ggplot(goose_data, aes(x = Month, y = factor(Year), fill = total_geese)) +
+1773012259539:geom_tile() +
+1773012259539:scale_fill_gradient(low = "white", high = "darkblue",   # ← white = few, dark = many
+1773012259540:name = "Geese Observed") +
+1773012259540:scale_x_continuous(breaks = 1:12,
+1773012259540:labels = c("Jan","Feb","Mar","Apr","May","Jun",
+1773012259540:"Jul","Aug","Sep","Oct","Nov","Dec")) +
+1773012259540:labs(
+1773012259540:title = "Canada Goose Observations in New York Since 1988",
+1773012259540:subtitle = "Darker tiles = more geese observed that month",
+1773012259540:x = "Month",
+1773012259540:y = "Year"
+1773012259540:) +
+1773012259541:theme_minimal() +
+1773012259541:theme(axis.text.y = element_text(size = 7))             # ← shrink year labels so they fit
+1773012517417:diversity_seasonal <- map_dfr(birddataset, ~ .x |>
+1773012517418:filter(SUBNATIONAL1_CODE == "US-NY") |>
+1773012517418:select(Year, Month, SPECIES_CODE) |>
+1773012517418:collect()
+1773012517418:) |>
+1773012517418:filter(!is.na(SPECIES_CODE)) |>
+1773012517418:mutate(season = case_when(
+1773012517418:Month %in% c(12, 1, 2)  ~ "Winter",
+1773012517418:Month %in% c(3, 4, 5)   ~ "Spring",
+1773012517419:Month %in% c(6, 7, 8)   ~ "Summer",
+1773012517419:Month %in% c(9, 10, 11) ~ "Fall"
+1773012517419:)) |>
+1773012517419:group_by(Year, season) |>
+1773012517419:summarise(unique_species = n_distinct(SPECIES_CODE), .groups = "drop")
+1773012533416:# Line chart split by season
+1773012533416:ggplot(diversity_seasonal, aes(x = Year, y = unique_species,
+1773012533417:color = season, group = season)) +
+1773012533417:geom_line(linewidth = 0.8) +
+1773012533417:geom_smooth(method = "loess", se = FALSE, linetype = "dashed",
+1773012533417:linewidth = 0.5) +
+1773012533417:scale_color_manual(values = c(
+1773012533417:"Winter" = "steelblue",
+1773012533418:"Spring" = "forestgreen",
+1773012533418:"Summer" = "goldenrod",
+1773012533418:"Fall"   = "tomato"
+1773012533418:)) +
+1773012533418:labs(
+1773012533418:title = "Bird Species Diversity in New York by Season Since 1988",
+1773012533419:subtitle = "Number of unique species observed per season per year",
+1773012533419:x = "Year",
+1773012533419:y = "Number of Unique Species",
+1773012533419:color = "Season"
+1773012533419:) +
+1773012533419:theme_minimal()
+1773012710531:# How has bird species diversity changed over time?
+1773012710532:# Pull species diversity data and assign decades
+1773012710532:diversity_decade <- map_dfr(birddataset, ~ .x |>
+1773012710532:filter(SUBNATIONAL1_CODE == "US-NY") |>
+1773012710532:select(Year, SPECIES_CODE) |>
+1773012710532:collect()
+1773012710532:) |>
+1773012710533:filter(!is.na(SPECIES_CODE)) |>
+1773012710533:mutate(decade = paste0(floor(Year / 10) * 10, "s")) |>   # ← creates "1980s", "1990s" etc.
+1773012710533:group_by(decade) |>
+1773012710533:summarise(
+1773012710533:unique_species = n_distinct(SPECIES_CODE),              # ← total unique species per decade
+1773012710533:.groups = "drop"
+1773012710533:) |>
+1773012710533:arrange(decade)
+1773012729312:# Check output
+1773012729312:print(diversity_decade)
+1773012821605:# Question 3
+1773012821605:# How has bird species diversity changed over time?
+1773012821605:# Pull species diversity data and assign decades
+1773012821605:diversity_decade <- map_dfr(birddataset, ~ .x |>
+1773012821605:filter(SUBNATIONAL1_CODE == "US-NY") |>
+1773012821606:select(Year, SPECIES_CODE) |>
+1773012821606:collect()
+1773012821606:) |>
+1773012821606:filter(!is.na(SPECIES_CODE)) |>
+1773012821606:mutate(decade = paste0(floor(Year / 10) * 10, "s")) |>
+1773012821606:group_by(decade) |>
+1773012821607:summarise(
+1773012821607:unique_species = n_distinct(SPECIES_CODE),
+1773012821607:.groups = "drop"
+1773012821607:) |>
+1773012821607:arrange(decade)
+1773012838331:# Check output
+1773012838332:print(diversity_decade)
+1773012838340:ggplot(diversity_decade, aes(x = decade, y = unique_species, fill = decade)) +
+1773012838340:geom_col(width = 0.6) +
+1773012838340:geom_text(aes(label = unique_species),                    # ← exact count on each bar
+1773012838340:vjust = -0.5, fontface = "bold", size = 4) +
+1773012838340:scale_fill_brewer(palette = "Blues") +
+1773012838341:scale_y_continuous(expand = expansion(mult = c(0, 0.1))) +# ← stops bars touching top
+1773012838341:annotate("text",                                          # ← flags incomplete decade
+1773012838341:x = which(diversity_decade$decade == "2020s"),
+1773012838341:y = diversity_decade$unique_species[diversity_decade$decade == "2020s"] * 0.5,
+1773012838341:label = "Incomplete\ndecade", color = "gray40", size = 3.5) +
+1773012838342:labs(
+1773012838342:title = "Total Unique Bird Species Observed in New York by Decade",
+1773012838342:subtitle = "FeederWatch data since 1988",
+1773012838342:x = "Decade",
+1773012838342:y = "Number of Unique Species"
+1773012838343:) +
+1773012838343:theme_minimal() +
+1773012838343:theme(
+1773012838343:legend.position = "none",
+1773012838343:axis.text.x = element_text(size = 11, face = "bold"),
+1773012838344:plot.title = element_text(face = "bold")
+1773012838344:)
+1773012890136:ggplot(diversity_decade, aes(x = decade, y = unique_species, fill = decade)) +
+1773012890136:geom_col(width = 0.6) +
+1773012890136:geom_text(aes(label = unique_species),                    # ← exact count on each bar
+1773012890136:vjust = -0.5, fontface = "bold", size = 4) +
+1773012890136:scale_fill_brewer(palette = "Blues") +
+1773012890136:scale_y_continuous(expand = expansion(mult = c(0, 0.1))) +# ← stops bars touching top
+1773012890136:annotate("text",                                          # ← flags incomplete decade
+1773012890137:x = which(diversity_decade$decade == "2020s"),
+1773012890137:y = diversity_decade$unique_species[diversity_decade$decade == "2020s"] * 0.5
+1773012890137:labs(
+1773012920172:print(diversity_decade)
+1773012920180:ggplot(diversity_decade, aes(x = decade, y = unique_species, fill = decade)) +
+1773012920180:geom_col(width = 0.6) +
+1773012920181:geom_text(aes(label = unique_species),                    # ← exact count on each bar
+1773012920181:vjust = -0.5, fontface = "bold", size = 4) +
+1773012920181:scale_fill_brewer(palette = "Blues") +
+1773012920181:scale_y_continuous(expand = expansion(mult = c(0, 0.1))) +# ← stops bars touching top
+1773012920181:annotate("text",                                          # ← flags incomplete decade
+1773012920181:x = which(diversity_decade$decade == "2020s"),
+1773012920181:y = diversity_decade$unique_species[diversity_decade$decade == "2020s"] *
+1773012920182:0.5)
+1773012952186:# Question 3
+1773012952187:# How has bird species diversity changed over time?
+1773012952187:# Pull species diversity data and assign decades
+1773012952187:diversity_decade <- map_dfr(birddataset, ~ .x |>
+1773012952187:filter(SUBNATIONAL1_CODE == "US-NY") |>
+1773012952187:select(Year, SPECIES_CODE) |>
+1773012952187:collect()
+1773012952187:) |>
+1773012952187:filter(!is.na(SPECIES_CODE)) |>
+1773012952188:mutate(decade = paste0(floor(Year / 10) * 10, "s")) |>
+1773012952188:group_by(decade) |>
+1773012952188:summarise(
+1773012952188:unique_species = n_distinct(SPECIES_CODE),
+1773012952188:.groups = "drop"
+1773012952188:) |>
+1773012952188:arrange(decade)
+1773012968928:# Check output
+1773012968928:print(diversity_decade)
+1773012968936:ggplot(diversity_decade, aes(x = decade, y = unique_species, fill = decade)) +
+1773012968936:geom_col(width = 0.6) +
+1773012968936:geom_text(aes(label = unique_species),                    # ← exact count on each bar
+1773012968936:vjust = -0.5, fontface = "bold", size = 4) +
+1773012968936:scale_fill_brewer(palette = "Blues") +
+1773012968937:scale_y_continuous(expand = expansion(mult = c(0, 0.1))) +# ← stops bars touching top
+1773012968937:annotate("text",                                          # ← flags incomplete decade
+1773012968937:x = which(diversity_decade$decade == "2020s"),
+1773012968937:y = diversity_decade$unique_species[diversity_decade$decade == "2020s"] * 0.5,
+1773012968937:label = "Incomplete\ndecade", color = "gray40", size = 3.5) +
+1773012968937:labs(
+1773012968937:title = "Total Unique Bird Species Observed in New York by Decade",
+1773012968938:subtitle = "FeederWatch data since 1988",
+1773012968938:x = "Decade",
+1773012968938:y = "Number of Unique Species"
+1773012968938:) +
+1773012968938:theme_minimal() +
+1773012968938:theme(
+1773012968938:legend.position = "none",
+1773012968939:axis.text.x = element_text(size = 11, face = "bold"),
+1773012968939:plot.title = element_text(face = "bold")
+1773012968939:)
+1773013056153:# Define Northeast states
+1773013056154:northeast_states <- c("US-NY", "US-NJ", "US-CT", "US-MA", "US-PA",
+1773013056154:"US-VT", "US-NH", "US-ME", "US-RI")
+1773013056154:# Pull and summarise observations by state
+1773013056154:northeast_birds <- map_dfr(birddataset, ~ .x |>
+1773013056154:filter(SUBNATIONAL1_CODE %in% northeast_states) |>
+1773013056154:select(SUBNATIONAL1_CODE, HOW_MANY) |>
+1773013056155:collect()
+1773013056155:) |>
+1773013056155:filter(!is.na(HOW_MANY)) |>
+1773013056155:group_by(SUBNATIONAL1_CODE) |>
+1773013056155:summarise(total_observed = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773013056155:mutate(
+1773013056155:state = recode(SUBNATIONAL1_CODE,                      # ← convert codes to full names
+1773013056155:"US-NY" = "New York",
+1773013056155:"US-NJ" = "New Jersey",
+1773013056156:"US-CT" = "Connecticut",
+1773013056156:"US-MA" = "Massachusetts",
+1773013056156:"US-PA" = "Pennsylvania",
+1773013056156:"US-VT" = "Vermont",
+1773013056156:"US-NH" = "New Hampshire",
+1773013056156:"US-ME" = "Maine",
+1773013056156:"US-RI" = "Rhode Island"
+1773013056156:)
+1773013056157:) |>
+1773013056157:arrange(desc(total_observed))
+1773013075034:# Check output
+1773013075035:print(northeast_birds)
+1773013075045:ggplot(northeast_birds, aes(x = reorder(state, total_observed),
+1773013075046:y = total_observed, fill = total_observed)) +
+1773013075046:geom_col(width = 0.6) +
+1773013075046:geom_text(aes(label = scales::comma(total_observed)),    # ← formatted numbers on bars
+1773013075046:hjust = -0.1, size = 3.5, fontface = "bold") +
+1773013075046:scale_fill_gradient(low = "lightblue", high = "darkblue") +
+1773013075046:scale_y_continuous(
+1773013075046:labels = scales::comma,
+1773013075047:expand = expansion(mult = c(0, 0.2))                   # ← room for labels on right
+1773013075047:) +
+1773013075047:coord_flip() +                                           # ← horizontal bars, easier to read state names
+1773013075047:labs(
+1773013075047:title = "Total Bird Observations by State in the Northeast",
+1773013075047:subtitle = "FeederWatch data since 1988",
+1773013075047:x = "",
+1773013075048:y = "Total Birds Observed"
+1773013075048:) +
+1773013075048:theme_minimal() +
+1773013075048:theme(
+1773013075048:legend.position = "none",
+1773013075048:axis.text.y = element_text(size = 11, face = "bold"),
+1773013075049:plot.title = element_text(face = "bold")
+1773013075049:)
+1773013172884:# Define Northeast states
+1773013172884:northeast_states <- c("US-NY", "US-NJ", "US-CT", "US-MA", "US-PA",
+1773013172884:"US-VT", "US-NH", "US-ME", "US-RI")
+1773013172885:# Pull and summarise observations by state
+1773013172885:northeast_birds <- map_dfr(birddataset, ~ .x |>
+1773013172885:filter(SUBNATIONAL1_CODE %in% northeast_states) |>
+1773013172885:select(SUBNATIONAL1_CODE, HOW_MANY) |>
+1773013172885:collect()
+1773013172885:) |>
+1773013172885:filter(!is.na(HOW_MANY)) |>
+1773013172885:group_by(SUBNATIONAL1_CODE) |>
+1773013172886:summarise(total_observed = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773013172886:mutate(
+1773013172886:state = recode(SUBNATIONAL1_CODE,                      # ← convert codes to full names
+1773013172886:"US-NY" = "New York",
+1773013172886:"US-NJ" = "New Jersey",
+1773013172886:"US-CT" = "Connecticut",
+1773013172886:"US-MA" = "Massachusetts",
+1773013172886:"US-VT" = "Vermont",
+1773013172887:"US-NH" = "New Hampshire",
+1773013172887:"US-ME" = "Maine",
+1773013172887:"US-RI" = "Rhode Island"
+1773013172887:)
+1773013172887:) |>
+1773013172887:arrange(desc(total_observed))
+1773013195006:# Check output
+1773013195007:print(northeast_birds)
+1773013195018:ggplot(northeast_birds, aes(x = reorder(state, total_observed),
+1773013195018:y = total_observed, fill = total_observed)) +
+1773013195018:geom_col(width = 0.6) +
+1773013195019:geom_text(aes(label = scales::comma(total_observed)),    # ← formatted numbers on bars
+1773013195019:hjust = -0.1, size = 3.5, fontface = "bold") +
+1773013195019:scale_fill_gradient(low = "lightblue", high = "darkblue") +
+1773013195019:scale_y_continuous(
+1773013195019:labels = scales::comma,
+1773013195019:expand = expansion(mult = c(0, 0.2))                   # ← room for labels on right
+1773013195019:) +
+1773013195019:coord_flip() +                                           # ← horizontal bars, easier to read state names
+1773013195019:labs(
+1773013195020:title = "Total Bird Observations by State in the Northeast",
+1773013195020:subtitle = "FeederWatch data since 1988",
+1773013195020:x = "",
+1773013195020:y = "Total Birds Observed"
+1773013195020:) +
+1773013195020:theme_minimal() +
+1773013195020:theme(
+1773013195020:legend.position = "none",
+1773013195021:axis.text.y = element_text(size = 11, face = "bold"),
+1773013195021:plot.title = element_text(face = "bold")
+1773013195021:)
+1773013259196:# Define Northeast states
+1773013259196:northeast_states <- c("US-NY", "US-NJ", "US-CT", "US-MA", "US-PA",
+1773013259196:"US-VT", "US-NH", "US-ME", "US-RI")
+1773013259197:# Pull and summarise observations by state
+1773013259197:northeast_birds <- map_dfr(birddataset, ~ .x |>
+1773013259197:filter(SUBNATIONAL1_CODE %in% northeast_states) |>
+1773013259197:select(SUBNATIONAL1_CODE, HOW_MANY) |>
+1773013259197:collect()
+1773013259197:) |>
+1773013259197:filter(!is.na(HOW_MANY)) |>
+1773013259198:group_by(SUBNATIONAL1_CODE) |>
+1773013259198:summarise(total_observed = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773013259198:mutate(
+1773013259198:state = recode(SUBNATIONAL1_CODE,                      # ← convert codes to full names
+1773013259198:"US-NY" = "New York",
+1773013259198:"US-NJ" = "New Jersey",
+1773013259198:"US-CT" = "Connecticut",
+1773013259198:"US-MA" = "Massachusetts",
+1773013259199:"US-VT" = "Vermont",
+1773013259199:"US-NH" = "New Hampshire",
+1773013259199:"US-ME" = "Maine",
+1773013259199:"US-RI" = "Rhode Island"
+1773013259199:)
+1773013259199:) |>
+1773013259199:arrange(desc(total_observed))
+1773013464327:# Question 3
+1773013464328:# How has bird species diversity changed over time?
+1773013464328:# Define Northeast states (excluding NY, NJ, PA)
+1773013464328:northeast_states <- c("US-CT", "US-MA", "US-VT", "US-NH", "US-ME", "US-RI")
+1773013464329:# Pull and summarise observations by state
+1773013464329:northeast_birds <- map_dfr(birddataset, ~ .x |>
+1773013464329:filter(SUBNATIONAL1_CODE %in% northeast_states) |>
+1773013464329:select(SUBNATIONAL1_CODE, HOW_MANY) |>
+1773013464330:collect()
+1773013464330:) |>
+1773013464330:filter(!is.na(HOW_MANY)) |>
+1773013464330:group_by(SUBNATIONAL1_CODE) |>
+1773013464330:summarise(total_observed = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773013464330:mutate(
+1773013464331:state = recode(SUBNATIONAL1_CODE,
+1773013464331:"US-CT" = "Connecticut",
+1773013464331:"US-MA" = "Massachusetts",
+1773013464331:"US-VT" = "Vermont",
+1773013464331:"US-NH" = "New Hampshire",
+1773013464332:"US-ME" = "Maine",
+1773013464332:"US-RI" = "Rhode Island"
+1773013464332:)
+1773013464332:) |>
+1773013464332:arrange(desc(total_observed))
+1773013472771:#Graphing Bird Population Patterns
+1773013472771:library(tidyverse)
+1773013472771:library(arrow)
+1773013472771:library(ggplot2)
+1773013472772:#Connect to FeederWatch datasets
+1773013472772:birddataset <- list(
+1773013472772:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773013472772:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773013472772:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773013472772:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773013472772:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773013472772:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773013472772:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773013472773:)
+1773013479403:# Question 3
+1773013479403:# How has bird species diversity changed over time?
+1773013479404:# Define Northeast states (excluding NY, NJ, PA)
+1773013479404:northeast_states <- c("US-CT", "US-MA", "US-VT", "US-NH", "US-ME", "US-RI")
+1773013479404:# Pull and summarise observations by state
+1773013479404:northeast_birds <- map_dfr(birddataset, ~ .x |>
+1773013479404:filter(SUBNATIONAL1_CODE %in% northeast_states) |>
+1773013479404:select(SUBNATIONAL1_CODE, HOW_MANY) |>
+1773013479404:collect()
+1773013479404:) |>
+1773013479405:filter(!is.na(HOW_MANY)) |>
+1773013479405:group_by(SUBNATIONAL1_CODE) |>
+1773013479405:summarise(total_observed = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773013479405:mutate(
+1773013479405:state = recode(SUBNATIONAL1_CODE,
+1773013479405:"US-CT" = "Connecticut",
+1773013479405:"US-MA" = "Massachusetts",
+1773013479405:"US-VT" = "Vermont",
+1773013479405:"US-NH" = "New Hampshire",
+1773013479405:"US-ME" = "Maine",
+1773013479406:"US-RI" = "Rhode Island"
+1773013479406:)
+1773013479406:) |>
+1773013479406:arrange(desc(total_observed))
+1773013493332:# Check output
+1773013493332:print(northeast_birds)
+1773013521519:ggplot(northeast_birds, aes(x = reorder(state, total_observed),
+1773013521519:y = total_observed, fill = total_observed)) +
+1773013521519:geom_col(width = 0.6) +
+1773013521519:geom_text(aes(label = scales::comma(total_observed)),    # ← formatted numbers on bars
+1773013521519:hjust = -0.1, size = 3.5, fontface = "bold") +
+1773013521519:scale_fill_gradient(low = "lightblue", high = "darkblue") +
+1773013521520:scale_y_continuous(
+1773013521520:labels = scales::comma,
+1773013521520:expand = expansion(mult = c(0, 0.2))
+1773013521520:) +
+1773013521520:coord_flip() +
+1773013521520:labs(
+1773013521521:title = "Total Bird Observations in New England",
+1773013521521:subtitle = "FeederWatch data since 1988",
+1773013521521:x = "",
+1773013521521:y = "Total Birds Observed"
+1773013521521:) +
+1773013521521:theme_minimal() +
+1773013521521:theme(
+1773013521522:legend.position = "none",
+1773013521522:axis.text.y = element_text(size = 11, face = "bold"),
+1773013521522:plot.title = element_text(face = "bold")
+1773013521522:)
+1773013558010:source("~/Exam 1-Feed/Feedwatch.R")
+1773014054826:source("~/Exam 1-Feed/Feedwatch.R")
+1773062465457:source("~/Exam 1-Feed/Feedwatch.R")
+1773068595126:source("~/Exam 1-Feed/Feedwatch.R")
+1773177312914:library(tidyverse)
+1773177312914:library(arrow)
+1773177312914:library(ggplot2)
+1773177312915:#Connect to FeederWatch datasets
+1773177312915:birddataset <- list(
+1773177312915:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773177312915:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773177312915:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773177312915:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773177312915:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773177312916:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773177312916:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773177312916:)
+1773177313003:#View
+1773177313003:names(birddataset[[1]])
+1773177313004:birddataset[[1]] |>
+1773177313004:head(10) |>
+1773177313004:collect()
+1773177325068:# New England state codes (used in subnational1_code field)
+1773177325069:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773177325069:# Filter for New England, group by 4-year periods, and sum observations
+1773177325069:new_england_obs <- map_dfr(birddataset, function(ds) {
+1773177325069:ds |>
+1773177325069:filter(subnational1_code %in% new_england_states) |>
+1773177325069:select(Year, how_many) |>
+1773177325069:collect()
+1773177325070:}) |>
+1773177325070:# Create 4-year period bins starting from 1988
+1773177325070:mutate(
+1773177325070:period_start = floor((Year - 1988) / 4) * 4 + 1988,
+1773177325070:period_label = paste0(period_start, "–", period_start + 3)
+1773177325070:) |>
+1773177325070:group_by(period_start, period_label) |>
+1773177325070:summarise(total_observations = sum(how_many, na.rm = TRUE), .groups = "drop") |>
+1773177325071:arrange(period_start)
+1773177366552:# New England state codes (used in subnational1_code field)
+1773177366552:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773177366553:# Filter for New England, group by 4-year periods, and sum observations
+1773177366553:new_england_obs <- map_dfr(birddataset, function(ds) {
+1773177366553:ds |>
+1773177366553:filter(SUBNATIONAL1_CODE %in% new_england_states) |>
+1773177366553:select(Year, how_many) |>
+1773177366553:collect()
+1773177366553:}) |>
+1773177366553:# Create 4-year period bins starting from 1988
+1773177366554:mutate(
+1773177366554:period_start = floor((Year - 1988) / 4) * 4 + 1988,
+1773177366554:period_label = paste0(period_start, "–", period_start + 3)
+1773177366554:) |>
+1773177366554:group_by(period_start, period_label) |>
+1773177366554:summarise(total_observations = sum(how_many, na.rm = TRUE), .groups = "drop") |>
+1773177366554:arrange(period_start)
+1773177565427:# New England state codes (used in subnational1_code field)
+1773177565427:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773177565428:# Filter for New England, group by 4-year periods, and sum observations
+1773177565428:new_england_obs <- map_dfr(birddataset, function(ds) {
+1773177565428:ds |>
+1773177565428:filter(SUBNATIONAL1_CODE %in% new_england_states) |>
+1773177565428:select(Year, HOW_MANY) |>
+1773177565428:collect()
+1773177565428:}) |>
+1773177565429:mutate(
+1773177565429:period_start = floor((Year - 1988) / 4) * 4 + 1988,
+1773177565429:period_label = paste0(period_start, "–", period_start + 3)
+1773177565429:) |>
+1773177565429:group_by(period_start, period_label) |>
+1773177565429:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773177565429:arrange(period_start)
+1773177587617:# View summary table
+1773177587617:print(new_england_obs)
+1773177587627:# Plot
+1773177587627:ggplot(new_england_obs, aes(x = reorder(period_label, period_start), y = total_observations)) +
+1773177587628:geom_col(fill = "#2E86AB", color = "white", width = 0.7) +
+1773177587628:geom_text(aes(label = scales::comma(total_observations)),
+1773177587628:vjust = -0.5, size = 3.2, color = "black") +
+1773177587628:scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0, 0.1))) +
+1773177587628:labs(
+1773177587628:title = "Total Bird Observations in New England per 4-Year Period (1988–2024)",
+1773177587628:subtitle = "Source: FeederWatch Dataset | States: CT, MA, ME, NH, RI, VT",
+1773177587628:x = "4-Year Period",
+1773177587629:y = "Total Observations (how_many)"
+1773177587629:) +
+1773177587629:theme_minimal(base_size = 13) +
+1773177587629:theme(
+1773177587629:plot.title = element_text(face = "bold", hjust = 0.5),
+1773177587629:plot.subtitle = element_text(hjust = 0.5, color = "gray50"),
+1773177587629:axis.text.x = element_text(angle = 30, hjust = 1),
+1773177587630:panel.grid.major.x = element_blank()
+1773177587630:)
+1773177700275:#Question 4:
+1773177700275:#Total bird observations in all of New England per 4 years since 1988
+1773177700276:# New England state codes (used in subnational1_code field)
+1773177700276:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773177700276:# Filter for New England, group by 4-year periods, and sum observations
+1773177700276:new_england_obs <- map_dfr(birddataset, function(ds) {
+1773177700276:ds |>
+1773177700276:filter(SUBNATIONAL1_CODE %in% new_england_states) |>
+1773177700277:select(Year, HOW_MANY) |>
+1773177700277:collect()
+1773177700277:}) |>
+1773177700277:mutate(
+1773177700277:period_start = floor((Year - 1988) / 4) * 4 + 1988,
+1773177700277:period_label = paste0(period_start, "–", period_start + 3)
+1773177700277:) |>
+1773177700277:group_by(period_start, period_label) |>
+1773177700277:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773177700278:arrange(period_start)
+1773177721788:# View summary table
+1773177721789:print(new_england_obs)
+1773177721799:# Plot
+1773177721799:ggplot(new_england_obs, aes(x = reorder(period_label, period_start), y = total_observations)) +
+1773177721799:geom_col(fill = "#2E86AB", color = "white", width = 0.7) +
+1773177721800:geom_text(aes(label = scales::comma(total_observations)),
+1773177721800:vjust = -0.5, size = 3.2, color = "black") +
+1773177721800:scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0, 0.1))) +
+1773177721800:labs(
+1773177721800:title = "Total Bird Observations in New England per 4-Year Period (1988–2024)",
+1773177721801:x = "4-Year Period",
+1773177721801:y = "Total Observations (how_many)"
+1773177721801:) +
+1773177721801:theme_minimal(base_size = 13) +
+1773177721801:theme(
+1773177721801:plot.title = element_text(face = "bold", hjust = 0.5),
+1773177721802:axis.text.x = element_text(angle = 30, hjust = 1),
+1773177721802:panel.grid.major.x = element_blank()
+1773177721802:)
+1773177826649:#Question 4:
+1773177826649:#Total bird observations in all of New England per 4 years since 1988
+1773177826650:#New England state codes
+1773177826650:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773177826650:#4 year period grouped together
+1773177826650:new_england_obs <- map_dfr(birddataset, function(ds) {
+1773177826650:ds |>
+1773177826650:filter(SUBNATIONAL1_CODE %in% new_england_states) |>
+1773177826651:select(Year, HOW_MANY) |>
+1773177826651:collect()
+1773177826651:}) |>
+1773177826651:mutate(
+1773177826651:period_start = floor((Year - 1988) / 4) * 4 + 1988,
+1773177826651:period_label = paste0(period_start, "–", period_start + 3)
+1773177826651:) |>
+1773177826652:group_by(period_start, period_label) |>
+1773177826652:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773177826652:arrange(period_start)
+1773177850702:source("~/Exam 1-Feed/Feedwatch.R")
+1773177882416:#Question 4:
+1773177882416:#Total bird observations in all of New England per 4 years since 1988
+1773177882416:#New England state codes
+1773177882416:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773177882416:#4 year period grouped together
+1773177882416:new_england_obs <- map_dfr(birddataset, function(ds) {
+1773177882416:ds |>
+1773177882417:filter(SUBNATIONAL1_CODE %in% new_england_states) |>
+1773177882417:select(Year, HOW_MANY) |>
+1773177882417:collect()
+1773177882417:}) |>
+1773177882417:mutate(
+1773177882417:period_start = floor((Year - 1988) / 4) * 4 + 1988,
+1773177882417:period_label = paste0(period_start, "–", period_start + 3)
+1773177882417:) |>
+1773177882417:group_by(period_start, period_label) |>
+1773177882418:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773177882418:arrange(period_start)
+1773177914667:#Question 4:
+1773177914667:#Total bird observations in all of New England per 4 years since 1988
+1773177914667:#New England state codes
+1773177914667:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773177914668:#4 year period grouped together
+1773177914668:new_england_obs <- map_dfr(birddataset, function(ds) {
+1773177914668:ds |>
+1773177914668:filter(SUBNATIONAL1_CODE %in% new_england_states) |>
+1773177914668:select(Year, HOW_MANY) |>
+1773177914668:collect()
+1773177914668:}) |>
+1773177914668:mutate(
+1773177914668:period_start = floor((Year - 1988) / 4) * 4 + 1988,
+1773177914669:period_label = paste0(period_start, "–", period_start + 3)
+1773177914669:) |>
+1773177914669:group_by(period_start, period_label) |>
+1773177914669:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773177914669:arrange(period_start)
+1773177982606:# Question 4: Total bird observations in all of New England per 4 years since 1988
+1773177982607:# New England state codes
+1773177982607:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773177982607:# 4 year period grouped together
+1773177982607:new_england_obs <- map_dfr(birddataset, function(ds) {
+1773177982607:ds |>
+1773177982607:filter(SUBNATIONAL1_CODE %in% new_england_states) |>
+1773177982608:select(Year, HOW_MANY) |>
+1773177982608:collect()
+1773177982608:}) |>
+1773177982608:mutate(
+1773177982608:period_start = floor((Year - 1988) / 4) * 4 + 1988,
+1773177982608:period_label = paste0(period_start, "–", period_start + 3)
+1773177982608:) |>
+1773177982608:group_by(period_start, period_label) |>
+1773177982609:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773177982609:arrange(period_start)
+1773178017681:library(tidyverse)
+1773178017681:library(arrow)
+1773178017682:library(ggplot2)
+1773178017682:#Connect to FeederWatch datasets
+1773178017682:birddataset <- list(
+1773178017682:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773178017682:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773178017683:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773178017683:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773178017683:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773178017683:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773178017683:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773178017683:)
+1773178017777:#View
+1773178017777:names(birddataset[[1]])
+1773178017778:birddataset[[1]] |>
+1773178017778:head(10) |>
+1773178017779:collect()
+1773178026221:# Question 4: Total bird observations in all of New England per 4 years since 1988
+1773178026222:# New England state codes
+1773178026222:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773178026222:# 4 year period grouped together
+1773178026222:new_england_obs <- map_dfr(birddataset, function(ds) {
+1773178026222:ds |>
+1773178026222:filter(SUBNATIONAL1_CODE %in% new_england_states) |>
+1773178026223:select(Year, HOW_MANY) |>
+1773178026223:collect()
+1773178026223:}) |>
+1773178026223:mutate(
+1773178026223:period_start = floor((Year - 1988) / 4) * 4 + 1988,
+1773178026223:period_label = paste0(period_start, "–", period_start + 3)
+1773178026224:) |>
+1773178026224:group_by(period_start, period_label) |>
+1773178026224:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773178026224:arrange(period_start)
+1773178048453:# View summary
+1773178048453:print(new_england_obs)
+1773178048463:# Line graph
+1773178048463:ggplot(new_england_obs, aes(x = reorder(period_label, period_start), y = total_observations, group = 1)) +
+1773178048463:geom_line(color = "#2E86AB", linewidth = 1.2) +
+1773178048464:geom_point(color = "#2E86AB", size = 3.5) +
+1773178048464:geom_text(aes(label = scales::comma(total_observations)),
+1773178048464:vjust = -1, size = 3.2, color = "black") +
+1773178048464:scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0.05, 0.15))) +
+1773178048464:labs(
+1773178048464:title = "Total Bird Observations in New England per 4 Years since 1988",
+1773178048465:x = "4-Year Period",
+1773178048465:y = "Total Observations"
+1773178048465:) +
+1773178048465:theme_minimal(base_size = 13) +
+1773178048465:theme(
+1773178048465:plot.title = element_text(face = "bold", hjust = 0.5),
+1773178048466:axis.text.x = element_text(angle = 30, hjust = 1),
+1773178048466:panel.grid.major.x = element_blank()
+1773178048466:)
+1773178111699:# New England state codes
+1773178111699:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773178111699:#4 year period grouped together
+1773178111699:new_england_obs <- map_dfr(birddataset, function(ds) {
+1773178111699:ds |>
+1773178111699:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773178111700:Year <= 2023) |>
+1773178111700:select(Year, HOW_MANY) |>
+1773178111700:collect()
+1773178111700:}) |>
+1773178111700:mutate(
+1773178111700:period_start = floor((Year - 1988) / 4) * 4 + 1988,
+1773178111700:period_label = paste0(period_start, "–", period_start + 3)
+1773178111700:) |>
+1773178111700:group_by(period_start, period_label) |>
+1773178111701:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773178111701:arrange(period_start)
+1773178133036:# View summary
+1773178133036:print(new_england_obs)
+1773178133046:# Line graph
+1773178133047:ggplot(new_england_obs, aes(x = reorder(period_label, period_start), y = total_observations, group = 1)) +
+1773178133047:geom_line(color = "#2E86AB", linewidth = 1.2) +
+1773178133047:geom_point(color = "#2E86AB", size = 3.5) +
+1773178133047:geom_text(aes(label = scales::comma(total_observations)),
+1773178133047:vjust = -1, size = 3.2, color = "black") +
+1773178133047:scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0.05, 0.15))) +
+1773178133047:labs(
+1773178133047:title = "Total Bird Observations in New England per 4 Years since 1988",
+1773178133048:x = "4-Year Period",
+1773178133048:y = "Total Observations"
+1773178133048:) +
+1773178133048:theme_minimal(base_size = 13) +
+1773178133048:theme(
+1773178133048:plot.title = element_text(face = "bold", hjust = 0.5),
+1773178133048:axis.text.x = element_text(angle = 30, hjust = 1),
+1773178133049:panel.grid.major.x = element_blank()
+1773178133049:)
+1773178190184:#Question 4: Total bird observations in all of New England per 4 years since 1988
+1773178190184:#New England states from Feedwatch
+1773178190184:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773178190185:#4 year period grouped together
+1773178190185:new_england_obs <- map_dfr(birddataset, function(ds) {
+1773178190185:ds |>
+1773178190185:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773178190185:Year <= 2023) |>
+1773178190185:select(Year, HOW_MANY) |>
+1773178190185:collect()
+1773178190185:}) |>
+1773178190186:mutate(
+1773178190186:period_start = floor((Year - 1988) / 4) * 4 + 1988,
+1773178190186:period_label = paste0(period_start, "–", period_start + 3)
+1773178190186:) |>
+1773178190186:group_by(period_start, period_label) |>
+1773178190186:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773178190186:arrange(period_start)
+1773178211516:# View summary
+1773178211516:print(new_england_obs)
+1773178211526:# Line graph
+1773178211526:ggplot(new_england_obs, aes(x = reorder(period_label, period_start), y = total_observations, group = 1)) +
+1773178211526:geom_line(color = "lightblue", linewidth = 1.2) +
+1773178211527:geom_point(color = "lightblue", size = 3.5) +
+1773178211527:geom_text(aes(label = scales::comma(total_observations)),
+1773178211527:vjust = -1, size = 3.2, color = "black") +
+1773178211527:scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0.05, 0.15))) +
+1773178211527:labs(
+1773178211527:title = "Total Bird Observations in New England per 4 Years since 1988",
+1773178211527:x = "4-Year Period",
+1773178211527:y = "Total Observations"
+1773178211527:) +
+1773178211528:theme_minimal(base_size = 13) +
+1773178211528:theme(
+1773178211528:plot.title = element_text(face = "bold", hjust = 0.5),
+1773178211528:axis.text.x = element_text(angle = 30, hjust = 1),
+1773178211528:panel.grid.major.x = element_blank()
+1773178211528:)
+1773178514439:#Question 1: Top 10 most common bird sightings in New England
+1773178514439:#Load species name lookup
+1773178514440:species_codes <- read_csv("~/../shared/feederwatch/PFW_spp_translation_table_May2024_Public.csv")
+1773178527113:#Julia Frost
+1773178527113:#FeederWatch Data Analysis
+1773178527113:#Graphing Bird Population Patterns
+1773178527114:library(tidyverse)
+1773178527114:library(arrow)
+1773178527114:library(ggplot2)
+1773178527115:#Connect to FeederWatch datasets
+1773178527115:birddataset <- list(
+1773178527115:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773178527115:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773178527115:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773178527115:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773178527116:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773178527116:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773178527116:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773178527116:)
+1773178527179:#View
+1773178527179:names(birddataset[[1]])
+1773178527180:birddataset[[1]] |>
+1773178527180:head(10) |>
+1773178527180:collect()
+1773178542441:#Question 1: Top 10 most common bird sightings in New England
+1773178542441:#Load species name lookup
+1773178542441:species_codes <- read_csv("~/../shared/feederwatch/PFW_spp_translation_table_May2024_Public.csv")
+1773178576571:# Filter New England and sum observations per species
+1773178576571:top10_birds <- map_dfr(birddataset, function(ds) {
+1773178576571:ds |>
+1773178576571:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773178576572:Year <= 2023) |>
+1773178576572:select(SPECIES_CODE, HOW_MANY) |>
+1773178576572:collect()
+1773178576572:}) |>
+1773178576572:group_by(SPECIES_CODE) |>
+1773178576572:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773178576572:arrange(desc(total_observations)) |>
+1773178576573:slice_head(n = 10) |>
+1773178576573:# Join to get common species names
+1773178576573:left_join(species_codes, by = c("SPECIES_CODE" = "SPECIES_CODE")) |>
+1773178576573:mutate(common_name = coalesce(american_english_name, SPECIES_CODE)) # fallback to code if name missing
+1773178614657:colnames(birddataset)
+1773178630282:#View
+1773178630282:names(birddataset[[1]])
+1773178694729:#Question 1: Top 10 most common bird sightings in New England
+1773178694730:#Filter New England and sum observations per species
+1773178694730:top10_birds <- map_dfr(birddataset, function(ds) {
+1773178694730:ds |>
+1773178694730:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773178694730:Year <= 2023) |>
+1773178694730:select(SPECIES_CODE, HOW_MANY) |>
+1773178694730:collect()
+1773178694730:}) |>
+1773178694731:group_by(SPECIES_CODE) |>
+1773178694731:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773178694731:arrange(desc(total_observations)) |>
+1773178694731:slice_head(n = 10) |>
+1773178694731:# Join to get common species names
+1773178694731:left_join(species_codes, by = c("SPECIES_CODE" = "SPECIES_CODE")) |>
+1773178694731:# View table
+1773178694731:print(top10_birds)
+1773178741943:#View
+1773178741943:names(birddataset[[1]])
+1773178911037:northeast_states <- c("US-CT", "US-MA", "US-VT", "US-NH", "US-ME", "US-RI")
+1773178911037:top10_birds <- map_dfr(birddataset, function(ds) {
+1773178911038:ds |>
+1773178911038:filter(SUBNATIONAL1_CODE %in% northeast_states,
+1773178911038:Year <= 2023) |>
+1773178911038:select(SPECIES_CODE, HOW_MANY) |>
+1773178911038:collect()
+1773178911038:}) |>
+1773178911038:group_by(SPECIES_CODE) |>
+1773178911038:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773178911039:arrange(desc(total_observations)) |>
+1773178911039:slice_head(n = 10)
+1773178926544:print(top10_birds)
+1773178926553:ggplot(top10_birds, aes(x = reorder(SPECIES_CODE, total_observations), y = total_observations)) +
+1773178926553:geom_col(fill = "#2E86AB", width = 0.7) +
+1773178926553:geom_text(aes(label = scales::comma(total_observations)),
+1773178926553:hjust = -0.1, size = 3.2, color = "black") +
+1773178926553:scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0, 0.15))) +
+1773178926553:coord_flip() +
+1773178926553:labs(
+1773178926553:title = "Top 10 Most Common Bird Sightings in New England (1988–2023)",
+1773178926554:x = NULL,
+1773178926554:y = "Total Observations"
+1773178926554:) +
+1773178926554:theme_minimal(base_size = 13) +
+1773178926554:theme(
+1773178926554:plot.title = element_text(face = "bold", hjust = 0.5),
+1773178926554:panel.grid.major.y = element_blank()
+1773178926554:)
+1773178995627:ggplot(top10_birds, aes(x = reorder(SPECIES_CODE, total_observations), y = total_observations)) +
+1773178995627:geom_col(fill = "darkblue", width = 0.7) +
+1773178995627:geom_text(aes(label = scales::comma(total_observations)),
+1773178995627:vjust = -0.5, size = 3.2, color = "black") +
+1773178995627:scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0, 0.15))) +
+1773178995627:labs(
+1773178995628:title = "Top 10 Most Common Bird Sightings in New England (1988–2023)",
+1773178995628:x = NULL,
+1773178995628:y = "Total Observations"
+1773178995628:) +
+1773178995628:theme_minimal(base_size = 13) +
+1773178995628:theme(
+1773178995628:plot.title = element_text(face = "bold", hjust = 0.5),
+1773178995628:panel.grid.major.x = element_blank(),
+1773178995629:axis.text.x = element_text(angle = 30, hjust = 1)
+1773178995629:)
+1773179169352:# View table to confirm species codes
+1773179169353:print(top10_birds)
+1773179340802:# Question 1: Top 10 most common bird sightings in New England
+1773179340802:# New England state codes
+1773179340802:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773179340802:# Filter New England and sum observations per species
+1773179340802:top10_birds <- map_dfr(birddataset, function(ds) {
+1773179340802:ds |>
+1773179340803:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773179340803:Year <= 2023) |>
+1773179340803:select(SPECIES_CODE, HOW_MANY) |>
+1773179340803:collect()
+1773179340803:}) |>
+1773179340803:group_by(SPECIES_CODE) |>
+1773179340803:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773179340803:arrange(desc(total_observations)) |>
+1773179340804:slice_head(n = 10)
+1773179356434:# View table to confirm species codes
+1773179356435:print(top10_birds)
+1773179356445:#Species names
+1773179356445:species_names <- c(
+1773179356445:"amegfi" = "American Goldfinch",
+1773179356445:"blujay" = "Blue Jay",
+1773179356445:"bkcchi" = "Black-capped Chickadee"
+1773179356445:"daejun" = "Dark-eyed Junco",
+1773179378059:# Question 1: Top 10 most common bird sightings in New England
+1773179378059:# New England state codes
+1773179378059:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773179378060:# Filter New England and sum observations per species
+1773179378060:top10_birds <- map_dfr(birddataset, function(ds) {
+1773179378060:ds |>
+1773179378060:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773179378060:Year <= 2023) |>
+1773179378060:select(SPECIES_CODE, HOW_MANY) |>
+1773179378060:collect()
+1773179378060:}) |>
+1773179378061:group_by(SPECIES_CODE) |>
+1773179378061:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773179378061:arrange(desc(total_observations)) |>
+1773179378061:slice_head(n = 10)
+1773179393582:# View table to confirm species codes
+1773179393582:print(top10_birds)
+1773179393611:#Species names
+1773179393611:species_names <- c(
+1773179393611:"amegfi" = "American Goldfinch",
+1773179393612:"blujay" = "Blue Jay",
+1773179393612:"bkcchi" = "Black-capped Chickadee",
+1773179393612:"daejun" = "Dark-eyed Junco",
+1773179393612:"eursta" = "European Starling",
+1773179393612:"houfin" = "House Finch",
+1773179393612:"houspa" = "House Sparrow",
+1773179393612:"mocdov" = "Mourning Dove",
+1773179393612:"norcar" = "Northern Cardinal",
+1773179393612:"tuftit" = "Tufted Titmouse",
+1773179393613:)
+1773179452605:# Question 1: Top 10 most common bird sightings in New England
+1773179452605:# New England state codes
+1773179452606:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773179452606:# Filter New England and sum observations per species
+1773179452606:top10_birds <- map_dfr(birddataset, function(ds) {
+1773179452606:ds |>
+1773179452606:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773179452606:Year <= 2023) |>
+1773179452606:select(SPECIES_CODE, HOW_MANY) |>
+1773179452607:collect()
+1773179452607:}) |>
+1773179452607:group_by(SPECIES_CODE) |>
+1773179452607:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773179452607:arrange(desc(total_observations)) |>
+1773179452607:slice_head(n = 10)
+1773179468131:# View table to confirm species codes
+1773179468132:print(top10_birds)
+1773179468141:#Species names
+1773179468142:species_names <- c(
+1773179468142:"amegfi" = "American Goldfinch",
+1773179468142:"blujay" = "Blue Jay",
+1773179468142:"bkcchi" = "Black-capped Chickadee",
+1773179468142:"daejun" = "Dark-eyed Junco",
+1773179468142:"eursta" = "European Starling",
+1773179468142:"houfin" = "House Finch",
+1773179468142:"houspa" = "House Sparrow",
+1773179468142:"mocdov" = "Mourning Dove",
+1773179468143:"norcar" = "Northern Cardinal",
+1773179468143:"tuftit" = "Tufted Titmouse"
+1773179468143:)
+1773179468143:# Add common names to the dataframe
+1773179468143:top10_birds <- top10_birds |>
+1773179468143:mutate(common_name = recode(SPECIES_CODE, !!!species_names, .default = SPECIES_CODE))
+1773179468146:# Plot
+1773179468146:ggplot(top10_birds, aes(x = reorder(common_name, total_observations), y = total_observations)) +
+1773179468146:geom_col(fill = "#darkblue", width = 0.7) +
+1773179468146:geom_text(aes(label = scales::comma(total_observations)),
+1773179468146:vjust = -0.5, size = 3.2, color = "black") +
+1773179468147:scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0, 0.15))) +
+1773179468147:labs(
+1773179468147:title = "Top 10 Most Common Bird Sightings in New England (1988–2023)",
+1773179468147:x = NULL,
+1773179468147:y = "Total Observations"
+1773179468147:) +
+1773179468147:theme_minimal(base_size = 13) +
+1773179468147:theme(
+1773179468148:plot.title = element_text(face = "bold", hjust = 0.5),
+1773179468148:panel.grid.major.x = element_blank(),
+1773179468148:axis.text.x = element_text(angle = 30, hjust = 1)
+1773179468148:)
+1773179566809:# Question 1: Top 10 most common bird sightings in New England
+1773179566810:# New England state codes
+1773179566810:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773179566810:# Filter New England and sum observations per species
+1773179566810:top10_birds <- map_dfr(birddataset, function(ds) {
+1773179566810:ds |>
+1773179566811:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773179566811:Year <= 2023) |>
+1773179566811:select(SPECIES_CODE, HOW_MANY) |>
+1773179566811:collect()
+1773179566811:}) |>
+1773179566811:group_by(SPECIES_CODE) |>
+1773179566811:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773179566811:arrange(desc(total_observations)) |>
+1773179566811:slice_head(n = 10)
+1773179582573:# View table to confirm species codes
+1773179582573:print(top10_birds)
+1773179582581:#Species names
+1773179582582:species_names <- c(
+1773179582582:"amegfi" = "American Goldfinch",
+1773179582582:"blujay" = "Blue Jay",
+1773179582582:"bkcchi" = "Black-capped Chickadee",
+1773179582582:"daejun" = "Dark-eyed Junco",
+1773179582582:"eursta" = "European Starling",
+1773179582582:"houfin" = "House Finch",
+1773179582582:"houspa" = "House Sparrow",
+1773179582582:"mocdov" = "Mourning Dove",
+1773179582583:"norcar" = "Northern Cardinal",
+1773179582583:"tuftit" = "Tufted Titmouse"
+1773179582583:)
+1773179582583:# Add common names to the dataframe
+1773179582583:top10_birds <- top10_birds |>
+1773179582583:mutate(common_name = recode(SPECIES_CODE, !!!species_names, .default = SPECIES_CODE))
+1773179582586:# Plot
+1773179582586:ggplot(top10_birds, aes(x = reorder(common_name, total_observations), y = total_observations)) +
+1773179582586:geom_col(fill = "#darkblue", width = 0.7) +
+1773179582586:geom_text(aes(label = scales::comma(total_observations)),
+1773179582586:vjust = -0.5, size = 3.2, color = "black") +
+1773179582586:scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0, 0.15))) +
+1773179582586:labs(
+1773179582586:title = "Top 10 Most Common Bird Sightings in New England (1988–2023)",
+1773179582587:x = NULL,
+1773179582587:y = "Total Observations"
+1773179582587:) +
+1773179582587:theme_minimal(base_size = 13) +
+1773179582587:theme(
+1773179582587:plot.title = element_text(face = "bold", hjust = 0.5),
+1773179582587:panel.grid.major.x = element_blank(),
+1773179582587:axis.text.x = element_text(angle = 30, hjust = 1)
+1773179582588:)
+1773179599475:# Question 1: Top 10 most common bird sightings in New England
+1773179599475:# New England state codes
+1773179599476:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773179599476:# Filter New England and sum observations per species
+1773179599476:top10_birds <- map_dfr(birddataset, function(ds) {
+1773179599476:ds |>
+1773179599476:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773179599476:Year <= 2023) |>
+1773179599477:select(SPECIES_CODE, HOW_MANY) |>
+1773179599477:collect()
+1773179599477:}) |>
+1773179599477:group_by(SPECIES_CODE) |>
+1773179599477:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773179599477:arrange(desc(total_observations)) |>
+1773179599477:slice_head(n = 10)
+1773179614983:# View table to confirm species codes
+1773179614983:print(top10_birds)
+1773179614992:#Species names
+1773179614992:species_names <- c(
+1773179614992:"amegfi" = "American Goldfinch",
+1773179614992:"blujay" = "Blue Jay",
+1773179614992:"bkcchi" = "Black-capped Chickadee",
+1773179614993:"daejun" = "Dark-eyed Junco",
+1773179614993:"eursta" = "European Starling",
+1773179614993:"houfin" = "House Finch",
+1773179614993:"houspa" = "House Sparrow",
+1773179614993:"mocdov" = "Mourning Dove",
+1773179614993:"norcar" = "Northern Cardinal",
+1773179614993:"tuftit" = "Tufted Titmouse"
+1773179614993:)
+1773179614994:# Add common names to the dataframe
+1773179614994:top10_birds <- top10_birds |>
+1773179614994:mutate(common_name = recode(SPECIES_CODE, !!!species_names, .default = SPECIES_CODE))
+1773179614996:# Plot
+1773179614996:ggplot(top10_birds, aes(x = reorder(common_name, total_observations), y = total_observations)) +
+1773179614996:geom_col(fill = "darkblue", width = 0.7) +
+1773179614997:geom_text(aes(label = scales::comma(total_observations)),
+1773179614997:vjust = -0.5, size = 3.2, color = "black") +
+1773179614997:scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0, 0.15))) +
+1773179614997:labs(
+1773179614997:title = "Top 10 Most Common Bird Sightings in New England (1988–2023)",
+1773179614997:x = NULL,
+1773179614997:y = "Total Observations"
+1773179614997:) +
+1773179614998:theme_minimal(base_size = 13) +
+1773179614998:theme(
+1773179614998:plot.title = element_text(face = "bold", hjust = 0.5),
+1773179614998:panel.grid.major.x = element_blank(),
+1773179614998:axis.text.x = element_text(angle = 30, hjust = 1)
+1773179614998:)
+1773179658631:# Question 1: Top 10 most common bird sightings in New England
+1773179658631:# New England state codes
+1773179658631:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773179658632:# Filter New England and sum observations per species
+1773179658632:top10_birds <- map_dfr(birddataset, function(ds) {
+1773179658632:ds |>
+1773179658632:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773179658632:Year <= 2024) |>
+1773179658632:select(SPECIES_CODE, HOW_MANY) |>
+1773179658632:collect()
+1773179658632:}) |>
+1773179658633:group_by(SPECIES_CODE) |>
+1773179658633:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773179658633:arrange(desc(total_observations)) |>
+1773179658633:slice_head(n = 10)
+1773179674153:# View table to confirm species codes
+1773179674153:print(top10_birds)
+1773179674162:#Species names
+1773179674162:species_names <- c(
+1773179674162:"amegfi" = "American Goldfinch",
+1773179674162:"blujay" = "Blue Jay",
+1773179674162:"bkcchi" = "Black-capped Chickadee",
+1773179674163:"daejun" = "Dark-eyed Junco",
+1773179674163:"eursta" = "European Starling",
+1773179674163:"houfin" = "House Finch",
+1773179674163:"houspa" = "House Sparrow",
+1773179674163:"moudov" = "Mourning Dove",
+1773179674163:"norcar" = "Northern Cardinal",
+1773179674163:"tuftit" = "Tufted Titmouse"
+1773179674163:)
+1773179674164:# Add common names to the dataframe
+1773179674164:top10_birds <- top10_birds |>
+1773179674164:mutate(common_name = recode(SPECIES_CODE, !!!species_names, .default = SPECIES_CODE))
+1773179674166:# Plot
+1773179674166:ggplot(top10_birds, aes(x = reorder(common_name, total_observations), y = total_observations)) +
+1773179674166:geom_col(fill = "darkblue", width = 0.7) +
+1773179674166:geom_text(aes(label = scales::comma(total_observations)),
+1773179674167:vjust = -0.5, size = 3.2, color = "black") +
+1773179674167:scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0, 0.15))) +
+1773179674167:labs(
+1773179674167:title = "Top 10 Most Common Bird Sightings in New England (1988–2023)",
+1773179674167:x = NULL,
+1773179674167:y = "Total Observations"
+1773179674167:) +
+1773179674168:theme_minimal(base_size = 13) +
+1773179674168:theme(
+1773179674168:plot.title = element_text(face = "bold", hjust = 0.5),
+1773179674168:panel.grid.major.x = element_blank(),
+1773179674168:axis.text.x = element_text(angle = 30, hjust = 1)
+1773179674168:)
+1773179736133:library(tidyverse)
+1773179736134:library(arrow)
+1773179736134:library(ggplot2)
+1773179736134:#Connect to FeederWatch datasets
+1773179736134:birddataset <- list(
+1773179736135:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773179736135:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773179736135:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773179736135:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773179736135:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773179736135:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773179736135:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773179736135:)
+1773179736199:#View
+1773179736199:names(birddataset[[1]])
+1773179736200:birddataset[[1]] |>
+1773179736200:head(10) |>
+1773179736200:collect()
+1773179736252:#Question 1: Top 10 most common bird sightings in New England
+1773179736252:#New England state codes
+1773179736253:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773179736253:#Filter New England and sum observations per species
+1773179736253:top10_birds <- map_dfr(birddataset, function(ds) {
+1773179736253:ds |>
+1773179736253:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773179736253:Year <= 2024) |>
+1773179736253:select(SPECIES_CODE, HOW_MANY) |>
+1773179736254:collect()
+1773179736254:}) |>
+1773179736254:group_by(SPECIES_CODE) |>
+1773179736254:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773179736254:arrange(desc(total_observations)) |>
+1773179736254:slice_head(n = 10)
+1773179752010:# View table to confirm species codes
+1773179752010:print(top10_birds)
+1773179752018:#Species names
+1773179752018:species_names <- c(
+1773179752018:"amegfi" = "American Goldfinch",
+1773179752019:"blujay" = "Blue Jay",
+1773179752019:"bkcchi" = "Black-capped Chickadee",
+1773179752019:"daejun" = "Dark-eyed Junco",
+1773179752019:"eursta" = "European Starling",
+1773179752019:"houfin" = "House Finch",
+1773179752019:"houspa" = "House Sparrow",
+1773179752019:"moudov" = "Mourning Dove",
+1773179752019:"norcar" = "Northern Cardinal",
+1773179752020:"tuftit" = "Tufted Titmouse"
+1773179752020:)
+1773179752020:# Add common names to the dataframe
+1773179752020:top10_birds <- top10_birds |>
+1773179752020:mutate(common_name = recode(SPECIES_CODE, !!!species_names, .default = SPECIES_CODE))
+1773179752022:# Plot
+1773179752023:ggplot(top10_birds, aes(x = reorder(common_name, total_observations), y = total_observations)) +
+1773179752023:geom_col(fill = "darkblue", width = 0.7) +
+1773179752023:geom_text(aes(label = scales::comma(total_observations)),
+1773179752023:vjust = -0.5, size = 3.2, color = "black") +
+1773179752023:scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0, 0.15))) +
+1773179752023:labs(
+1773179752023:title = "Top 10 Most Common Bird Sightings in New England since 1988",
+1773179752023:x = NULL,
+1773179752024:y = "Total Observations"
+1773179752024:) +
+1773179752024:theme_minimal(base_size = 13) +
+1773179752024:theme(
+1773179752024:plot.title = element_text(face = "bold", hjust = 0.5),
+1773179752024:panel.grid.major.x = element_blank(),
+1773179752024:axis.text.x = element_text(angle = 30, hjust = 1)
+1773179752025:)
+1773180119602:#Question 2
+1773180119602:#American Robin winter observations in New England since 1988
+1773180119602:#New England state codes
+1773180119602:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773180119603:robin_winter <- map_dfr(birddataset, function(ds) {
+1773180119603:ds |>
+1773180119603:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773180119603:SPECIES_CODE == "amerob",
+1773180119603:Month %in% c(12, 1, 2),
+1773180119603:Year <= 2023) |>
+1773180119603:select(Year, Month, HOW_MANY) |>
+1773180119603:collect()
+1773180119604:}) |>
+1773180119604:# Assign winter season year (Dec belongs to the next year's winter)
+1773180119604:mutate(
+1773180119604:winter_year = if_else(Month == 12, Year + 1, Year)
+1773180119604:) |>
+1773180119604:group_by(winter_year) |>
+1773180119604:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773180119604:filter(winter_year >= 1989, winter_year <= 2023) |>
+1773180119605:arrange(winter_year)
+1773180135314:# View table
+1773180135314:print(robin_winter)
+1773180135326:# Line graph
+1773180135326:ggplot(robin_winter, aes(x = winter_year, y = total_observations)) +
+1773180135326:geom_line(color = "darkblue", linewidth = 1.2) +
+1773180135326:geom_point(color = "darkblue", size = 3) +
+1773180135326:geom_smooth(method = "lm", se = TRUE, color = "gray40", linetype = "dashed", linewidth = 0.8) +
+1773180135326:scale_x_continuous(breaks = seq(1989, 2023, by = 4)) +
+1773180135327:scale_y_continuous(labels = scales::comma) +
+1773180135327:labs(
+1773180135327:title = "American Robin Winter Observations in New England (1989–2023)",
+1773180135327:subtitle = "Winter = December, January, February | Dashed line shows overall trend",
+1773180135327:x = "Winter Year",
+1773180135327:y = "Total Observations"
+1773180135327:) +
+1773180135327:theme_minimal(base_size = 13) +
+1773180135327:theme(
+1773180135328:plot.title = element_text(face = "bold", hjust = 0.5),
+1773180135328:plot.subtitle = element_text(hjust = 0.5, color = "gray50"),
+1773180135328:panel.grid.minor = element_blank()
+1773180135328:)
+1773180157346:#Question 2
+1773180157346:#American Robin winter observations in New England since 1988
+1773180157346:#New England state codes
+1773180157346:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773180157346:robin_winter <- map_dfr(birddataset, function(ds) {
+1773180157346:ds |>
+1773180157347:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773180157347:SPECIES_CODE == "amerob",
+1773180157347:Month %in% c(12, 1, 2),
+1773180157347:Year <= 2023) |>
+1773180157347:select(Year, Month, HOW_MANY) |>
+1773180157347:collect()
+1773180157347:}) |>
+1773180157347:# Assign winter season year (Dec belongs to the next year's winter)
+1773180157348:mutate(
+1773180157348:winter_year = if_else(Month == 12, Year + 1, Year)
+1773180157348:) |>
+1773180157348:group_by(winter_year) |>
+1773180157348:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773180157348:filter(winter_year >= 1989, winter_year <= 2023) |>
+1773180157348:arrange(winter_year)
+1773180173060:# View table
+1773180173060:print(robin_winter)
+1773180173071:# Line graph
+1773180173071:ggplot(robin_winter, aes(x = winter_year, y = total_observations)) +
+1773180173072:geom_line(color = "darkblue", linewidth = 1.2) +
+1773180173072:geom_point(color = "darkblue", size = 3) +
+1773180173072:geom_smooth(method = "lm", se = TRUE, color = "gray40", linetype = "dashed", linewidth = 0.8) +
+1773180173072:scale_x_continuous(breaks = seq(1989, 2023, by = 4)) +
+1773180173072:scale_y_continuous(labels = scales::comma) +
+1773180173072:labs(
+1773180173072:title = "American Robin Winter Observations in New England (1989–2023)",
+1773180173072:x = "Winter Year",
+1773180173073:y = "Total Observations"
+1773180173073:) +
+1773180173073:theme_minimal(base_size = 13) +
+1773180173073:theme(
+1773180173073:plot.title = element_text(face = "bold", hjust = 0.5),
+1773180173073:panel.grid.minor = element_blank()
+1773180173073:)
+1773180249714:# Linear regression and p-value
+1773180249714:lm_model <- lm(total_observations ~ winter_year, data = robin_winter)
+1773180249715:lm_summary <- summary(lm_model)
+1773180249721:p_value <- lm_summary$coefficients["winter_year", "Pr(>|t|)"]
+1773180249721:r_squared <- lm_summary$r.squared
+1773180249722:# Format p-value label for plot
+1773180249722:p_label <- if_else(
+1773180249722:p_value < 0.001,
+1773180249722:paste0("p < 0.001\nR² = ", round(r_squared, 3)),
+1773180249722:paste0("p = ", round(p_value, 3), "\nR² = ", round(r_squared, 3))
+1773180249722:)
+1773180249723:# Print regression summary
+1773180249723:cat("=== Linear Regression Results ===\n")
+1773180249723:print(lm_summary)
+1773180286713:#Linear regression and p-value
+1773180286714:lm_model <- lm(total_observations ~ winter_year, data = robin_winter)
+1773180286715:lm_summary <- summary(lm_model)
+1773180286715:p_value <- lm_summary$coefficients["winter_year", "Pr(>|t|)"]
+1773180286715:r_squared <- lm_summary$r.squared
+1773180286715:# Print regression summary
+1773180286716:cat("=== Linear Regression Results ===\n")
+1773180286716:print(lm_summary)
+1773180341233:# Test if Robin observations have increased over time
+1773180341234:lm_model <- lm(total_observations ~ winter_year, data = robin_winter)
+1773180341235:# View results
+1773180341235:summary(lm_model)
+1773180650841:source("~/Exam 1-Feed/Feedwatch.R")
+1773186452901:knitr::opts_chunk$set(echo = TRUE)
+1773187475053:library(tidyverse)
+1773187475054:library(arrow)
+1773187475054:library(ggplot2)
+1773187475054:#Connect to FeederWatch datasets
+1773187475054:birddataset <- list(
+1773187475054:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773187475054:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773187475055:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773187475055:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773187475055:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773187475055:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773187475055:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773187475055:)
+1773187475152:#View
+1773187475152:names(birddataset[[1]])
+1773187475153:birddataset[[1]] |>
+1773187475153:head(10) |>
+1773187475153:collect(
+1773187554887:#New England state codes
+1773187554887:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773187554888:#Filter New England and observations per species
+1773187554888:top10_birds <- map_dfr(birddataset, function(ds) {
+1773189087878:---
+1773189087878:title: "Exam1_JuliaFrost"
+1773189089880:source("~/Exam 1-Feed/Feedwatch.R")
+1773189091951:source("~/Exam 1-Feed/Feedwatch.R")
+1773189098963:#Julia Frost
+1773189098963:#FeederWatch Data Analysis
+1773189098963:#Graphing Bird Population Patterns
+1773189098963:library(tidyverse)
+1773189098964:library(arrow)
+1773189098964:library(ggplot2)
+1773189098964:#Connect to FeederWatch datasets
+1773189098964:birddataset <- list(
+1773189098964:open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+1773189098964:open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+1773189098964:open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+1773189098965:open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+1773189098965:open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+1773189098965:open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+1773189098965:open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+1773189098965:)
+1773189099034:#View
+1773189099034:names(birddataset[[1]])
+1773189099035:birddataset[[1]] |>
+1773189099035:head(10) |>
+1773189099035:collect()
+1773189099126:##Question 1: Top 10 most common bird sightings in New England
+1773189099126:#New England state codes
+1773189099126:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773189099126:#Filter New England and observations per species
+1773189099126:top10_birds <- map_dfr(birddataset, function(ds) {
+1773189099126:ds |>
+1773189099126:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773189099127:Year <= 2024) |>
+1773189099127:select(SPECIES_CODE, HOW_MANY) |>
+1773189099127:collect()
+1773189099127:}) |>
+1773189099127:group_by(SPECIES_CODE) |>
+1773189099127:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773189099127:arrange(desc(total_observations)) |>
+1773189099127:slice_head(n = 10)
+1773189114999:#Print top 10 most common birds
+1773189114999:print(top10_birds)
+1773189115008:#Species names
+1773189115008:species_names <- c(
+1773189115008:"amegfi" = "American Goldfinch",
+1773189115008:"blujay" = "Blue Jay",
+1773189115008:"bkcchi" = "Black-capped Chickadee",
+1773189115008:"daejun" = "Dark-eyed Junco",
+1773189115008:"eursta" = "European Starling",
+1773189115008:"houfin" = "House Finch",
+1773189115008:"houspa" = "House Sparrow",
+1773189115009:"moudov" = "Mourning Dove",
+1773189115009:"norcar" = "Northern Cardinal",
+1773189115009:"tuftit" = "Tufted Titmouse"
+1773189115009:)
+1773189115009:#Switch the names to common names
+1773189115009:top10_birds <- top10_birds |>
+1773189115009:mutate(common_name = recode(SPECIES_CODE, !!!species_names, .default = SPECIES_CODE))
+1773189115012:#Plot
+1773189115012:ggplot(top10_birds, aes(x = reorder(common_name, total_observations), y = total_observations)) +
+1773189115012:geom_col(fill = "darkblue", width = 0.7) +
+1773189115013:geom_text(aes(label = scales::comma(total_observations)),
+1773189115013:vjust = -0.5, size = 3.2, color = "black") +
+1773189115013:scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0, 0.15))) +
+1773189115013:labs(
+1773189115013:title = "Top 10 Most Common Bird Sightings in New England since 1988",
+1773189115013:x = NULL,
+1773189115013:y = "Total Observations"
+1773189115013:) +
+1773189115014:theme_minimal(base_size = 13) +
+1773189115014:theme(
+1773189115014:plot.title = element_text(face = "bold", hjust = 0.5),
+1773189115014:panel.grid.major.x = element_blank(),
+1773189115014:axis.text.x = element_text(angle = 30, hjust = 1)
+1773189115014:)
+1773189115241:#Test if bird observations have increased over time
+1773189115241:lm_model <- lm(total_observations ~ SPECIES_CODE, data = top10_birds)
+1773189115244:#Significance results
+1773189115244:summary(lm_model)
+1773189159136:ggplot(top10_birds, aes(x = reorder(common_name, total_observations), y = total_observations)) +
+1773189159136:geom_col(fill = "darkblue", width = 0.7) +
+1773189159136:geom_text(aes(label = scales::comma(total_observations)),
+1773189159136:vjust = -0.5, size = 3.2, color = "black") +
+1773189159136:scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0, 0.15))) +
+1773189159136:labs(
+1773189159137:title = "Top 10 Most Common Bird Sightings in New England since 1988",
+1773189159137:x = NULL,
+1773189159137:y = "Total Observations"
+1773189159137:) +
+1773189159137:theme_minimal(base_size = 10) +
+1773189159137:theme(
+1773189159137:plot.title = element_text(face = "bold", hjust = 0.5),
+1773189159137:panel.grid.major.x = element_blank(),
+1773189159138:axis.text.x = element_text(angle = 30, hjust = 1)
+1773189159138:)
+1773189197515:#Test if bird observations have increased over time
+1773189197515:lm_model <- lm(total_observations ~ SPECIES_CODE, data = top10_birds)
+1773189197517:#Significance results
+1773189197517:summary(lm_model)
+1773189208945:#Question 2
+1773189208945:#American Robin winter observations in New England since 1988
+1773189208945:#New England state codes
+1773189208945:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773189208945:robin_winter <- map_dfr(birddataset, function(ds) {
+1773189208946:ds |>
+1773189208946:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773189208946:SPECIES_CODE == "amerob",
+1773189208946:Month %in% c(12, 1, 2),
+1773189208946:Year <= 2023) |>
+1773189208946:select(Year, Month, HOW_MANY) |>
+1773189208946:collect()
+1773189208946:}) |>
+1773189208946:#Assign winter season year
+1773189208947:mutate(
+1773189208947:winter_year = if_else(Month == 12, Year + 1, Year)
+1773189208947:) |>
+1773189208947:group_by(winter_year) |>
+1773189208947:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773189208947:filter(winter_year >= 1989, winter_year <= 2023) |>
+1773189208947:arrange(winter_year)
+1773189224673:# View table
+1773189224673:print(robin_winter)
+1773189224684:# Line graph
+1773189224684:ggplot(robin_winter, aes(x = winter_year, y = total_observations)) +
+1773189224685:geom_line(color = "darkblue", linewidth = 1.2) +
+1773189224685:geom_point(color = "darkblue", size = 3) +
+1773189224685:geom_smooth(method = "lm", se = TRUE, color = "gray40", linetype = "dashed", linewidth = 0.8) +
+1773189224685:scale_x_continuous(breaks = seq(1989, 2023, by = 4)) +
+1773189224685:scale_y_continuous(labels = scales::comma) +
+1773189224685:labs(
+1773189224685:title = "American Robin Winter Observations in New England (1989–2023)",
+1773189224685:x = "Winter Year",
+1773189224685:y = "Total Observations"
+1773189224686:) +
+1773189224686:theme_minimal(base_size = 10) +
+1773189224686:theme(
+1773189224686:plot.title = element_text(face = "bold", hjust = 0.5),
+1773189224686:panel.grid.minor = element_blank()
+1773189224686:)
+1773189225678:#Test if Robin observations have increased over time
+1773189225679:lm_model <- lm(total_observations ~ winter_year, data = robin_winter)
+1773189225680:#Significances results
+1773189225680:summary(lm_model)
+1773189225683:#Test if Robin observations have increased over time
+1773189225684:lm_model <- lm(total_observations ~ winter_year, data = robin_winter)
+1773189225685:#Significances results
+1773189225685:summary(lm_model)
+1773189257310:##Question 3
+1773189257310:#Which state in the northeast has the most bird observations
+1773189257311:northeast_states <- c("US-CT", "US-MA", "US-VT", "US-NH", "US-ME", "US-RI")
+1773189257311:# Pull and summarise observations by state
+1773189257311:northeast_birds <- map_dfr(birddataset, ~ .x |>
+1773189257311:filter(SUBNATIONAL1_CODE %in% northeast_states) |>
+1773189257311:select(SUBNATIONAL1_CODE, HOW_MANY) |>
+1773189257311:collect()
+1773189257312:) |>
+1773189257312:filter(!is.na(HOW_MANY)) |>
+1773189257312:group_by(SUBNATIONAL1_CODE) |>
+1773189257312:summarise(total_observed = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773189257312:mutate(
+1773189257312:state = recode(SUBNATIONAL1_CODE,
+1773189257312:"US-CT" = "Connecticut",
+1773189257312:"US-MA" = "Massachusetts",
+1773189257312:"US-VT" = "Vermont",
+1773189257313:"US-NH" = "New Hampshire",
+1773189257313:"US-ME" = "Maine",
+1773189257313:"US-RI" = "Rhode Island"
+1773189257313:)
+1773189257313:) |>
+1773189257313:arrange(desc(total_observed))
+1773189272098:#Check output
+1773189272099:print(northeast_birds)
+1773189272108:ggplot(northeast_birds, aes(x = reorder(state, total_observed),
+1773189272108:y = total_observed, fill = total_observed)) +
+1773189272108:geom_col(width = 0.6) +
+1773189272109:geom_text(aes(label = scales::comma(total_observed)),    # ← formatted numbers on bars
+1773189272109:hjust = -0.1, size = 3.5, fontface = "bold") +
+1773189272109:scale_fill_gradient(low = "lightblue", high = "darkblue") +
+1773189272109:scale_y_continuous(
+1773189272109:labels = scales::comma,
+1773189272109:expand = expansion(mult = c(0, 0.2))
+1773189272109:) +
+1773189272109:coord_flip() +
+1773189272109:labs(
+1773189272110:title = "Total Bird Observations in New England",
+1773189272110:subtitle = "FeederWatch data since 1988",
+1773189272110:x = "",
+1773189272110:y = "Total Birds Observed"
+1773189272110:) +
+1773189272110:theme_minimal() +
+1773189272110:theme(
+1773189272110:legend.position = "none",
+1773189272111:axis.text.y = element_text(size = 11, face = "bold"),
+1773189272111:plot.title = element_text(face = "bold")
+1773189272111:)
+1773189272312:#Test if bird observations differ by state
+1773189272312:lm_model <- lm(total_observed ~ state, data = northeast_birds)
+1773189272313:#Significance results
+1773189272313:summary(lm_model)
+1773189281322:##Question 4: Total bird observations in all of New England per 4 years since 1988
+1773189281322:#New England states from Feederwatch
+1773189281323:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773189281323:#4 year period grouped together
+1773189281323:new_england_obs <- map_dfr(birddataset, function(ds) {
+1773189281323:ds |>
+1773189281323:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773189281323:Year <= 2023) |>
+1773189281323:select(Year, HOW_MANY) |>
+1773189281323:collect()
+1773189281324:}) |>
+1773189281324:mutate(
+1773189281324:period_start = floor((Year - 1988) / 4) * 4 + 1988,
+1773189281324:period_label = paste0(period_start, "–", period_start + 3)
+1773189281324:) |>
+1773189281324:group_by(period_start, period_label) |>
+1773189281324:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773189281324:arrange(period_start)
+1773189302804:# View summary
+1773189302804:print(new_england_obs)
+1773189302814:# Line graph
+1773189302814:ggplot(new_england_obs, aes(x = reorder(period_label, period_start), y = total_observations, group = 1)) +
+1773189302815:geom_line(color = "darkblue", linewidth = 1.2) +
+1773189302815:geom_point(color = "darkblue", size = 3.5) +
+1773189302815:geom_text(aes(label = scales::comma(total_observations)),
+1773189302815:vjust = -1, size = 3.2, color = "black") +
+1773189302815:scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0.05, 0.15))) +
+1773189302815:labs(
+1773189302815:title = "Total Bird Observations in New England per 4 Years since 1988",
+1773189302815:x = "4-Year Period",
+1773189302815:y = "Total Observations"
+1773189302816:) +
+1773189302816:theme_minimal(base_size = 10) +
+1773189302816:theme(
+1773189302816:plot.title = element_text(face = "bold", hjust = 0.5),
+1773189302816:axis.text.x = element_text(angle = 30, hjust = 1),
+1773189302816:panel.grid.major.x = element_blank()
+1773189302816:)
+1773189302999:# Test if bird observations have increased over time
+1773189302999:lm_model <- lm(total_observations ~ period_start, data = new_england_obs)
+1773189303000:# Significance results
+1773189303000:summary(lm_model)
+1773189322449:#Test if bird observations differ by state
+1773189322449:lm_model <- lm(total_observed ~ state, data = northeast_birds)
+1773189322451:#Significance results
+1773189322451:summary(lm_model)
+1773189335518:#Test if bird observations have increased over time
+1773189335518:lm_model <- lm(total_observations ~ SPECIES_CODE, data = top10_birds)
+1773189335520:#Significance results
+1773189335520:summary(lm_model)
+1773189355168:#Test if Robin observations have increased over time
+1773189355168:lm_model <- lm(total_observations ~ winter_year, data = robin_winter)
+1773189355170:#Significances results
+1773189355170:summary(lm_model)
+1773189561302:# Test if bird observations have increased over time
+1773189561302:lm_model <- lm(total_observations ~ period_start, data = new_england_obs)
+1773189561303:# Significance results
+1773189561304:summary(lm_model)
+1773189918997:#Which state in the northeast has the most bird observations
+1773189918997:northeast_states <- c("US-CT", "US-MA", "US-VT", "US-NH", "US-ME", "US-RI")
+1773189918998:# Pull and summarise observations by state
+1773189918998:northeast_birds <- map_dfr(birddataset, ~ .x |>
+1773189918998:filter(SUBNATIONAL1_CODE %in% northeast_states) |>
+1773189918998:select(SUBNATIONAL1_CODE, HOW_MANY) |>
+1773189918998:collect()
+1773189918998:) |>
+1773189918999:filter(!is.na(HOW_MANY)) |>
+1773189918999:group_by(SUBNATIONAL1_CODE) |>
+1773189918999:summarise(total_observed = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773189918999:mutate(
+1773189918999:state = recode(SUBNATIONAL1_CODE,
+1773189918999:"US-CT" = "Connecticut",
+1773189918999:"US-MA" = "Massachusetts",
+1773189918999:"US-VT" = "Vermont",
+1773189919000:"US-NH" = "New Hampshire",
+1773189919000:"US-ME" = "Maine",
+1773189919000:"US-RI" = "Rhode Island"
+1773189919000:)
+1773189919000:) |>
+1773189919000:arrange(desc(total_observed))
+1773189933711:#Check output
+1773189933712:print(northeast_birds)
+1773189933721:ggplot(northeast_birds, aes(x = reorder(state, total_observed),
+1773189933721:y = total_observed, fill = total_observed)) +
+1773189933721:geom_col(width = 0.6) +
+1773189933722:geom_text(aes(label = scales::comma(total_observed)),    # ← formatted numbers on bars
+1773189933722:hjust = -0.1, size = 3.5, fontface = "bold") +
+1773189933722:scale_fill_gradient(low = "lightblue", high = "darkblue") +
+1773189933722:scale_y_continuous(
+1773189933722:labels = scales::comma,
+1773189933722:expand = expansion(mult = c(0, 0.2))
+1773189933722:) +
+1773189933722:coord_flip() +
+1773189933723:labs(
+1773189933723:title = "Total Bird Observations in New England",
+1773189933723:subtitle = "FeederWatch data since 1988",
+1773189933723:x = "",
+1773189933723:y = "Total Birds Observed"
+1773189933723:) +
+1773189933723:theme_minimal() +
+1773189933723:theme(
+1773189933724:legend.position = "none",
+1773189933724:axis.text.y = element_text(size = 11, face = "bold"),
+1773189933724:plot.title = element_text(face = "bold")
+1773189933724:)
+1773189990474:ggplot(northeast_birds, aes(x = reorder(state, total_observed),
+1773189990475:y = total_observed, fill = total_observed)) +
+1773189990475:geom_col(width = 0.6) +
+1773189990475:geom_text(aes(label = scales::comma(total_observed)),    # ← formatted numbers on bars
+1773189990475:hjust = -0.1, size = 3.5, fontface = "bold") +
+1773189990475:scale_fill_gradient(low = "lightblue", high = "darkblue") +
+1773189990475:scale_y_continuous(
+1773189990475:labels = scales::comma,
+1773189990476:expand = expansion(mult = c(0, 0.2))
+1773189990476:) +
+1773189990476:coord_flip() +
+1773189990476:labs(
+1773189990476:title = "Total Bird Observations in New England",
+1773189990476:x = "",
+1773189990476:y = "Total Birds Observed"
+1773189990476:) +
+1773189990476:theme_minimal() +
+1773189990477:theme(
+1773189990477:legend.position = "none",
+1773189990477:axis.text.y = element_text(size = 11, face = "bold"),
+1773189990477:plot.title = element_text(face = "bold")
+1773189990477:)
+1773189990676:##Q
+1773190556538:#Test if Robin observations have increased over time
+1773190556538:lm_model <- lm(total_observations ~ winter_year, data = robin_winter)
+1773190556539:#Significances results
+1773190556539:summary(lm_model)
+1773190759036:#Question 2
+1773190759036:#American Robin winter observations in New England since 1988
+1773190759036:#New England state codes
+1773190759037:new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+1773190759037:robin_winter <- map_dfr(birddataset, function(ds) {
+1773190759037:ds |>
+1773190759037:filter(SUBNATIONAL1_CODE %in% new_england_states,
+1773190759037:SPECIES_CODE == "amerob",
+1773190759037:Month %in% c(12, 1, 2),
+1773190759037:Year <= 2023) |>
+1773190759038:select(Year, Month, HOW_MANY) |>
+1773190759038:collect()
+1773190759038:}) |>
+1773190759038:#Assign winter season year
+1773190759038:mutate(
+1773190759038:winter_year = if_else(Month == 12, Year + 1, Year)
+1773190759038:) |>
+1773190759038:group_by(winter_year) |>
+1773190759039:summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+1773190759039:filter(winter_year >= 1989, winter_year <= 2023) |>
+1773190759039:arrange(winter_year)
+1773190774795:# View table
+1773190774796:print(robin_winter)
+1773190774807:# Line graph
+1773190774807:ggplot(robin_winter, aes(x = winter_year, y = total_observations)) +
+1773190774807:geom_line(color = "darkblue", linewidth = 1.2) +
+1773190774808:geom_point(color = "darkblue", size = 3) +
+1773190774808:geom_smooth(method = "lm", se = TRUE, color = "gray40", linetype = "dashed", linewidth = 0.8) +
+1773190774808:scale_x_continuous(breaks = seq(1989, 2023, by = 4)) +
+1773190774808:scale_y_continuous(labels = scales::comma) +
+1773190774808:labs(
+1773190774808:title = "American Robin Winter Observations in New England (1989–2023)",
+1773190774808:x = "Winter Year",
+1773190774809:y = "Total Observations"
+1773190774809:) +
+1773190774809:theme_minimal(base_size = 10) +
+1773190774809:theme(
+1773190774809:plot.title = element_text(face = "bold", hjust = 0.5),
+1773190774809:panel.grid.minor = element_blank()
+1773190774810:)
+1773190775044:#Test if Robin observations have increased over time
+1773190775044:lm_model <- lm(total_observations ~ winter_year, data = robin_winter)
+1773190775045:#Significances results
+1773190775045:summary(lm_model)
+1773191960528:tinytex::install_tinytex()
+1773242499101:source("~/Term-Practice/Terminalbookscript.R")
+1774623971868:awk -F',' '$1 > 5 {print $0}' ../shared/LittleWomen.txt
+1775154925896:$1#!/usr/bin/env bash
+1775154935611:$1 #!/usr/bin/env bash
+1775154945212:!/usr/bin/env bash
+1775154949563:usr/bin/env bash
+1775156461487:ls ../shared/
+1775156470584:ls ../shared/
+1775156488436:$1#!/usr/bin/env bash
+1775237387645:library(readr)
+1775237387651:rare_birds <- read_csv("rare_birds.csv")
+1775237387836:View(rare_birds)
+1775237919687:ls ../shared/feederwatch
+1775493795190:# list files (optional check)
+1775493795191:ls ../shared/feederwatch
+1775501915362:library(readr)
+1775501915368:rare_birds_yearly <- read_csv("rare_birds_yearly.csv")
+1775501915550:View(rare_birds_yearly)
+1775501937007:library(readr)
+1775501937007:rare_birds <- read_csv("rare_birds.csv")
+1775501937063:View(rare_birds)
+1775517697388:library(readr)
+1775517697395:test_translation <- read_csv("test_translation.csv")
+1775517697599:View(test_translation)
+1775833433089:pwd
+1775833460491:reticulate::repl_python()
+1775833495152:a = 5
+1775833495168:b = 6
+1775833495183:print(a**2 + b**2)
+1775833495187:print(a**2 + b**2)
+1775833495191:a = 5
+1775833495195:b = 6
+1775833495199:print(a**2 + b**2)
+1775833610389:s = We tried list and we tried dicts also we tried Zen
+1775833622962:s = "We tried list and we tried dicts also we tried Zen"
+1775833705136:s = "We tried list and we tried dicts also we tried Zen"
+1775833705141:a = 22
+1775833705145:b = 27
+1775833705149:c = 97
+1775833705153:d = 1-2
+1775833705157:print(s[a:b], s[c:d])
+1775833747261:s = "We tried list and we tried dicts also we tried Zen"
+1775833747265:a = 21
+1775833747269:b = 26
+1775833747273:c = 96
+1775833747277:d = 0-1
+1775833747281:print(s[a:b], s[c:d])
+1776093514419:sequence = 'ATGGATTTTAA'
+1776093514425:substring_counts = {} #keep track of counts of substrings
+1776093514430:#go through substrings one at a time
+1776093514431:for i in range(10): #go through bases one at a time
+1776093514432:substring = sequence[i:i+2] #get substring - base and next
+1776093514432:if substring in substring_counts:
+1776093514433:substring_counts[substring] += 1
+1776093514433:else:
+1776093514434:substring_counts[substring] = 1
+1776093514434:print(substring_counts)
+1776093626308:sequence = 'ATGGATTTTAA'
+1776093626313:substring_counts = {} #keep track of counts of substrings
+1776093626318:#go through substrings one at a time
+1776093626319:for i in range(len(sequence)-1): #go through bases one at a time
+1776093626319:substring = sequence[i:i+2] #get substring - base and next
+1776093626320:if substring in substring_counts:
+1776093626320:substring_counts[substring] += 1
+1776093626321:else:
+1776093626322:substring_counts[substring] = 1
+1776093626322:print(substring_counts)
+1776093628066:sequence = 'ATGGATTTTAA'
+1776093628071:substring_counts = {} #keep track of counts of substrings
+1776093628075:#go through substrings one at a time
+1776093628076:for i in range(len(sequence)-1): #go through bases one at a time
+1776093628077:substring = sequence[i:i+2] #get substring - base and next
+1776093628077:if substring in substring_counts:
+1776093628078:substring_counts[substring] += 1
+1776093628078:else:
+1776093628079:substring_counts[substring] = 1
+1776093628079:print(substring_counts)
+1776093630654:print(substring_counts)
+1776093724638:sequence = 'ATGGATTTTAA'
+1776093724643:substring_counts = {} #keep track of counts of substrings
+1776093724649:size = 2
+1776093724654:#go through substrings one at a time
+1776093724655:for i in range(len(sequence)-1): #go through bases one at a time
+1776093724656:substring = sequence[i:i+size] #get substring - base and additional bases based on size
+1776093724656:if substring in substring_counts:
+1776093724657:substring_counts[substring] += 1
+1776093724657:else:
+1776093724658:substring_counts[substring] = 1
+1776093724658:print(substring_counts)
+1776093873281:sequence = 'ATGGATTTTAA'
+1776093873286:substring_counts = {} #keep track of counts of substrings
+1776093873290:size = 2
+1776093873295:#go through substrings one at a time
+1776093873295:for i in range(len(sequence)-1)): #go through bases one at a time
+1776093873302:substring = sequence[i:i+size] #get substring - base and additional bases based on size
+1776093873306:if substring in substring_counts:
+1776093873306:substring_counts[substring] += 1
+1776093873307:else:
+1776093873327:substring_counts[substring] = 1
+1776093873331:print(substring_counts)
+1776093886938:sequence = 'ATGGATTTTAA'
+1776093886943:substring_counts = {} #keep track of counts of substrings
+1776093886947:size = 3
+1776093886951:#go through substrings one at a time
+1776093886952:for i in range(len(sequence)-1)): #go through bases one at a time
+1776093886958:substring = sequence[i:i+size] #get substring - base and additional bases based on size
+1776093886962:if substring in substring_counts:
+1776093886962:substring_counts[substring] += 1
+1776093886963:else:
+1776093886974:substring_counts[substring] = 1
+1776093886978:print(substring_counts)
+1776093912892:sequence = 'ATGGATTTTAA'
+1776093912897:substring_counts = {} #keep track of counts of substrings
+1776093912901:size = 3
+1776093912906:#go through substrings one at a time
+1776093912907:for i in range(len(sequence)-(size-1)): #go through bases one at a time
+1776093912908:substring = sequence[i:i+size] #get substring - base and additional bases based on size
+1776093912908:if substring in substring_counts:
+1776093912909:substring_counts[substring] += 1
+1776093912910:else:
+1776093912910:substring_counts[substring] = 1
+1776093912911:print(substring_counts)

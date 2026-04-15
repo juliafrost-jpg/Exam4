@@ -1,0 +1,12 @@
+species_code,scientific_name,common_name,year_observed,location_id,latitude,longitude,state
+DOWO,Picoides pubescens,Downy Woodpecker,2023,L013,42.64,-71.34,US-MA
+AMRO,Turdus migratorius,American Robin,2022,L003,42.41,-71.11,US-MA
+EUST,Sturnus vulgaris,European Starling,2021,L014,42.65,-71.35,US-MA
+EUST,Sturnus vulgaris,European Starling,2022,L015,42.66,-71.36,US-MA
+NOCA,Cardinalis cardinalis,Northern Cardinal,2022,L009,42.57,-71.27,US-MA
+NOCA,Cardinalis cardinalis,Northern Cardinal,2023,L020,42.75,-71.45,US-MA
+BCCH,Poecile atricapillus,Black-capped Chickadee,2021,L006,42.50,-71.20,US-MA
+RTHA,Buteo jamaicensis,Red-tailed Hawk,2021,L004,42.70,-71.40,US-MA
+RTHA,Buteo jamaicensis,Red-tailed Hawk,2022,L005,42.71,-71.41,US-MA
+BLJA,cyanocitta cristata,blue Jay,2023,L018,42.69,-71.39,US-MA
+MODO,Zenaida macroura,Mourning Dove,2022,L010,42.60,-71.30,US-MA

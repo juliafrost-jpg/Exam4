@@ -1,0 +1,24 @@
+source("~/Exam 1-Feed/Feedwatch.R")
+source("~/Exam 1-Feed/Feedwatch.R")
+library(tidyverse)
+library(arrow)
+#get a connection to part of the data
+PFW_all_1988_1995 <- open_dataset(
+sources = "~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv",
+format = "csv" )
+PFW_all_1988_1995 |> glimpse()
+#rare birds by month
+PFW_all_1988_1995 |>
+group_by(Year,Month,SPECIES_CODE) |>
+summarise(birds = sum(HOW_MANY)) |>
+filter(birds < 10) |>
+collect()
+view(PFW_all_1988_1995)
+PFW_all_states <- PFW_all_1988_1955 %>% group_by(subnational1_code) %>% summarise(sum_observations = sum(how_many))
+PFW_all_1988_1955 <- %>% group_by(subnational1_code) %>% summarise(sum_observations = sum(how_many))
+PFW_all_1988_1955 <- group_by(subnational1_code) %>% summarise(sum_observations = sum(how_many))
+PFW_all_1988_1955 <- group_by(SUBNATIONAL1_CODE) %>% summarise(sum_observations = sum(how_many))
+PFW_all_1988_1955 <- group_by(subnational1_code) %>% summarise(sum_observations = sum(how_many))
+ls()
+ls(PFW_all_1988_1955)
+source("~/Exam 1-Feed/Feedwatch.R")

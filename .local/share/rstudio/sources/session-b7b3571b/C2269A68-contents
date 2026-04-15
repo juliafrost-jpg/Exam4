@@ -1,0 +1,244 @@
+---
+title: "Exam1_JuliaFrost"
+output: html_document
+date: "2026-03-10"
+---
+
+#Julia Frost
+#FeederWatch Data Analysis
+#Graphing Bird Population Patterns
+
+library(tidyverse)
+library(arrow)
+library(ggplot2)
+
+#Connect to FeederWatch datasets
+birddataset <- list(
+  open_dataset("~/../shared/feederwatch/PFW_all_1988_1995_May2024_Public.csv", format = "csv"),
+  open_dataset("~/../shared/feederwatch/PFW_all_1996_2000_May2024_Public.csv", format = "csv"),
+  open_dataset("~/../shared/feederwatch/PFW_all_2001_2005_May2024_Public.csv", format = "csv"),
+  open_dataset("~/../shared/feederwatch/PFW_all_2006_2010_May2024_Public.csv", format = "csv"),
+  open_dataset("~/../shared/feederwatch/PFW_all_2011_2015_May2024_Public.csv", format = "csv"),
+  open_dataset("~/../shared/feederwatch/PFW_all_2016_2020_May2024_Public.csv", format = "csv"),
+  open_dataset("~/../shared/feederwatch/PFW_all_2021_2024_May2024_Public.csv", format = "csv")
+)
+
+#View 
+names(birddataset[[1]])
+birddataset[[1]] |>
+  head(10) |>
+  collect()
+
+
+##Question 1: Top 10 most common bird sightings in New England
+
+#New England state codes
+new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+
+#Filter New England and observations per species
+top10_birds <- map_dfr(birddataset, function(ds) {
+  ds |>
+    filter(SUBNATIONAL1_CODE %in% new_england_states,
+           Year <= 2024) |>
+    select(SPECIES_CODE, HOW_MANY) |>
+    collect()
+}) |>
+  group_by(SPECIES_CODE) |>
+  summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+  arrange(desc(total_observations)) |>
+  slice_head(n = 10)
+
+#Print top 10 most common birds
+print(top10_birds)
+
+#Species names 
+species_names <- c(
+  "amegfi" = "American Goldfinch",
+  "blujay" = "Blue Jay",
+  "bkcchi" = "Black-capped Chickadee",
+  "daejun" = "Dark-eyed Junco",
+  "eursta" = "European Starling",
+  "houfin" = "House Finch",
+  "houspa" = "House Sparrow",
+  "moudov" = "Mourning Dove",
+  "norcar" = "Northern Cardinal",
+  "tuftit" = "Tufted Titmouse"
+)
+
+#Switch the names to common names
+top10_birds <- top10_birds |>
+  mutate(common_name = recode(SPECIES_CODE, !!!species_names, .default = SPECIES_CODE))
+
+#Plot
+ggplot(top10_birds, aes(x = reorder(common_name, total_observations), y = total_observations)) +
+  geom_col(fill = "darkblue", width = 0.7) +
+  geom_text(aes(label = scales::comma(total_observations)),
+            vjust = -0.5, size = 3.2, color = "black") +
+  scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0, 0.15))) +
+  labs(
+    title = "Top 10 Most Common Bird Sightings in New England since 1988",
+    x = NULL,
+    y = "Total Observations"
+  ) +
+  theme_minimal(base_size = 10) +
+  theme(
+    plot.title = element_text(face = "bold", hjust = 0.5),
+    panel.grid.major.x = element_blank(),
+    axis.text.x = element_text(angle = 30, hjust = 1)
+  )
+
+#Question 2
+#American Robin winter observations in New England since 1988
+
+#New England state codes
+new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+
+robin_winter <- map_dfr(birddataset, function(ds) {
+  ds |>
+    filter(SUBNATIONAL1_CODE %in% new_england_states,
+           SPECIES_CODE == "amerob",
+           Month %in% c(12, 1, 2),
+           Year <= 2023) |>
+    select(Year, Month, HOW_MANY) |>
+    collect()
+}) |>
+  #Assign winter season year
+  mutate(
+    winter_year = if_else(Month == 12, Year + 1, Year)
+  ) |>
+  group_by(winter_year) |>
+  summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+  filter(winter_year >= 1989, winter_year <= 2023) |>
+  arrange(winter_year)
+
+# View table
+print(robin_winter)
+
+# Line graph
+ggplot(robin_winter, aes(x = winter_year, y = total_observations)) +
+  geom_line(color = "darkblue", linewidth = 1.2) +
+  geom_point(color = "darkblue", size = 3) +
+  geom_smooth(method = "lm", se = TRUE, color = "gray40", linetype = "dashed", linewidth = 0.8) +
+  scale_x_continuous(breaks = seq(1989, 2023, by = 4)) +
+  scale_y_continuous(labels = scales::comma) +
+  labs(
+    title = "American Robin Winter Observations in New England (1989–2023)",
+    x = "Winter Year",
+    y = "Total Observations"
+  ) +
+  theme_minimal(base_size = 10) +
+  theme(
+    plot.title = element_text(face = "bold", hjust = 0.5),
+    panel.grid.minor = element_blank()
+  )
+
+#Test if Robin observations have increased over time
+lm_model <- lm(total_observations ~ winter_year, data = robin_winter)
+
+#Significances results  
+summary(lm_model)
+
+##Question 3
+#Which state in the northeast has the most bird observations 
+
+northeast_states <- c("US-CT", "US-MA", "US-VT", "US-NH", "US-ME", "US-RI")
+
+# Pull and summarise observations by state
+northeast_birds <- map_dfr(birddataset, ~ .x |>
+                             filter(SUBNATIONAL1_CODE %in% northeast_states) |>
+                             select(SUBNATIONAL1_CODE, HOW_MANY) |>
+                             collect()
+) |>
+  filter(!is.na(HOW_MANY)) |>
+  group_by(SUBNATIONAL1_CODE) |>
+  summarise(total_observed = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+  mutate(
+    state = recode(SUBNATIONAL1_CODE,
+                   "US-CT" = "Connecticut",
+                   "US-MA" = "Massachusetts",
+                   "US-VT" = "Vermont",
+                   "US-NH" = "New Hampshire",
+                   "US-ME" = "Maine",
+                   "US-RI" = "Rhode Island"
+    )
+  ) |>
+  arrange(desc(total_observed))
+
+#Check output
+print(northeast_birds)
+
+ggplot(northeast_birds, aes(x = reorder(state, total_observed),
+                            y = total_observed, fill = total_observed)) +
+  geom_col(width = 0.6) +
+  geom_text(aes(label = scales::comma(total_observed)),    # ← formatted numbers on bars
+            hjust = -0.1, size = 3.5, fontface = "bold") +
+  scale_fill_gradient(low = "lightblue", high = "darkblue") +
+  scale_y_continuous(
+    labels = scales::comma,
+    expand = expansion(mult = c(0, 0.2))
+  ) +
+  coord_flip() +
+  labs(
+    title = "Total Bird Observations in New England",
+    x = "",
+    y = "Total Birds Observed"
+  ) +
+  theme_minimal() +
+  theme(
+    legend.position = "none",
+    axis.text.y = element_text(size = 11, face = "bold"),
+    plot.title = element_text(face = "bold")
+  )
+
+##Question 4: Total bird observations in all of New England per 4 years since 1988
+
+#New England states from Feederwatch 
+new_england_states <- c("US-CT", "US-MA", "US-ME", "US-NH", "US-RI", "US-VT")
+
+#4 year period grouped together 
+new_england_obs <- map_dfr(birddataset, function(ds) {
+  ds |>
+    filter(SUBNATIONAL1_CODE %in% new_england_states,
+           Year <= 2023) |>
+    select(Year, HOW_MANY) |> 
+    collect()
+}) |>
+  mutate(
+    period_start = floor((Year - 1988) / 4) * 4 + 1988,
+    period_label = paste0(period_start, "–", period_start + 3)
+  ) |>
+  group_by(period_start, period_label) |>
+  summarise(total_observations = sum(HOW_MANY, na.rm = TRUE), .groups = "drop") |>
+  arrange(period_start)
+
+# View summary
+print(new_england_obs)
+
+# Line graph
+ggplot(new_england_obs, aes(x = reorder(period_label, period_start), y = total_observations, group = 1)) +
+  geom_line(color = "darkblue", linewidth = 1.2) +
+  geom_point(color = "darkblue", size = 3.5) +
+  geom_text(aes(label = scales::comma(total_observations)),
+            vjust = -1, size = 3.2, color = "black") +
+  scale_y_continuous(labels = scales::comma, expand = expansion(mult = c(0.05, 0.15))) +
+  labs(
+    title = "Total Bird Observations in New England per 4 Years since 1988",
+    x = "4-Year Period",
+    y = "Total Observations"
+  ) +
+  theme_minimal(base_size = 10) +
+  theme(
+    plot.title = element_text(face = "bold", hjust = 0.5),
+    axis.text.x = element_text(angle = 30, hjust = 1),
+    panel.grid.major.x = element_blank()
+  )
+
+# Test if bird observations have increased over time
+lm_model <- lm(total_observations ~ period_start, data = new_england_obs)
+
+# Significance results
+summary(lm_model)
+
+#Total bird observations in New England were grouped into 4-year periods from
+#1988 to 2023 using FeederWatch data. A linear regression was applied to test 
+#whether total observations significantly changed over time.

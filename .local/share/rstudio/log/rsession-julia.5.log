@@ -1,0 +1,1 @@
+2026-03-25T15:17:51.958827Z [rsession-julia.frost] WARNING Private command disabled, unsupported $HISTCONTROL: [ignoredups]; LOGGED FROM: bool rstudio::core::terminal::PrivateCommand::output(const string&) src/cpp/core/terminal/PrivateCommand.cpp:265
